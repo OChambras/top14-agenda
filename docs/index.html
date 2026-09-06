@@ -1,0 +1,140 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Top 14 2026-2027</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🏉</text></svg>">
+<style>
+  :root {
+    --bg: #f5f4f0; --card: #ffffff; --ink: #1c1c1a; --muted: #6b6a66; --line: #e4e2dc;
+    --brand: #1a5f3f; --brand-ink: #ffffff; --accent: #d9791d; --win: #1a5f3f; --loss: #b2372b; --draw: #8a8781;
+    --q6: #eaf4ee; --top2: #d9ecdf; --rel: #fbeceb;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg: #15161a; --card: #1f2126; --ink: #ecebe6; --muted: #a09e97; --line: #2f323a;
+      --brand: #2f8a5c; --q6: #1d2f26; --top2: #223a2c; --rel: #3a2321; }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--ink); font: 15px/1.45 -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
+  header { background: var(--brand); color: var(--brand-ink); padding: 18px 16px 14px; }
+  header .wrap { max-width: 900px; margin: 0 auto; }
+  h1 { margin: 0 0 4px; font-size: 22px; }
+  header p { margin: 0; opacity: .85; font-size: 13px; }
+  .abo { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; margin-top: 12px; }
+  .btn { display: inline-block; background: #fff; color: var(--brand); font-weight: 600; padding: 8px 14px; border-radius: 8px; text-decoration: none; border: 0; cursor: pointer; font-size: 14px; }
+  .btn.ghost { background: transparent; color: #fff; border: 1px solid rgba(255,255,255,.6); }
+  code.url { background: rgba(0,0,0,.2); padding: 6px 8px; border-radius: 6px; font-size: 12px; word-break: break-all; }
+  main { max-width: 900px; margin: 0 auto; padding: 14px 12px 40px; }
+  nav { display: flex; gap: 6px; margin-bottom: 14px; }
+  nav button { flex: 1; padding: 10px; border-radius: 10px; border: 1px solid var(--line); background: var(--card); color: var(--ink); font-size: 15px; cursor: pointer; }
+  nav button[aria-selected="true"] { background: var(--brand); color: #fff; border-color: var(--brand); }
+  section[hidden] { display: none; }
+  .card { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 12px; margin-bottom: 12px; }
+  table { width: 100%; border-collapse: collapse; font-size: 14px; }
+  th, td { padding: 7px 6px; text-align: right; border-bottom: 1px solid var(--line); white-space: nowrap; }
+  th { color: var(--muted); font-weight: 600; font-size: 12px; text-transform: uppercase; letter-spacing: .03em; }
+  td.team, th.team { text-align: left; }
+  td.team { font-weight: 600; }
+  td.pts { font-weight: 700; }
+  tr.top2 td { background: var(--top2); }
+  tr.q6 td { background: var(--q6); }
+  tr.rel td { background: var(--rel); }
+  .forme span { display: inline-block; width: 16px; height: 16px; line-height: 16px; border-radius: 4px; font-size: 10px; color: #fff; text-align: center; margin-left: 2px; font-weight: 700; }
+  .W { background: var(--win); } .L { background: var(--loss); } .D { background: var(--draw); }
+  .legende { color: var(--muted); font-size: 12px; margin-top: 8px; }
+  .legende i { display: inline-block; width: 12px; height: 12px; border-radius: 3px; vertical-align: -1px; margin-right: 4px; border: 1px solid var(--line); }
+  .journee h2 { font-size: 15px; margin: 0 0 8px; display: flex; justify-content: space-between; color: var(--muted); font-weight: 600; }
+  .match { display: grid; grid-template-columns: 1fr auto 1fr; align-items: center; gap: 8px; padding: 8px 4px; border-top: 1px solid var(--line); }
+  .match:first-of-type { border-top: 0; }
+  .match .d { text-align: right; } .match .e { text-align: left; }
+  .match .s { min-width: 64px; text-align: center; font-weight: 700; font-variant-numeric: tabular-nums; background: var(--bg); border-radius: 8px; padding: 4px 8px; }
+  .match .s.live { background: var(--accent); color: #fff; }
+  .match .meta { grid-column: 1 / -1; font-size: 12px; color: var(--muted); text-align: center; margin-top: -4px; }
+  .win { font-weight: 700; }
+  .maj { color: var(--muted); font-size: 12px; text-align: center; margin-top: 16px; }
+  .overflow { overflow-x: auto; }
+  @media (max-width: 480px) { th.opt, td.opt { display: none; } }
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <h1>🏉 Top 14 2026-2027</h1>
+    <p>Calendrier, résultats et classement, mis à jour automatiquement.</p>
+    <div class="abo">
+      <a class="btn" id="addGoogle" href="#">Ajouter à Google Agenda</a>
+      <button class="btn ghost" id="copyUrl" type="button">Copier l'adresse du calendrier</button>
+      <code class="url" id="icsUrl"></code>
+    </div>
+  </div>
+</header>
+<main>
+  <nav role="tablist">
+    <button role="tab" aria-selected="true" data-tab="classement">Classement</button>
+    <button role="tab" aria-selected="false" data-tab="resultats">Résultats</button>
+    <button role="tab" aria-selected="false" data-tab="calendrier">Calendrier</button>
+  </nav>
+  <section id="classement"><div class="card"><div class="overflow"><table id="tableau"></table></div>
+    <div class="legende"><i style="background:var(--top2)"></i>Demi-finales directes &nbsp; <i style="background:var(--q6)"></i>Barrages &nbsp; <i style="background:var(--rel)"></i>Relégable</div></div></section>
+  <section id="resultats" hidden></section>
+  <section id="calendrier" hidden></section>
+  <p class="maj" id="maj"></p>
+</main>
+<script>
+(async () => {
+  const base = location.href.replace(/[^/]*$/, "");
+  const ics = base + "top14.ics";
+  document.getElementById("icsUrl").textContent = ics;
+  document.getElementById("addGoogle").href = "https://calendar.google.com/calendar/render?cid=" + encodeURIComponent(ics.replace(/^https?:/, "webcal:"));
+  document.getElementById("copyUrl").onclick = async (e) => {
+    try { await navigator.clipboard.writeText(ics); e.target.textContent = "Adresse copiée ✓"; } catch { prompt("Copiez cette adresse :", ics); }
+  };
+  document.querySelectorAll("nav button").forEach((b) => b.onclick = () => {
+    document.querySelectorAll("nav button").forEach((x) => x.setAttribute("aria-selected", x === b));
+    document.querySelectorAll("main > section").forEach((s) => s.hidden = s.id !== b.dataset.tab);
+  });
+
+  let data;
+  try { data = await (await fetch("data.json", { cache: "no-store" })).json(); }
+  catch { document.getElementById("maj").textContent = "Données indisponibles pour le moment."; return; }
+
+  const fmtDate = (iso, heure) => new Date(iso).toLocaleString("fr-FR", heure
+    ? { weekday: "short", day: "numeric", month: "short", hour: "2-digit", minute: "2-digit", timeZone: "Europe/Paris" }
+    : { weekday: "short", day: "numeric", month: "short", timeZone: "Europe/Paris" });
+  const esc = (s) => String(s).replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+
+  // Classement
+  const t = document.getElementById("tableau");
+  t.innerHTML = `<thead><tr><th>#</th><th class="team">Équipe</th><th>Pts</th><th>J</th><th class="opt">G</th><th class="opt">N</th><th class="opt">P</th><th>Diff</th><th class="opt">BO</th><th class="opt">BD</th><th class="opt">Forme</th></tr></thead><tbody>` +
+    data.classement.map((c) => `<tr class="${c.rang <= 2 ? "top2" : c.rang <= 6 ? "q6" : c.rang >= 13 ? "rel" : ""}">
+      <td>${c.rang}</td><td class="team">${esc(c.equipe)}</td><td class="pts">${c.pts}</td><td>${c.j}</td>
+      <td class="opt">${c.g}</td><td class="opt">${c.n}</td><td class="opt">${c.p}</td><td>${c.diff > 0 ? "+" : ""}${c.diff}</td>
+      <td class="opt">${c.bo}</td><td class="opt">${c.bd}</td>
+      <td class="opt forme">${[...c.forme].slice(-5).map((x) => `<span class="${x}">${{ W: "G", L: "P", D: "N" }[x] ?? x}</span>`).join("")}</td></tr>`).join("") + "</tbody>";
+
+  // Matchs par journée
+  const parJournee = new Map();
+  for (const m of data.matchs) { if (!parJournee.has(m.journee)) parJournee.set(m.journee, []); parJournee.get(m.journee).push(m); }
+  const bloc = (j, ms) => `<div class="card journee"><h2><span>Journée ${j}</span><span>${fmtDate(ms[0].date)} → ${fmtDate(ms.at(-1).date)}</span></h2>` +
+    ms.map((m) => {
+      const joue = m.fini || m.enCours;
+      const wd = joue && m.sd > m.se, we = joue && m.se > m.sd;
+      return `<div class="match"><div class="d ${wd ? "win" : ""}">${esc(m.dom)}</div>
+        <div class="s ${m.enCours ? "live" : ""}">${joue ? `${m.sd} - ${m.se}` : m.horaireConnu ? fmtDate(m.date, true).replace(/^.*?, /, "").split(" ").slice(-1) : "—"}</div>
+        <div class="e ${we ? "win" : ""}">${esc(m.ext)}</div>
+        <div class="meta">${m.fini ? "Terminé · " : m.enCours ? "En cours · " : ""}${fmtDate(m.date, m.horaireConnu)}${m.horaireConnu ? "" : " (horaire à confirmer)"}${m.stade ? " · " + esc(m.stade) : ""}</div></div>`;
+    }).join("") + "</div>";
+
+  const journees = [...parJournee.keys()].sort((a, b) => a - b);
+  const jouees = journees.filter((j) => parJournee.get(j).some((m) => m.fini || m.enCours));
+  const aVenir = journees.filter((j) => parJournee.get(j).some((m) => !m.fini));
+  document.getElementById("resultats").innerHTML = jouees.length
+    ? jouees.slice().reverse().map((j) => bloc(j, parJournee.get(j).filter((m) => m.fini || m.enCours))).join("")
+    : `<div class="card">Aucun match joué pour l'instant.</div>`;
+  document.getElementById("calendrier").innerHTML = aVenir.map((j) => bloc(j, parJournee.get(j).filter((m) => !m.fini))).join("");
+  document.getElementById("maj").textContent = "Dernière mise à jour : " + new Date(data.misAJour).toLocaleString("fr-FR", { timeZone: "Europe/Paris" }) + " · source ESPN";
+})();
+</script>
+</body>
+</html>

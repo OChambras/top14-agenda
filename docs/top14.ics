@@ -1,0 +1,2442 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//top14-agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Top 14 2026-2027
+X-WR-TIMEZONE:Europe/Paris
+X-PUBLISHED-TTL:PT3H
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+BEGIN:VEVENT
+UID:top14-604360@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:2
+DTSTART:20260905T170500Z
+DTEND:20260905T190500Z
+SUMMARY:🏉 Bayonne 27 - 26 Toulon
+LOCATION:Stade Jean Dauger\, Bayonne
+DESCRIPTION:Top 14 — Journée 1\nScore final : Bayonne 27 - 26 Toulon\n
+ Stade : Stade Jean Dauger (Bayonne)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604361@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:2
+DTSTART:20260905T170500Z
+DTEND:20260905T190500Z
+SUMMARY:🏉 Castres 29 - 20 Vannes
+LOCATION:Stade Pierre Fabre\, Castres
+DESCRIPTION:Top 14 — Journée 1\nScore final : Castres 29 - 20 Vannes\n
+ Stade : Stade Pierre Fabre (Castres)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604362@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:2
+DTSTART:20260905T170500Z
+DTEND:20260905T190500Z
+SUMMARY:🏉 Lyon 40 - 36 Clermont
+LOCATION:Matmut Stadium de Gerland\, Lyon
+DESCRIPTION:Top 14 — Journée 1\nScore final : Lyon 40 - 36 Clermont\nS
+ tade : Matmut Stadium de Gerland (Lyon)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604363@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:2
+DTSTART:20260905T170500Z
+DTEND:20260905T190500Z
+SUMMARY:🏉 Montpellier 19 - 27 Pau
+LOCATION:Septeo Stadium\, Montpellier
+DESCRIPTION:Top 14 — Journée 1\nScore final : Montpellier 19 - 27 Pau\
+ nStade : Septeo Stadium (Montpellier)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604364@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:2
+DTSTART:20260905T170500Z
+DTEND:20260905T190500Z
+SUMMARY:🏉 Stade Français 28 - 26 Perpignan
+LOCATION:Stade Jean Bouin\, Paris
+DESCRIPTION:Top 14 — Journée 1\nScore final : Stade Français 28 - 26 P
+ erpignan\nStade : Stade Jean Bouin (Paris)\nMis à jour automatiquemen
+ t.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604365@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:2
+DTSTART:20260905T191500Z
+DTEND:20260905T211500Z
+SUMMARY:🏉 Bordeaux-Bègles 64 - 5 Racing 92
+LOCATION:Stade Chaban-Delmas\, Bordeaux
+DESCRIPTION:Top 14 — Journée 1\nScore final : Bordeaux-Bègles 64 - 5 R
+ acing 92\nStade : Stade Chaban-Delmas (Bordeaux)\nMis à jour automati
+ quement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604366@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART:20260906T190500Z
+DTEND:20260906T210500Z
+SUMMARY:🏉 La Rochelle - Stade Toulousain
+LOCATION:Stade Marcel-Deflandre\, La Rochelle
+DESCRIPTION:Top 14 — Journée 1\nCoup d'envoi (heure de Paris dans votr
+ e agenda)\nStade : Stade Marcel-Deflandre (La Rochelle)\nMis à jour a
+ utomatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604367@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART:20260912T143500Z
+DTEND:20260912T163500Z
+SUMMARY:🏉 Perpignan - Castres
+LOCATION:Stade Aime Giral\, Perpignan
+DESCRIPTION:Top 14 — Journée 2\nCoup d'envoi (heure de Paris dans votr
+ e agenda)\nStade : Stade Aime Giral (Perpignan)\nMis à jour automatiq
+ uement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604368@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART:20260912T143500Z
+DTEND:20260912T163500Z
+SUMMARY:🏉 Vannes - Montpellier
+LOCATION:Stade de la Rabine\, Vannes
+DESCRIPTION:Top 14 — Journée 2\nCoup d'envoi (heure de Paris dans votr
+ e agenda)\nStade : Stade de la Rabine (Vannes)\nMis à jour automatiqu
+ ement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604369@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART:20260912T143500Z
+DTEND:20260912T163500Z
+SUMMARY:🏉 Clermont - Stade Français
+LOCATION:Stade Marcel Michelin\, Clermont-Ferrand
+DESCRIPTION:Top 14 — Journée 2\nCoup d'envoi (heure de Paris dans votr
+ e agenda)\nStade : Stade Marcel Michelin (Clermont-Ferrand)\nMis à jo
+ ur automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604370@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART:20260912T143500Z
+DTEND:20260912T163500Z
+SUMMARY:🏉 Pau - Bayonne
+LOCATION:Stade du Hameau\, Pau
+DESCRIPTION:Top 14 — Journée 2\nCoup d'envoi (heure de Paris dans votr
+ e agenda)\nStade : Stade du Hameau (Pau)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604371@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART:20260912T143500Z
+DTEND:20260912T163500Z
+SUMMARY:🏉 Racing 92 - Lyon
+LOCATION:Stade Dominique Duvauchelle\, Creteil
+DESCRIPTION:Top 14 — Journée 2\nCoup d'envoi (heure de Paris dans votr
+ e agenda)\nStade : Stade Dominique Duvauchelle (Creteil)\nMis à jour 
+ automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604372@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART:20260912T190000Z
+DTEND:20260912T210000Z
+SUMMARY:🏉 Toulon - La Rochelle
+LOCATION:Stade Mayol\, Toulon
+DESCRIPTION:Top 14 — Journée 2\nCoup d'envoi (heure de Paris dans votr
+ e agenda)\nStade : Stade Mayol (Toulon)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604373@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART:20260913T190500Z
+DTEND:20260913T210500Z
+SUMMARY:🏉 Stade Toulousain - Bordeaux-Bègles
+LOCATION:Stade Ernest-Wallon\, Toulouse
+DESCRIPTION:Top 14 — Journée 2\nCoup d'envoi (heure de Paris dans votr
+ e agenda)\nStade : Stade Ernest-Wallon (Toulouse)\nMis à jour automat
+ iquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604374@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART:20260919T123000Z
+DTEND:20260919T143000Z
+SUMMARY:🏉 Castres - Toulon
+LOCATION:Stade Pierre Fabre\, Castres
+DESCRIPTION:Top 14 — Journée 3\nCoup d'envoi (heure de Paris dans votr
+ e agenda)\nStade : Stade Pierre Fabre (Castres)\nMis à jour automatiq
+ uement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604375@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART:20260919T143500Z
+DTEND:20260919T163500Z
+SUMMARY:🏉 Bayonne - Clermont
+LOCATION:Stade Jean Dauger\, Bayonne
+DESCRIPTION:Top 14 — Journée 3\nCoup d'envoi (heure de Paris dans votr
+ e agenda)\nStade : Stade Jean Dauger (Bayonne)\nMis à jour automatiqu
+ ement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604376@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART:20260919T143500Z
+DTEND:20260919T163500Z
+SUMMARY:🏉 La Rochelle - Racing 92
+LOCATION:Stade Marcel-Deflandre\, La Rochelle
+DESCRIPTION:Top 14 — Journée 3\nCoup d'envoi (heure de Paris dans votr
+ e agenda)\nStade : Stade Marcel-Deflandre (La Rochelle)\nMis à jour a
+ utomatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604377@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART:20260919T143500Z
+DTEND:20260919T163500Z
+SUMMARY:🏉 Lyon - Pau
+LOCATION:Matmut Stadium de Gerland\, Lyon
+DESCRIPTION:Top 14 — Journée 3\nCoup d'envoi (heure de Paris dans votr
+ e agenda)\nStade : Matmut Stadium de Gerland (Lyon)\nMis à jour autom
+ atiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604378@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART:20260919T143500Z
+DTEND:20260919T163500Z
+SUMMARY:🏉 Montpellier - Perpignan
+LOCATION:Septeo Stadium\, Montpellier
+DESCRIPTION:Top 14 — Journée 3\nCoup d'envoi (heure de Paris dans votr
+ e agenda)\nStade : Septeo Stadium (Montpellier)\nMis à jour automatiq
+ uement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604379@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART:20260919T190000Z
+DTEND:20260919T210000Z
+SUMMARY:🏉 Vannes - Stade Toulousain
+LOCATION:Roazhon Park
+DESCRIPTION:Top 14 — Journée 3\nCoup d'envoi (heure de Paris dans votr
+ e agenda)\nStade : Roazhon Park\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604380@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART:20260920T190500Z
+DTEND:20260920T210500Z
+SUMMARY:🏉 Bordeaux-Bègles - Stade Français
+LOCATION:Stade Chaban-Delmas\, Bordeaux
+DESCRIPTION:Top 14 — Journée 3\nCoup d'envoi (heure de Paris dans votr
+ e agenda)\nStade : Stade Chaban-Delmas (Bordeaux)\nMis à jour automat
+ iquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604381@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART:20260926T123000Z
+DTEND:20260926T143000Z
+SUMMARY:🏉 Perpignan - Bordeaux-Bègles
+LOCATION:Stade Aime Giral\, Perpignan
+DESCRIPTION:Top 14 — Journée 4\nCoup d'envoi (heure de Paris dans votr
+ e agenda)\nStade : Stade Aime Giral (Perpignan)\nMis à jour automatiq
+ uement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604382@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART:20260926T143500Z
+DTEND:20260926T163500Z
+SUMMARY:🏉 Clermont - Castres
+LOCATION:Stade Marcel Michelin\, Clermont-Ferrand
+DESCRIPTION:Top 14 — Journée 4\nCoup d'envoi (heure de Paris dans votr
+ e agenda)\nStade : Stade Marcel Michelin (Clermont-Ferrand)\nMis à jo
+ ur automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604383@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART:20260926T143500Z
+DTEND:20260926T163500Z
+SUMMARY:🏉 Stade Français - Lyon
+LOCATION:Stade Jean Bouin\, Paris
+DESCRIPTION:Top 14 — Journée 4\nCoup d'envoi (heure de Paris dans votr
+ e agenda)\nStade : Stade Jean Bouin (Paris)\nMis à jour automatiqueme
+ nt.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604384@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART:20260926T143500Z
+DTEND:20260926T163500Z
+SUMMARY:🏉 Racing 92 - Bayonne
+LOCATION:Paris La Defense Arena\, Nanterre
+DESCRIPTION:Top 14 — Journée 4\nCoup d'envoi (heure de Paris dans votr
+ e agenda)\nStade : Paris La Defense Arena (Nanterre)\nMis à jour auto
+ matiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604385@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART:20260926T143500Z
+DTEND:20260926T163500Z
+SUMMARY:🏉 Toulon - Vannes
+LOCATION:Stade Mayol\, Toulon
+DESCRIPTION:Top 14 — Journée 4\nCoup d'envoi (heure de Paris dans votr
+ e agenda)\nStade : Stade Mayol (Toulon)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604386@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART:20260926T190000Z
+DTEND:20260926T210000Z
+SUMMARY:🏉 Pau - La Rochelle
+LOCATION:Stade du Hameau\, Pau
+DESCRIPTION:Top 14 — Journée 4\nCoup d'envoi (heure de Paris dans votr
+ e agenda)\nStade : Stade du Hameau (Pau)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604387@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART:20260927T190500Z
+DTEND:20260927T210500Z
+SUMMARY:🏉 Stade Toulousain - Montpellier
+LOCATION:Stade Ernest-Wallon\, Toulouse
+DESCRIPTION:Top 14 — Journée 4\nCoup d'envoi (heure de Paris dans votr
+ e agenda)\nStade : Stade Ernest-Wallon (Toulouse)\nMis à jour automat
+ iquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604388@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART:20261003T123000Z
+DTEND:20261003T143000Z
+SUMMARY:🏉 Bordeaux-Bègles - Lyon
+LOCATION:Stade Chaban-Delmas\, Bordeaux
+DESCRIPTION:Top 14 — Journée 5\nCoup d'envoi (heure de Paris dans votr
+ e agenda)\nStade : Stade Chaban-Delmas (Bordeaux)\nMis à jour automat
+ iquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604389@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART:20261003T143500Z
+DTEND:20261003T163500Z
+SUMMARY:🏉 Bayonne - Stade Français
+LOCATION:Stade Jean Dauger\, Bayonne
+DESCRIPTION:Top 14 — Journée 5\nCoup d'envoi (heure de Paris dans votr
+ e agenda)\nStade : Stade Jean Dauger (Bayonne)\nMis à jour automatiqu
+ ement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604390@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART:20261003T143500Z
+DTEND:20261003T163500Z
+SUMMARY:🏉 Vannes - Pau
+LOCATION:Stade de la Rabine\, Vannes
+DESCRIPTION:Top 14 — Journée 5\nCoup d'envoi (heure de Paris dans votr
+ e agenda)\nStade : Stade de la Rabine (Vannes)\nMis à jour automatiqu
+ ement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604391@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART:20261003T143500Z
+DTEND:20261003T163500Z
+SUMMARY:🏉 La Rochelle - Clermont
+LOCATION:Stade Marcel-Deflandre\, La Rochelle
+DESCRIPTION:Top 14 — Journée 5\nCoup d'envoi (heure de Paris dans votr
+ e agenda)\nStade : Stade Marcel-Deflandre (La Rochelle)\nMis à jour a
+ utomatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604392@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART:20261003T143500Z
+DTEND:20261003T163500Z
+SUMMARY:🏉 Racing 92 - Perpignan
+LOCATION:Paris La Defense Arena\, Nanterre
+DESCRIPTION:Top 14 — Journée 5\nCoup d'envoi (heure de Paris dans votr
+ e agenda)\nStade : Paris La Defense Arena (Nanterre)\nMis à jour auto
+ matiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604394@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART:20261003T190000Z
+DTEND:20261003T210000Z
+SUMMARY:🏉 Castres - Stade Toulousain
+LOCATION:Stade Pierre Fabre\, Castres
+DESCRIPTION:Top 14 — Journée 5\nCoup d'envoi (heure de Paris dans votr
+ e agenda)\nStade : Stade Pierre Fabre (Castres)\nMis à jour automatiq
+ uement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604395@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART:20261004T190500Z
+DTEND:20261004T210500Z
+SUMMARY:🏉 Montpellier - Toulon
+LOCATION:Septeo Stadium\, Montpellier
+DESCRIPTION:Top 14 — Journée 5\nCoup d'envoi (heure de Paris dans votr
+ e agenda)\nStade : Septeo Stadium (Montpellier)\nMis à jour automatiq
+ uement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604396@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:🏉 Perpignan - Vannes
+LOCATION:Stade Aime Giral\, Perpignan
+DESCRIPTION:Top 14 — Journée 6\nHoraire pas encore fixé par la LNR\nSt
+ ade : Stade Aime Giral (Perpignan)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604397@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:🏉 Clermont - Bordeaux-Bègles
+LOCATION:Stade Marcel Michelin\, Clermont-Ferrand
+DESCRIPTION:Top 14 — Journée 6\nHoraire pas encore fixé par la LNR\nSt
+ ade : Stade Marcel Michelin (Clermont-Ferrand)\nMis à jour automatiqu
+ ement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604398@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:🏉 Lyon - La Rochelle
+LOCATION:Matmut Stadium de Gerland\, Lyon
+DESCRIPTION:Top 14 — Journée 6\nHoraire pas encore fixé par la LNR\nSt
+ ade : Matmut Stadium de Gerland (Lyon)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604399@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:🏉 Stade Français - Montpellier
+LOCATION:Stade Jean Bouin\, Paris
+DESCRIPTION:Top 14 — Journée 6\nHoraire pas encore fixé par la LNR\nSt
+ ade : Stade Jean Bouin (Paris)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604400@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:🏉 Pau - Castres
+LOCATION:Stade du Hameau\, Pau
+DESCRIPTION:Top 14 — Journée 6\nHoraire pas encore fixé par la LNR\nSt
+ ade : Stade du Hameau (Pau)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604401@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:🏉 Toulon - Racing 92
+LOCATION:Stade Mayol\, Toulon
+DESCRIPTION:Top 14 — Journée 6\nHoraire pas encore fixé par la LNR\nSt
+ ade : Stade Mayol (Toulon)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604402@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:🏉 Stade Toulousain - Bayonne
+LOCATION:Stade Ernest-Wallon\, Toulouse
+DESCRIPTION:Top 14 — Journée 6\nHoraire pas encore fixé par la LNR\nSt
+ ade : Stade Ernest-Wallon (Toulouse)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604403@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:🏉 Bayonne - Lyon
+LOCATION:Stade Jean Dauger\, Bayonne
+DESCRIPTION:Top 14 — Journée 7\nHoraire pas encore fixé par la LNR\nSt
+ ade : Stade Jean Dauger (Bayonne)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604404@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:🏉 Vannes - Clermont
+LOCATION:Stade de la Rabine\, Vannes
+DESCRIPTION:Top 14 — Journée 7\nHoraire pas encore fixé par la LNR\nSt
+ ade : Stade de la Rabine (Vannes)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604405@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:🏉 Castres - Stade Français
+LOCATION:Stade Pierre Fabre\, Castres
+DESCRIPTION:Top 14 — Journée 7\nHoraire pas encore fixé par la LNR\nSt
+ ade : Stade Pierre Fabre (Castres)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604406@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:🏉 La Rochelle - Bordeaux-Bègles
+LOCATION:Stade Marcel-Deflandre\, La Rochelle
+DESCRIPTION:Top 14 — Journée 7\nHoraire pas encore fixé par la LNR\nSt
+ ade : Stade Marcel-Deflandre (La Rochelle)\nMis à jour automatiquemen
+ t.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604407@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:🏉 Racing 92 - Montpellier
+LOCATION:Paris La Defense Arena\, Nanterre
+DESCRIPTION:Top 14 — Journée 7\nHoraire pas encore fixé par la LNR\nSt
+ ade : Paris La Defense Arena (Nanterre)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604408@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:🏉 Toulon - Pau
+LOCATION:Stade Mayol\, Toulon
+DESCRIPTION:Top 14 — Journée 7\nHoraire pas encore fixé par la LNR\nSt
+ ade : Stade Mayol (Toulon)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604409@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:🏉 Stade Toulousain - Perpignan
+LOCATION:Stade Ernest-Wallon\, Toulouse
+DESCRIPTION:Top 14 — Journée 7\nHoraire pas encore fixé par la LNR\nSt
+ ade : Stade Ernest-Wallon (Toulouse)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604410@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:🏉 Perpignan - Toulon
+LOCATION:Stade Aime Giral\, Perpignan
+DESCRIPTION:Top 14 — Journée 8\nHoraire pas encore fixé par la LNR\nSt
+ ade : Stade Aime Giral (Perpignan)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604411@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:🏉 Bordeaux-Bègles - Bayonne
+LOCATION:Stade Chaban-Delmas\, Bordeaux
+DESCRIPTION:Top 14 — Journée 8\nHoraire pas encore fixé par la LNR\nSt
+ ade : Stade Chaban-Delmas (Bordeaux)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604412@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:🏉 Clermont - Racing 92
+LOCATION:Stade Marcel Michelin\, Clermont-Ferrand
+DESCRIPTION:Top 14 — Journée 8\nHoraire pas encore fixé par la LNR\nSt
+ ade : Stade Marcel Michelin (Clermont-Ferrand)\nMis à jour automatiqu
+ ement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604413@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:🏉 Lyon - Vannes
+LOCATION:Matmut Stadium de Gerland\, Lyon
+DESCRIPTION:Top 14 — Journée 8\nHoraire pas encore fixé par la LNR\nSt
+ ade : Matmut Stadium de Gerland (Lyon)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604414@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:🏉 Montpellier - Castres
+LOCATION:Septeo Stadium\, Montpellier
+DESCRIPTION:Top 14 — Journée 8\nHoraire pas encore fixé par la LNR\nSt
+ ade : Septeo Stadium (Montpellier)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604415@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:🏉 Stade Français - La Rochelle
+LOCATION:Stade Jean Bouin\, Paris
+DESCRIPTION:Top 14 — Journée 8\nHoraire pas encore fixé par la LNR\nSt
+ ade : Stade Jean Bouin (Paris)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604416@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:🏉 Pau - Stade Toulousain
+LOCATION:Stade du Hameau\, Pau
+DESCRIPTION:Top 14 — Journée 8\nHoraire pas encore fixé par la LNR\nSt
+ ade : Stade du Hameau (Pau)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604417@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:🏉 Vannes - Bordeaux-Bègles
+LOCATION:Stade de la Rabine\, Vannes
+DESCRIPTION:Top 14 — Journée 9\nHoraire pas encore fixé par la LNR\nSt
+ ade : Stade de la Rabine (Vannes)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604418@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:🏉 Castres - Racing 92
+LOCATION:Stade Pierre Fabre\, Castres
+DESCRIPTION:Top 14 — Journée 9\nHoraire pas encore fixé par la LNR\nSt
+ ade : Stade Pierre Fabre (Castres)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604419@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:🏉 La Rochelle - Bayonne
+LOCATION:Stade Marcel-Deflandre\, La Rochelle
+DESCRIPTION:Top 14 — Journée 9\nHoraire pas encore fixé par la LNR\nSt
+ ade : Stade Marcel-Deflandre (La Rochelle)\nMis à jour automatiquemen
+ t.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604420@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:🏉 Montpellier - Lyon
+LOCATION:Septeo Stadium\, Montpellier
+DESCRIPTION:Top 14 — Journée 9\nHoraire pas encore fixé par la LNR\nSt
+ ade : Septeo Stadium (Montpellier)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604421@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:🏉 Pau - Perpignan
+LOCATION:Stade du Hameau\, Pau
+DESCRIPTION:Top 14 — Journée 9\nHoraire pas encore fixé par la LNR\nSt
+ ade : Stade du Hameau (Pau)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604422@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:🏉 Toulon - Stade Français
+LOCATION:Stade Mayol\, Toulon
+DESCRIPTION:Top 14 — Journée 9\nHoraire pas encore fixé par la LNR\nSt
+ ade : Stade Mayol (Toulon)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604423@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:🏉 Stade Toulousain - Clermont
+LOCATION:Stade Ernest-Wallon\, Toulouse
+DESCRIPTION:Top 14 — Journée 9\nHoraire pas encore fixé par la LNR\nSt
+ ade : Stade Ernest-Wallon (Toulouse)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604424@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:🏉 Bayonne - Castres
+LOCATION:Stade Jean Dauger\, Bayonne
+DESCRIPTION:Top 14 — Journée 10\nHoraire pas encore fixé par la LNR\nS
+ tade : Stade Jean Dauger (Bayonne)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604425@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:🏉 Bordeaux-Bègles - Montpellier
+LOCATION:Stade Chaban-Delmas\, Bordeaux
+DESCRIPTION:Top 14 — Journée 10\nHoraire pas encore fixé par la LNR\nS
+ tade : Stade Chaban-Delmas (Bordeaux)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604426@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:🏉 Clermont - Toulon
+LOCATION:Stade Marcel Michelin\, Clermont-Ferrand
+DESCRIPTION:Top 14 — Journée 10\nHoraire pas encore fixé par la LNR\nS
+ tade : Stade Marcel Michelin (Clermont-Ferrand)\nMis à jour automatiq
+ uement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604427@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:🏉 La Rochelle - Perpignan
+LOCATION:Stade Marcel-Deflandre\, La Rochelle
+DESCRIPTION:Top 14 — Journée 10\nHoraire pas encore fixé par la LNR\nS
+ tade : Stade Marcel-Deflandre (La Rochelle)\nMis à jour automatiqueme
+ nt.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604428@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:🏉 Lyon - Stade Toulousain
+LOCATION:Matmut Stadium de Gerland\, Lyon
+DESCRIPTION:Top 14 — Journée 10\nHoraire pas encore fixé par la LNR\nS
+ tade : Matmut Stadium de Gerland (Lyon)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604429@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:🏉 Stade Français - Vannes
+LOCATION:Stade Jean Bouin\, Paris
+DESCRIPTION:Top 14 — Journée 10\nHoraire pas encore fixé par la LNR\nS
+ tade : Stade Jean Bouin (Paris)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604430@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:🏉 Racing 92 - Pau
+LOCATION:Paris La Defense Arena\, Nanterre
+DESCRIPTION:Top 14 — Journée 10\nHoraire pas encore fixé par la LNR\nS
+ tade : Paris La Defense Arena (Nanterre)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604431@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:🏉 Perpignan - Clermont
+LOCATION:Stade Aime Giral\, Perpignan
+DESCRIPTION:Top 14 — Journée 11\nHoraire pas encore fixé par la LNR\nS
+ tade : Stade Aime Giral (Perpignan)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604432@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:🏉 Vannes - Bayonne
+LOCATION:Stade de la Rabine\, Vannes
+DESCRIPTION:Top 14 — Journée 11\nHoraire pas encore fixé par la LNR\nS
+ tade : Stade de la Rabine (Vannes)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604433@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:🏉 Castres - Lyon
+LOCATION:Stade Pierre Fabre\, Castres
+DESCRIPTION:Top 14 — Journée 11\nHoraire pas encore fixé par la LNR\nS
+ tade : Stade Pierre Fabre (Castres)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604434@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:🏉 Montpellier - La Rochelle
+LOCATION:Septeo Stadium\, Montpellier
+DESCRIPTION:Top 14 — Journée 11\nHoraire pas encore fixé par la LNR\nS
+ tade : Septeo Stadium (Montpellier)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604435@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:🏉 Pau - Stade Français
+LOCATION:Stade du Hameau\, Pau
+DESCRIPTION:Top 14 — Journée 11\nHoraire pas encore fixé par la LNR\nS
+ tade : Stade du Hameau (Pau)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604436@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:🏉 Toulon - Bordeaux-Bègles
+LOCATION:Stade Mayol\, Toulon
+DESCRIPTION:Top 14 — Journée 11\nHoraire pas encore fixé par la LNR\nS
+ tade : Stade Mayol (Toulon)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604437@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:🏉 Stade Toulousain - Racing 92
+LOCATION:Stade Ernest-Wallon\, Toulouse
+DESCRIPTION:Top 14 — Journée 11\nHoraire pas encore fixé par la LNR\nS
+ tade : Stade Ernest-Wallon (Toulouse)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604438@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:🏉 Bayonne - Perpignan
+LOCATION:Stade Jean Dauger\, Bayonne
+DESCRIPTION:Top 14 — Journée 12\nHoraire pas encore fixé par la LNR\nS
+ tade : Stade Jean Dauger (Bayonne)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604439@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:🏉 Bordeaux-Bègles - Pau
+LOCATION:Stade Chaban-Delmas\, Bordeaux
+DESCRIPTION:Top 14 — Journée 12\nHoraire pas encore fixé par la LNR\nS
+ tade : Stade Chaban-Delmas (Bordeaux)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604440@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:🏉 Clermont - Montpellier
+LOCATION:Stade Marcel Michelin\, Clermont-Ferrand
+DESCRIPTION:Top 14 — Journée 12\nHoraire pas encore fixé par la LNR\nS
+ tade : Stade Marcel Michelin (Clermont-Ferrand)\nMis à jour automatiq
+ uement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604441@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:🏉 La Rochelle - Castres
+LOCATION:Stade Marcel-Deflandre\, La Rochelle
+DESCRIPTION:Top 14 — Journée 12\nHoraire pas encore fixé par la LNR\nS
+ tade : Stade Marcel-Deflandre (La Rochelle)\nMis à jour automatiqueme
+ nt.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604442@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:🏉 Lyon - Toulon
+LOCATION:Matmut Stadium de Gerland\, Lyon
+DESCRIPTION:Top 14 — Journée 12\nHoraire pas encore fixé par la LNR\nS
+ tade : Matmut Stadium de Gerland (Lyon)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604443@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:🏉 Stade Français - Stade Toulousain
+LOCATION:Stade Jean Bouin\, Paris
+DESCRIPTION:Top 14 — Journée 12\nHoraire pas encore fixé par la LNR\nS
+ tade : Stade Jean Bouin (Paris)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604444@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:🏉 Racing 92 - Vannes
+LOCATION:Paris La Defense Arena\, Nanterre
+DESCRIPTION:Top 14 — Journée 12\nHoraire pas encore fixé par la LNR\nS
+ tade : Paris La Defense Arena (Nanterre)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604445@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+SUMMARY:🏉 Perpignan - Lyon
+LOCATION:Stade Aime Giral\, Perpignan
+DESCRIPTION:Top 14 — Journée 13\nHoraire pas encore fixé par la LNR\nS
+ tade : Stade Aime Giral (Perpignan)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604446@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+SUMMARY:🏉 Vannes - La Rochelle
+LOCATION:Stade de la Rabine\, Vannes
+DESCRIPTION:Top 14 — Journée 13\nHoraire pas encore fixé par la LNR\nS
+ tade : Stade de la Rabine (Vannes)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604447@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+SUMMARY:🏉 Castres - Bordeaux-Bègles
+LOCATION:Stade Pierre Fabre\, Castres
+DESCRIPTION:Top 14 — Journée 13\nHoraire pas encore fixé par la LNR\nS
+ tade : Stade Pierre Fabre (Castres)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604448@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+SUMMARY:🏉 Montpellier - Bayonne
+LOCATION:Septeo Stadium\, Montpellier
+DESCRIPTION:Top 14 — Journée 13\nHoraire pas encore fixé par la LNR\nS
+ tade : Septeo Stadium (Montpellier)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604449@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+SUMMARY:🏉 Pau - Clermont
+LOCATION:Stade du Hameau\, Pau
+DESCRIPTION:Top 14 — Journée 13\nHoraire pas encore fixé par la LNR\nS
+ tade : Stade du Hameau (Pau)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604450@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+SUMMARY:🏉 Racing 92 - Stade Français
+LOCATION:Paris La Defense Arena\, Nanterre
+DESCRIPTION:Top 14 — Journée 13\nHoraire pas encore fixé par la LNR\nS
+ tade : Paris La Defense Arena (Nanterre)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604451@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+SUMMARY:🏉 Stade Toulousain - Toulon
+LOCATION:Stade Ernest-Wallon\, Toulouse
+DESCRIPTION:Top 14 — Journée 13\nHoraire pas encore fixé par la LNR\nS
+ tade : Stade Ernest-Wallon (Toulouse)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604452@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:🏉 Bayonne - Stade Toulousain
+LOCATION:Stade Jean Dauger\, Bayonne
+DESCRIPTION:Top 14 — Journée 14\nHoraire pas encore fixé par la LNR\nS
+ tade : Stade Jean Dauger (Bayonne)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604453@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:🏉 Bordeaux-Bègles - Perpignan
+LOCATION:Stade Chaban-Delmas\, Bordeaux
+DESCRIPTION:Top 14 — Journée 14\nHoraire pas encore fixé par la LNR\nS
+ tade : Stade Chaban-Delmas (Bordeaux)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604454@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:🏉 Clermont - Vannes
+LOCATION:Stade Marcel Michelin\, Clermont-Ferrand
+DESCRIPTION:Top 14 — Journée 14\nHoraire pas encore fixé par la LNR\nS
+ tade : Stade Marcel Michelin (Clermont-Ferrand)\nMis à jour automatiq
+ uement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604455@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:🏉 La Rochelle - Pau
+LOCATION:Stade Marcel-Deflandre\, La Rochelle
+DESCRIPTION:Top 14 — Journée 14\nHoraire pas encore fixé par la LNR\nS
+ tade : Stade Marcel-Deflandre (La Rochelle)\nMis à jour automatiqueme
+ nt.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604456@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:🏉 Lyon - Racing 92
+LOCATION:Matmut Stadium de Gerland\, Lyon
+DESCRIPTION:Top 14 — Journée 14\nHoraire pas encore fixé par la LNR\nS
+ tade : Matmut Stadium de Gerland (Lyon)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604457@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:🏉 Stade Français - Castres
+LOCATION:Stade Jean Bouin\, Paris
+DESCRIPTION:Top 14 — Journée 14\nHoraire pas encore fixé par la LNR\nS
+ tade : Stade Jean Bouin (Paris)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604458@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:🏉 Toulon - Montpellier
+LOCATION:Stade Mayol\, Toulon
+DESCRIPTION:Top 14 — Journée 14\nHoraire pas encore fixé par la LNR\nS
+ tade : Stade Mayol (Toulon)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604459@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:🏉 Vannes - Perpignan
+LOCATION:Stade de la Rabine\, Vannes
+DESCRIPTION:Top 14 — Journée 15\nHoraire pas encore fixé par la LNR\nS
+ tade : Stade de la Rabine (Vannes)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604460@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:🏉 Castres - Clermont
+LOCATION:Stade Pierre Fabre\, Castres
+DESCRIPTION:Top 14 — Journée 15\nHoraire pas encore fixé par la LNR\nS
+ tade : Stade Pierre Fabre (Castres)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604461@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:🏉 Montpellier - Stade Français
+LOCATION:Septeo Stadium\, Montpellier
+DESCRIPTION:Top 14 — Journée 15\nHoraire pas encore fixé par la LNR\nS
+ tade : Septeo Stadium (Montpellier)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604462@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:🏉 Pau - Lyon
+LOCATION:Stade du Hameau\, Pau
+DESCRIPTION:Top 14 — Journée 15\nHoraire pas encore fixé par la LNR\nS
+ tade : Stade du Hameau (Pau)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604463@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:🏉 Racing 92 - Bordeaux-Bègles
+LOCATION:Paris La Defense Arena\, Nanterre
+DESCRIPTION:Top 14 — Journée 15\nHoraire pas encore fixé par la LNR\nS
+ tade : Paris La Defense Arena (Nanterre)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604464@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:🏉 Toulon - Bayonne
+LOCATION:Stade Mayol\, Toulon
+DESCRIPTION:Top 14 — Journée 15\nHoraire pas encore fixé par la LNR\nS
+ tade : Stade Mayol (Toulon)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604465@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:🏉 Stade Toulousain - La Rochelle
+LOCATION:Stade Ernest-Wallon\, Toulouse
+DESCRIPTION:Top 14 — Journée 15\nHoraire pas encore fixé par la LNR\nS
+ tade : Stade Ernest-Wallon (Toulouse)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604466@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:🏉 Perpignan - Stade Français
+LOCATION:Stade Aime Giral\, Perpignan
+DESCRIPTION:Top 14 — Journée 16\nHoraire pas encore fixé par la LNR\nS
+ tade : Stade Aime Giral (Perpignan)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604467@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:🏉 Bordeaux-Bègles - Vannes
+LOCATION:Stade Chaban-Delmas\, Bordeaux
+DESCRIPTION:Top 14 — Journée 16\nHoraire pas encore fixé par la LNR\nS
+ tade : Stade Chaban-Delmas (Bordeaux)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604468@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:🏉 Clermont - Stade Toulousain
+LOCATION:Stade Marcel Michelin\, Clermont-Ferrand
+DESCRIPTION:Top 14 — Journée 16\nHoraire pas encore fixé par la LNR\nS
+ tade : Stade Marcel Michelin (Clermont-Ferrand)\nMis à jour automatiq
+ uement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604469@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:🏉 La Rochelle - Toulon
+LOCATION:Stade Marcel-Deflandre\, La Rochelle
+DESCRIPTION:Top 14 — Journée 16\nHoraire pas encore fixé par la LNR\nS
+ tade : Stade Marcel-Deflandre (La Rochelle)\nMis à jour automatiqueme
+ nt.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604470@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:🏉 Lyon - Bayonne
+LOCATION:Matmut Stadium de Gerland\, Lyon
+DESCRIPTION:Top 14 — Journée 16\nHoraire pas encore fixé par la LNR\nS
+ tade : Matmut Stadium de Gerland (Lyon)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604471@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:🏉 Pau - Montpellier
+LOCATION:Stade du Hameau\, Pau
+DESCRIPTION:Top 14 — Journée 16\nHoraire pas encore fixé par la LNR\nS
+ tade : Stade du Hameau (Pau)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604472@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:🏉 Racing 92 - Castres
+LOCATION:Paris La Defense Arena\, Nanterre
+DESCRIPTION:Top 14 — Journée 16\nHoraire pas encore fixé par la LNR\nS
+ tade : Paris La Defense Arena (Nanterre)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604473@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:🏉 Bayonne - La Rochelle
+LOCATION:Stade Jean Dauger\, Bayonne
+DESCRIPTION:Top 14 — Journée 17\nHoraire pas encore fixé par la LNR\nS
+ tade : Stade Jean Dauger (Bayonne)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604474@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:🏉 Perpignan - Pau
+LOCATION:Stade Aime Giral\, Perpignan
+DESCRIPTION:Top 14 — Journée 17\nHoraire pas encore fixé par la LNR\nS
+ tade : Stade Aime Giral (Perpignan)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604475@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:🏉 Vannes - Castres
+LOCATION:Stade de la Rabine\, Vannes
+DESCRIPTION:Top 14 — Journée 17\nHoraire pas encore fixé par la LNR\nS
+ tade : Stade de la Rabine (Vannes)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604476@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:🏉 Montpellier - Racing 92
+LOCATION:Septeo Stadium\, Montpellier
+DESCRIPTION:Top 14 — Journée 17\nHoraire pas encore fixé par la LNR\nS
+ tade : Septeo Stadium (Montpellier)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604477@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:🏉 Stade Français - Bordeaux-Bègles
+LOCATION:Stade Jean Bouin\, Paris
+DESCRIPTION:Top 14 — Journée 17\nHoraire pas encore fixé par la LNR\nS
+ tade : Stade Jean Bouin (Paris)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604478@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:🏉 Toulon - Clermont
+LOCATION:Stade Mayol\, Toulon
+DESCRIPTION:Top 14 — Journée 17\nHoraire pas encore fixé par la LNR\nS
+ tade : Stade Mayol (Toulon)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604479@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:🏉 Stade Toulousain - Lyon
+LOCATION:Stade Ernest-Wallon\, Toulouse
+DESCRIPTION:Top 14 — Journée 17\nHoraire pas encore fixé par la LNR\nS
+ tade : Stade Ernest-Wallon (Toulouse)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604480@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:🏉 Bordeaux-Bègles - Toulon
+LOCATION:Stade Chaban-Delmas\, Bordeaux
+DESCRIPTION:Top 14 — Journée 18\nHoraire pas encore fixé par la LNR\nS
+ tade : Stade Chaban-Delmas (Bordeaux)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604481@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:🏉 Castres - Perpignan
+LOCATION:Stade Pierre Fabre\, Castres
+DESCRIPTION:Top 14 — Journée 18\nHoraire pas encore fixé par la LNR\nS
+ tade : Stade Pierre Fabre (Castres)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604482@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:🏉 Clermont - Bayonne
+LOCATION:Stade Marcel Michelin\, Clermont-Ferrand
+DESCRIPTION:Top 14 — Journée 18\nHoraire pas encore fixé par la LNR\nS
+ tade : Stade Marcel Michelin (Clermont-Ferrand)\nMis à jour automatiq
+ uement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604483@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:🏉 La Rochelle - Stade Français
+LOCATION:Stade Marcel-Deflandre\, La Rochelle
+DESCRIPTION:Top 14 — Journée 18\nHoraire pas encore fixé par la LNR\nS
+ tade : Stade Marcel-Deflandre (La Rochelle)\nMis à jour automatiqueme
+ nt.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604484@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:🏉 Lyon - Montpellier
+LOCATION:Matmut Stadium de Gerland\, Lyon
+DESCRIPTION:Top 14 — Journée 18\nHoraire pas encore fixé par la LNR\nS
+ tade : Matmut Stadium de Gerland (Lyon)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604485@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:🏉 Pau - Vannes
+LOCATION:Stade du Hameau\, Pau
+DESCRIPTION:Top 14 — Journée 18\nHoraire pas encore fixé par la LNR\nS
+ tade : Stade du Hameau (Pau)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604486@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:🏉 Racing 92 - Stade Toulousain
+LOCATION:Paris La Defense Arena\, Nanterre
+DESCRIPTION:Top 14 — Journée 18\nHoraire pas encore fixé par la LNR\nS
+ tade : Paris La Defense Arena (Nanterre)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604487@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:🏉 Bayonne - Bordeaux-Bègles
+LOCATION:Stade Jean Dauger\, Bayonne
+DESCRIPTION:Top 14 — Journée 19\nHoraire pas encore fixé par la LNR\nS
+ tade : Stade Jean Dauger (Bayonne)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604488@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:🏉 Perpignan - Racing 92
+LOCATION:Stade Aime Giral\, Perpignan
+DESCRIPTION:Top 14 — Journée 19\nHoraire pas encore fixé par la LNR\nS
+ tade : Stade Aime Giral (Perpignan)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604489@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:🏉 Castres - La Rochelle
+LOCATION:Stade Pierre Fabre\, Castres
+DESCRIPTION:Top 14 — Journée 19\nHoraire pas encore fixé par la LNR\nS
+ tade : Stade Pierre Fabre (Castres)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604490@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:🏉 Montpellier - Clermont
+LOCATION:Septeo Stadium\, Montpellier
+DESCRIPTION:Top 14 — Journée 19\nHoraire pas encore fixé par la LNR\nS
+ tade : Septeo Stadium (Montpellier)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604491@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:🏉 Stade Français - Pau
+LOCATION:Stade Jean Bouin\, Paris
+DESCRIPTION:Top 14 — Journée 19\nHoraire pas encore fixé par la LNR\nS
+ tade : Stade Jean Bouin (Paris)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604492@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:🏉 Toulon - Lyon
+LOCATION:Stade Mayol\, Toulon
+DESCRIPTION:Top 14 — Journée 19\nHoraire pas encore fixé par la LNR\nS
+ tade : Stade Mayol (Toulon)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604493@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:🏉 Stade Toulousain - Vannes
+LOCATION:Stade Ernest-Wallon\, Toulouse
+DESCRIPTION:Top 14 — Journée 19\nHoraire pas encore fixé par la LNR\nS
+ tade : Stade Ernest-Wallon (Toulouse)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604494@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:🏉 Bayonne - Montpellier
+LOCATION:Stade Jean Dauger\, Bayonne
+DESCRIPTION:Top 14 — Journée 20\nHoraire pas encore fixé par la LNR\nS
+ tade : Stade Jean Dauger (Bayonne)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604495@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:🏉 Perpignan - La Rochelle
+LOCATION:Stade Aime Giral\, Perpignan
+DESCRIPTION:Top 14 — Journée 20\nHoraire pas encore fixé par la LNR\nS
+ tade : Stade Aime Giral (Perpignan)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604496@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:🏉 Bordeaux-Bègles - Stade Toulousain
+LOCATION:Stade Chaban-Delmas\, Bordeaux
+DESCRIPTION:Top 14 — Journée 20\nHoraire pas encore fixé par la LNR\nS
+ tade : Stade Chaban-Delmas (Bordeaux)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604497@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:🏉 Vannes - Stade Français
+LOCATION:Stade de la Rabine\, Vannes
+DESCRIPTION:Top 14 — Journée 20\nHoraire pas encore fixé par la LNR\nS
+ tade : Stade de la Rabine (Vannes)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604498@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:🏉 Clermont - Pau
+LOCATION:Stade Marcel Michelin\, Clermont-Ferrand
+DESCRIPTION:Top 14 — Journée 20\nHoraire pas encore fixé par la LNR\nS
+ tade : Stade Marcel Michelin (Clermont-Ferrand)\nMis à jour automatiq
+ uement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604499@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:🏉 Lyon - Castres
+LOCATION:Matmut Stadium de Gerland\, Lyon
+DESCRIPTION:Top 14 — Journée 20\nHoraire pas encore fixé par la LNR\nS
+ tade : Matmut Stadium de Gerland (Lyon)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604500@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:🏉 Racing 92 - Toulon
+LOCATION:Paris La Defense Arena\, Nanterre
+DESCRIPTION:Top 14 — Journée 20\nHoraire pas encore fixé par la LNR\nS
+ tade : Paris La Defense Arena (Nanterre)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604501@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:🏉 Castres - Bayonne
+LOCATION:Stade Pierre Fabre\, Castres
+DESCRIPTION:Top 14 — Journée 21\nHoraire pas encore fixé par la LNR\nS
+ tade : Stade Pierre Fabre (Castres)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604502@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:🏉 La Rochelle - Vannes
+LOCATION:Stade Marcel-Deflandre\, La Rochelle
+DESCRIPTION:Top 14 — Journée 21\nHoraire pas encore fixé par la LNR\nS
+ tade : Stade Marcel-Deflandre (La Rochelle)\nMis à jour automatiqueme
+ nt.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604503@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:🏉 Lyon - Perpignan
+LOCATION:Matmut Stadium de Gerland\, Lyon
+DESCRIPTION:Top 14 — Journée 21\nHoraire pas encore fixé par la LNR\nS
+ tade : Matmut Stadium de Gerland (Lyon)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604504@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:🏉 Montpellier - Bordeaux-Bègles
+LOCATION:Septeo Stadium\, Montpellier
+DESCRIPTION:Top 14 — Journée 21\nHoraire pas encore fixé par la LNR\nS
+ tade : Septeo Stadium (Montpellier)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604505@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:🏉 Stade Français - Clermont
+LOCATION:Stade Jean Bouin\, Paris
+DESCRIPTION:Top 14 — Journée 21\nHoraire pas encore fixé par la LNR\nS
+ tade : Stade Jean Bouin (Paris)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604506@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:🏉 Pau - Racing 92
+LOCATION:Stade du Hameau\, Pau
+DESCRIPTION:Top 14 — Journée 21\nHoraire pas encore fixé par la LNR\nS
+ tade : Stade du Hameau (Pau)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604507@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:🏉 Toulon - Stade Toulousain
+LOCATION:Stade Mayol\, Toulon
+DESCRIPTION:Top 14 — Journée 21\nHoraire pas encore fixé par la LNR\nS
+ tade : Stade Mayol (Toulon)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604508@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:🏉 Bayonne - Pau
+LOCATION:Stade Jean Dauger\, Bayonne
+DESCRIPTION:Top 14 — Journée 22\nHoraire pas encore fixé par la LNR\nS
+ tade : Stade Jean Dauger (Bayonne)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604509@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:🏉 Perpignan - Montpellier
+LOCATION:Stade Aime Giral\, Perpignan
+DESCRIPTION:Top 14 — Journée 22\nHoraire pas encore fixé par la LNR\nS
+ tade : Stade Aime Giral (Perpignan)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604510@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:🏉 Bordeaux-Bègles - La Rochelle
+LOCATION:Stade Chaban-Delmas\, Bordeaux
+DESCRIPTION:Top 14 — Journée 22\nHoraire pas encore fixé par la LNR\nS
+ tade : Stade Chaban-Delmas (Bordeaux)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604511@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:🏉 Vannes - Toulon
+LOCATION:Stade de la Rabine\, Vannes
+DESCRIPTION:Top 14 — Journée 22\nHoraire pas encore fixé par la LNR\nS
+ tade : Stade de la Rabine (Vannes)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604512@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:🏉 Clermont - Lyon
+LOCATION:Stade Marcel Michelin\, Clermont-Ferrand
+DESCRIPTION:Top 14 — Journée 22\nHoraire pas encore fixé par la LNR\nS
+ tade : Stade Marcel Michelin (Clermont-Ferrand)\nMis à jour automatiq
+ uement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604513@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:🏉 Stade Français - Racing 92
+LOCATION:Stade Jean Bouin\, Paris
+DESCRIPTION:Top 14 — Journée 22\nHoraire pas encore fixé par la LNR\nS
+ tade : Stade Jean Bouin (Paris)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604514@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:🏉 Stade Toulousain - Castres
+LOCATION:Stade Ernest-Wallon\, Toulouse
+DESCRIPTION:Top 14 — Journée 22\nHoraire pas encore fixé par la LNR\nS
+ tade : Stade Ernest-Wallon (Toulouse)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604515@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:🏉 Bayonne - Vannes
+LOCATION:Stade Jean Dauger\, Bayonne
+DESCRIPTION:Top 14 — Journée 23\nHoraire pas encore fixé par la LNR\nS
+ tade : Stade Jean Dauger (Bayonne)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604516@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:🏉 Clermont - Perpignan
+LOCATION:Stade Marcel Michelin\, Clermont-Ferrand
+DESCRIPTION:Top 14 — Journée 23\nHoraire pas encore fixé par la LNR\nS
+ tade : Stade Marcel Michelin (Clermont-Ferrand)\nMis à jour automatiq
+ uement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604517@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:🏉 Lyon - Stade Français
+LOCATION:Matmut Stadium de Gerland\, Lyon
+DESCRIPTION:Top 14 — Journée 23\nHoraire pas encore fixé par la LNR\nS
+ tade : Matmut Stadium de Gerland (Lyon)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604518@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:🏉 Montpellier - Stade Toulousain
+LOCATION:Septeo Stadium\, Montpellier
+DESCRIPTION:Top 14 — Journée 23\nHoraire pas encore fixé par la LNR\nS
+ tade : Septeo Stadium (Montpellier)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604519@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:🏉 Pau - Bordeaux-Bègles
+LOCATION:Stade du Hameau\, Pau
+DESCRIPTION:Top 14 — Journée 23\nHoraire pas encore fixé par la LNR\nS
+ tade : Stade du Hameau (Pau)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604520@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:🏉 Racing 92 - La Rochelle
+LOCATION:Paris La Defense Arena\, Nanterre
+DESCRIPTION:Top 14 — Journée 23\nHoraire pas encore fixé par la LNR\nS
+ tade : Paris La Defense Arena (Nanterre)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604521@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:🏉 Toulon - Castres
+LOCATION:Stade Mayol\, Toulon
+DESCRIPTION:Top 14 — Journée 23\nHoraire pas encore fixé par la LNR\nS
+ tade : Stade Mayol (Toulon)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604522@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:🏉 Perpignan - Bayonne
+LOCATION:Stade Aime Giral\, Perpignan
+DESCRIPTION:Top 14 — Journée 24\nHoraire pas encore fixé par la LNR\nS
+ tade : Stade Aime Giral (Perpignan)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604523@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:🏉 Bordeaux-Bègles - Clermont
+LOCATION:Stade Chaban-Delmas\, Bordeaux
+DESCRIPTION:Top 14 — Journée 24\nHoraire pas encore fixé par la LNR\nS
+ tade : Stade Chaban-Delmas (Bordeaux)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604524@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:🏉 Vannes - Racing 92
+LOCATION:Stade de la Rabine\, Vannes
+DESCRIPTION:Top 14 — Journée 24\nHoraire pas encore fixé par la LNR\nS
+ tade : Stade de la Rabine (Vannes)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604525@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:🏉 Castres - Montpellier
+LOCATION:Stade Pierre Fabre\, Castres
+DESCRIPTION:Top 14 — Journée 24\nHoraire pas encore fixé par la LNR\nS
+ tade : Stade Pierre Fabre (Castres)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604526@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:🏉 La Rochelle - Lyon
+LOCATION:Stade Marcel-Deflandre\, La Rochelle
+DESCRIPTION:Top 14 — Journée 24\nHoraire pas encore fixé par la LNR\nS
+ tade : Stade Marcel-Deflandre (La Rochelle)\nMis à jour automatiqueme
+ nt.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604527@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:🏉 Stade Français - Toulon
+LOCATION:Stade Jean Bouin\, Paris
+DESCRIPTION:Top 14 — Journée 24\nHoraire pas encore fixé par la LNR\nS
+ tade : Stade Jean Bouin (Paris)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604528@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:🏉 Stade Toulousain - Pau
+LOCATION:Stade Ernest-Wallon\, Toulouse
+DESCRIPTION:Top 14 — Journée 24\nHoraire pas encore fixé par la LNR\nS
+ tade : Stade Ernest-Wallon (Toulouse)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604529@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270529
+DTEND;VALUE=DATE:20270530
+SUMMARY:🏉 Bayonne - Racing 92
+LOCATION:Stade Jean Dauger\, Bayonne
+DESCRIPTION:Top 14 — Journée 25\nHoraire pas encore fixé par la LNR\nS
+ tade : Stade Jean Dauger (Bayonne)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604530@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270529
+DTEND;VALUE=DATE:20270530
+SUMMARY:🏉 Castres - Pau
+LOCATION:Stade Pierre Fabre\, Castres
+DESCRIPTION:Top 14 — Journée 25\nHoraire pas encore fixé par la LNR\nS
+ tade : Stade Pierre Fabre (Castres)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604531@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270529
+DTEND;VALUE=DATE:20270530
+SUMMARY:🏉 Clermont - La Rochelle
+LOCATION:Stade Marcel Michelin\, Clermont-Ferrand
+DESCRIPTION:Top 14 — Journée 25\nHoraire pas encore fixé par la LNR\nS
+ tade : Stade Marcel Michelin (Clermont-Ferrand)\nMis à jour automatiq
+ uement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604532@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270529
+DTEND;VALUE=DATE:20270530
+SUMMARY:🏉 Lyon - Bordeaux-Bègles
+LOCATION:Matmut Stadium de Gerland\, Lyon
+DESCRIPTION:Top 14 — Journée 25\nHoraire pas encore fixé par la LNR\nS
+ tade : Matmut Stadium de Gerland (Lyon)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604533@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270529
+DTEND;VALUE=DATE:20270530
+SUMMARY:🏉 Montpellier - Vannes
+LOCATION:Septeo Stadium\, Montpellier
+DESCRIPTION:Top 14 — Journée 25\nHoraire pas encore fixé par la LNR\nS
+ tade : Septeo Stadium (Montpellier)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604534@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270529
+DTEND;VALUE=DATE:20270530
+SUMMARY:🏉 Toulon - Perpignan
+LOCATION:Stade Mayol\, Toulon
+DESCRIPTION:Top 14 — Journée 25\nHoraire pas encore fixé par la LNR\nS
+ tade : Stade Mayol (Toulon)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604535@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270529
+DTEND;VALUE=DATE:20270530
+SUMMARY:🏉 Stade Toulousain - Stade Français
+LOCATION:Stade Ernest-Wallon\, Toulouse
+DESCRIPTION:Top 14 — Journée 25\nHoraire pas encore fixé par la LNR\nS
+ tade : Stade Ernest-Wallon (Toulouse)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604536@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270606
+SUMMARY:🏉 Perpignan - Stade Toulousain
+LOCATION:Stade Aime Giral\, Perpignan
+DESCRIPTION:Top 14 — Journée 26\nHoraire pas encore fixé par la LNR\nS
+ tade : Stade Aime Giral (Perpignan)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604537@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270606
+SUMMARY:🏉 Bordeaux-Bègles - Castres
+LOCATION:Stade Chaban-Delmas\, Bordeaux
+DESCRIPTION:Top 14 — Journée 26\nHoraire pas encore fixé par la LNR\nS
+ tade : Stade Chaban-Delmas (Bordeaux)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604538@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270606
+SUMMARY:🏉 Vannes - Lyon
+LOCATION:Stade de la Rabine\, Vannes
+DESCRIPTION:Top 14 — Journée 26\nHoraire pas encore fixé par la LNR\nS
+ tade : Stade de la Rabine (Vannes)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604539@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270606
+SUMMARY:🏉 La Rochelle - Montpellier
+LOCATION:Stade Marcel-Deflandre\, La Rochelle
+DESCRIPTION:Top 14 — Journée 26\nHoraire pas encore fixé par la LNR\nS
+ tade : Stade Marcel-Deflandre (La Rochelle)\nMis à jour automatiqueme
+ nt.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604540@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270606
+SUMMARY:🏉 Stade Français - Bayonne
+LOCATION:Stade Jean Bouin\, Paris
+DESCRIPTION:Top 14 — Journée 26\nHoraire pas encore fixé par la LNR\nS
+ tade : Stade Jean Bouin (Paris)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604541@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270606
+SUMMARY:🏉 Pau - Toulon
+LOCATION:Stade du Hameau\, Pau
+DESCRIPTION:Top 14 — Journée 26\nHoraire pas encore fixé par la LNR\nS
+ tade : Stade du Hameau (Pau)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-604542@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270606
+SUMMARY:🏉 Racing 92 - Clermont
+LOCATION:Paris La Defense Arena\, Nanterre
+DESCRIPTION:Top 14 — Journée 26\nHoraire pas encore fixé par la LNR\nS
+ tade : Paris La Defense Arena (Nanterre)\nMis à jour automatiquement.
+CATEGORIES:Top 14,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:top14-classement@top14-agenda
+DTSTAMP:20260906T070200Z
+LAST-MODIFIED:20260906T070200Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20260906
+DTEND;VALUE=DATE:20260907
+SUMMARY:🏆 Classement Top 14 après J1
+DESCRIPTION: 1. Bordeaux-Bègles — 5 pts (1G 0N 0P\, diff +59)\n 2. Cas
+ tres — 4 pts (1G 0N 0P\, diff +9)\n 3. Pau — 4 pts (1G 0N 0P\, diff +
+ 8)\n 4. Lyon — 4 pts (1G 0N 0P\, diff +4)\n 5. Stade Français — 4 pts
+  (1G 0N 0P\, diff +2)\n 6. Bayonne — 4 pts (1G 0N 0P\, diff +1)\n 7. 
+ Toulon — 1 pts (0G 0N 1P\, diff -1)\n 8. Perpignan — 1 pts (0G 0N 1P\
+ , diff -2)\n 9. Clermont — 1 pts (0G 0N 1P\, diff -4)\n10. La Rochell
+ e — 0 pts (0G 0N 0P\, diff +0)\n11. Stade Toulousain — 0 pts (0G 0N 0
+ P\, diff +0)\n12. Montpellier — 0 pts (0G 0N 1P\, diff -8)\n13. Vanne
+ s — 0 pts (0G 0N 1P\, diff -9)\n14. Racing 92 — 0 pts (0G 0N 1P\, dif
+ f -59)
+END:VEVENT
+END:VCALENDAR

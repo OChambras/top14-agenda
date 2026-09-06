@@ -1,0 +1,39 @@
+name: Mise à jour Top 14
+
+on:
+  schedule:
+    # Toutes les 2 heures (UTC). Les résultats tombent le week-end, le reste reste à jour.
+    - cron: "17 */2 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [scripts/**, .github/workflows/update.yml]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Générer le calendrier et les données
+        run: node scripts/build.mjs
+      - name: Publier si quelque chose a changé
+        run: |
+          # On ignore les changements qui ne portent que sur l'horodatage.
+          if git diff --quiet -I 'DTSTAMP|LAST-MODIFIED|misAJour' -- docs/; then
+            echo "Rien de nouveau."; exit 0
+          fi
+          git config user.name "top14-agenda[bot]"
+          git config user.email "top14-agenda@users.noreply.github.com"
+          git add docs/
+          git commit -m "maj: résultats et calendrier Top 14 ($(date -u +'%Y-%m-%d %H:%M UTC'))"
+          git push
