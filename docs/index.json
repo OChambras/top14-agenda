@@ -1,0 +1,41 @@
+{
+ "misAJour": "2026-09-06T07:15:09.248Z",
+ "competitions": [
+  {
+   "slug": "top14",
+   "nom": "Top 14 2026-2027",
+   "court": "Top 14",
+   "matchs": 182,
+   "joues": 6,
+   "debut": "2026-09-05T17:05Z",
+   "fin": "2027-06-05T00:00Z"
+  },
+  {
+   "slug": "champions-cup",
+   "nom": "Champions Cup 2026-2027",
+   "court": "Coupe d'Europe",
+   "matchs": 48,
+   "joues": 0,
+   "debut": "2026-10-16T19:00Z",
+   "fin": "2027-01-17T17:30Z"
+  },
+  {
+   "slug": "challenge-cup",
+   "nom": "Challenge Cup 2026-2027",
+   "court": "Challenge Cup",
+   "matchs": 36,
+   "joues": 0,
+   "debut": "2026-10-16T19:00Z",
+   "fin": "2027-01-17T15:15Z"
+  },
+  {
+   "slug": "coupe-du-monde",
+   "nom": "Coupe du monde 2027",
+   "court": "Coupe du monde",
+   "matchs": 36,
+   "joues": 0,
+   "debut": "2027-10-01T10:45Z",
+   "fin": "2027-10-17T11:15Z"
+  }
+ ]
+}

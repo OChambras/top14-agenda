@@ -1,0 +1,506 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//top14-agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Challenge Cup 2026-2027
+X-WR-TIMEZONE:Europe/Paris
+X-PUBLISHED-TTL:PT3H
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+BEGIN:VEVENT
+UID:challenge-cup-604309@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20261016T190000Z
+DTEND:20261016T210000Z
+SUMMARY:🏉 Dragons - Perpignan
+LOCATION:Rodney Parade\, Newport
+DESCRIPTION:Challenge Cup — Journée 1 — Poule A\nCoup d'envoi (heure d
+ e Paris dans votre agenda)\nStade : Rodney Parade (Newport)\nMis à jo
+ ur automatiquement.
+CATEGORIES:Challenge Cup,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:challenge-cup-604310@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20261016T190000Z
+DTEND:20261016T210000Z
+SUMMARY:🏉 Edinburgh - Toulon
+LOCATION:Hive Stadium\, Edinburgh
+DESCRIPTION:Challenge Cup — Journée 1 — Poule B\nCoup d'envoi (heure d
+ e Paris dans votre agenda)\nStade : Hive Stadium (Edinburgh)\nMis à j
+ our automatiquement.
+CATEGORIES:Challenge Cup,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:challenge-cup-604311@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20261017T120000Z
+DTEND:20261017T140000Z
+SUMMARY:🏉 Lyon - Sharks
+LOCATION:Matmut Stadium de Gerland\, Lyon
+DESCRIPTION:Challenge Cup — Journée 1 — Poule C\nCoup d'envoi (heure d
+ e Paris dans votre agenda)\nStade : Matmut Stadium de Gerland (Lyon)\
+ nMis à jour automatiquement.
+CATEGORIES:Challenge Cup,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:challenge-cup-604312@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20261017T120000Z
+DTEND:20261017T140000Z
+SUMMARY:🏉 Black Lion - Ospreys
+DESCRIPTION:Challenge Cup — Journée 1 — Poule B\nCoup d'envoi (heure d
+ e Paris dans votre agenda)\nMis à jour automatiquement.
+CATEGORIES:Challenge Cup,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:challenge-cup-604313@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20261017T141500Z
+DTEND:20261017T161500Z
+SUMMARY:🏉 Zebre - Ulster
+LOCATION:Stadio Sergio Lanfranchi\, Parma
+DESCRIPTION:Challenge Cup — Journée 1 — Poule A\nCoup d'envoi (heure d
+ e Paris dans votre agenda)\nStade : Stadio Sergio Lanfranchi (Parma)\
+ nMis à jour automatiquement.
+CATEGORIES:Challenge Cup,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:challenge-cup-604314@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20261017T190000Z
+DTEND:20261017T210000Z
+SUMMARY:🏉 Scarlets - Newcastle Falcons
+LOCATION:Parc y Scarlets\, Llanelli
+DESCRIPTION:Challenge Cup — Journée 1 — Poule C\nCoup d'envoi (heure d
+ e Paris dans votre agenda)\nStade : Parc y Scarlets (Llanelli)\nMis à
+  jour automatiquement.
+CATEGORIES:Challenge Cup,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:challenge-cup-604315@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20261018T120000Z
+DTEND:20261018T140000Z
+SUMMARY:🏉 Bayonne - Cheetahs
+LOCATION:Stade Jean Dauger\, Bayonne
+DESCRIPTION:Challenge Cup — Journée 1 — Poule A\nCoup d'envoi (heure d
+ e Paris dans votre agenda)\nStade : Stade Jean Dauger (Bayonne)\nMis 
+ à jour automatiquement.
+CATEGORIES:Challenge Cup,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:challenge-cup-604316@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20261018T120000Z
+DTEND:20261018T140000Z
+SUMMARY:🏉 Harlequins - Vannes
+LOCATION:Twickenham Stoop\, London
+DESCRIPTION:Challenge Cup — Journée 1 — Poule B\nCoup d'envoi (heure d
+ e Paris dans votre agenda)\nStade : Twickenham Stoop (London)\nMis à 
+ jour automatiquement.
+CATEGORIES:Challenge Cup,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:challenge-cup-604317@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20261018T163000Z
+DTEND:20261018T183000Z
+SUMMARY:🏉 Castres - Benetton Treviso
+LOCATION:Stade Pierre Fabre\, Castres
+DESCRIPTION:Challenge Cup — Journée 1 — Poule C\nCoup d'envoi (heure d
+ e Paris dans votre agenda)\nStade : Stade Pierre Fabre (Castres)\nMis
+  à jour automatiquement.
+CATEGORIES:Challenge Cup,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:challenge-cup-604318@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20261212T130000Z
+DTEND:20261212T150000Z
+SUMMARY:🏉 Ospreys - Harlequins
+LOCATION:St Helen's Rugby and Cricket Ground\, Swansea
+DESCRIPTION:Challenge Cup — Journée 2 — Poule B\nCoup d'envoi (heure d
+ e Paris dans votre agenda)\nStade : St Helen's Rugby and Cricket Grou
+ nd (Swansea)\nMis à jour automatiquement.
+CATEGORIES:Challenge Cup,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:challenge-cup-604319@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20261212T130000Z
+DTEND:20261212T150000Z
+SUMMARY:🏉 Ulster - Bayonne
+LOCATION:Affidea Stadium\, Belfast
+DESCRIPTION:Challenge Cup — Journée 2 — Poule A\nCoup d'envoi (heure d
+ e Paris dans votre agenda)\nStade : Affidea Stadium (Belfast)\nMis à 
+ jour automatiquement.
+CATEGORIES:Challenge Cup,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:challenge-cup-604320@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20261212T173000Z
+DTEND:20261212T193000Z
+SUMMARY:🏉 Benetton Treviso - Lyon
+LOCATION:Stadio Comunale di Monigo\, Treviso
+DESCRIPTION:Challenge Cup — Journée 2 — Poule C\nCoup d'envoi (heure d
+ e Paris dans votre agenda)\nStade : Stadio Comunale di Monigo (Trevis
+ o)\nMis à jour automatiquement.
+CATEGORIES:Challenge Cup,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:challenge-cup-604321@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20261212T173000Z
+DTEND:20261212T193000Z
+SUMMARY:🏉 Sharks - Scarlets
+LOCATION:Hollywoodbets Kings Park\, Durban
+DESCRIPTION:Challenge Cup — Journée 2 — Poule C\nCoup d'envoi (heure d
+ e Paris dans votre agenda)\nStade : Hollywoodbets Kings Park (Durban)
+ \nMis à jour automatiquement.
+CATEGORIES:Challenge Cup,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:challenge-cup-604322@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20261212T200000Z
+DTEND:20261212T220000Z
+SUMMARY:🏉 Toulon - Black Lion
+LOCATION:Stade Mayol\, Toulon
+DESCRIPTION:Challenge Cup — Journée 2 — Poule B\nCoup d'envoi (heure d
+ e Paris dans votre agenda)\nStade : Stade Mayol (Toulon)\nMis à jour 
+ automatiquement.
+CATEGORIES:Challenge Cup,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:challenge-cup-604323@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20261212T200000Z
+DTEND:20261212T220000Z
+SUMMARY:🏉 Newcastle Falcons - Castres
+LOCATION:Kingston Park\, Newcastle
+DESCRIPTION:Challenge Cup — Journée 2 — Poule C\nCoup d'envoi (heure d
+ e Paris dans votre agenda)\nStade : Kingston Park (Newcastle)\nMis à 
+ jour automatiquement.
+CATEGORIES:Challenge Cup,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:challenge-cup-604324@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20261213T130000Z
+DTEND:20261213T150000Z
+SUMMARY:🏉 Vannes - Edinburgh
+LOCATION:Stade de la Rabine\, Vannes
+DESCRIPTION:Challenge Cup — Journée 2 — Poule B\nCoup d'envoi (heure d
+ e Paris dans votre agenda)\nStade : Stade de la Rabine (Vannes)\nMis 
+ à jour automatiquement.
+CATEGORIES:Challenge Cup,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:challenge-cup-604325@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20261213T130000Z
+DTEND:20261213T150000Z
+SUMMARY:🏉 Cheetahs - Dragons
+DESCRIPTION:Challenge Cup — Journée 2 — Poule A\nCoup d'envoi (heure d
+ e Paris dans votre agenda)\nMis à jour automatiquement.
+CATEGORIES:Challenge Cup,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:challenge-cup-604326@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20261213T151500Z
+DTEND:20261213T171500Z
+SUMMARY:🏉 Perpignan - Zebre
+LOCATION:Stade Aime Giral\, Perpignan
+DESCRIPTION:Challenge Cup — Journée 2 — Poule A\nCoup d'envoi (heure d
+ e Paris dans votre agenda)\nStade : Stade Aime Giral (Perpignan)\nMis
+  à jour automatiquement.
+CATEGORIES:Challenge Cup,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:challenge-cup-604327@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20270108T200000Z
+DTEND:20270108T220000Z
+SUMMARY:🏉 Dragons - Bayonne
+LOCATION:Rodney Parade\, Newport
+DESCRIPTION:Challenge Cup — Journée 3 — Poule A\nCoup d'envoi (heure d
+ e Paris dans votre agenda)\nStade : Rodney Parade (Newport)\nMis à jo
+ ur automatiquement.
+CATEGORIES:Challenge Cup,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:challenge-cup-604328@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20270108T200000Z
+DTEND:20270108T220000Z
+SUMMARY:🏉 Newcastle Falcons - Benetton Treviso
+LOCATION:Kingston Park\, Newcastle
+DESCRIPTION:Challenge Cup — Journée 3 — Poule C\nCoup d'envoi (heure d
+ e Paris dans votre agenda)\nStade : Kingston Park (Newcastle)\nMis à 
+ jour automatiquement.
+CATEGORIES:Challenge Cup,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:challenge-cup-604329@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20270109T130000Z
+DTEND:20270109T150000Z
+SUMMARY:🏉 Sharks - Castres
+LOCATION:Hollywoodbets Kings Park\, Durban
+DESCRIPTION:Challenge Cup — Journée 3 — Poule C\nCoup d'envoi (heure d
+ e Paris dans votre agenda)\nStade : Hollywoodbets Kings Park (Durban)
+ \nMis à jour automatiquement.
+CATEGORIES:Challenge Cup,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:challenge-cup-604330@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20270109T130000Z
+DTEND:20270109T150000Z
+SUMMARY:🏉 Edinburgh - Harlequins
+LOCATION:Hive Stadium\, Edinburgh
+DESCRIPTION:Challenge Cup — Journée 3 — Poule B\nCoup d'envoi (heure d
+ e Paris dans votre agenda)\nStade : Hive Stadium (Edinburgh)\nMis à j
+ our automatiquement.
+CATEGORIES:Challenge Cup,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:challenge-cup-604331@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20270109T130000Z
+DTEND:20270109T150000Z
+SUMMARY:🏉 Toulon - Ospreys
+LOCATION:Stade Mayol\, Toulon
+DESCRIPTION:Challenge Cup — Journée 3 — Poule B\nCoup d'envoi (heure d
+ e Paris dans votre agenda)\nStade : Stade Mayol (Toulon)\nMis à jour 
+ automatiquement.
+CATEGORIES:Challenge Cup,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:challenge-cup-604332@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20270109T200000Z
+DTEND:20270109T220000Z
+SUMMARY:🏉 Scarlets - Lyon
+LOCATION:Parc y Scarlets\, Llanelli
+DESCRIPTION:Challenge Cup — Journée 3 — Poule C\nCoup d'envoi (heure d
+ e Paris dans votre agenda)\nStade : Parc y Scarlets (Llanelli)\nMis à
+  jour automatiquement.
+CATEGORIES:Challenge Cup,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:challenge-cup-604333@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20270110T130000Z
+DTEND:20270110T150000Z
+SUMMARY:🏉 Perpignan - Ulster
+LOCATION:Stade Aime Giral\, Perpignan
+DESCRIPTION:Challenge Cup — Journée 3 — Poule A\nCoup d'envoi (heure d
+ e Paris dans votre agenda)\nStade : Stade Aime Giral (Perpignan)\nMis
+  à jour automatiquement.
+CATEGORIES:Challenge Cup,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:challenge-cup-604334@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20270110T130000Z
+DTEND:20270110T150000Z
+SUMMARY:🏉 Vannes - Black Lion
+LOCATION:Stade de la Rabine\, Vannes
+DESCRIPTION:Challenge Cup — Journée 3 — Poule B\nCoup d'envoi (heure d
+ e Paris dans votre agenda)\nStade : Stade de la Rabine (Vannes)\nMis 
+ à jour automatiquement.
+CATEGORIES:Challenge Cup,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:challenge-cup-604335@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20270110T173000Z
+DTEND:20270110T193000Z
+SUMMARY:🏉 Zebre - Cheetahs
+LOCATION:Stadio Sergio Lanfranchi\, Parma
+DESCRIPTION:Challenge Cup — Journée 3 — Poule A\nCoup d'envoi (heure d
+ e Paris dans votre agenda)\nStade : Stadio Sergio Lanfranchi (Parma)\
+ nMis à jour automatiquement.
+CATEGORIES:Challenge Cup,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:challenge-cup-604336@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20270115T200000Z
+DTEND:20270115T220000Z
+SUMMARY:🏉 Harlequins - Toulon
+LOCATION:Twickenham Stoop\, London
+DESCRIPTION:Challenge Cup — Journée 4 — Poule B\nCoup d'envoi (heure d
+ e Paris dans votre agenda)\nStade : Twickenham Stoop (London)\nMis à 
+ jour automatiquement.
+CATEGORIES:Challenge Cup,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:challenge-cup-604337@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20270116T130000Z
+DTEND:20270116T150000Z
+SUMMARY:🏉 Bayonne - Zebre
+LOCATION:Stade Jean Dauger\, Bayonne
+DESCRIPTION:Challenge Cup — Journée 4 — Poule A\nCoup d'envoi (heure d
+ e Paris dans votre agenda)\nStade : Stade Jean Dauger (Bayonne)\nMis 
+ à jour automatiquement.
+CATEGORIES:Challenge Cup,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:challenge-cup-604338@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20270116T151500Z
+DTEND:20270116T171500Z
+SUMMARY:🏉 Ulster - Dragons
+LOCATION:Affidea Stadium\, Belfast
+DESCRIPTION:Challenge Cup — Journée 4 — Poule A\nCoup d'envoi (heure d
+ e Paris dans votre agenda)\nStade : Affidea Stadium (Belfast)\nMis à 
+ jour automatiquement.
+CATEGORIES:Challenge Cup,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:challenge-cup-604339@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20270116T151500Z
+DTEND:20270116T171500Z
+SUMMARY:🏉 Castres - Scarlets
+LOCATION:Stade Pierre Fabre\, Castres
+DESCRIPTION:Challenge Cup — Journée 4 — Poule C\nCoup d'envoi (heure d
+ e Paris dans votre agenda)\nStade : Stade Pierre Fabre (Castres)\nMis
+  à jour automatiquement.
+CATEGORIES:Challenge Cup,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:challenge-cup-604340@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20270116T173000Z
+DTEND:20270116T193000Z
+SUMMARY:🏉 Benetton Treviso - Sharks
+LOCATION:Stadio Comunale di Monigo\, Treviso
+DESCRIPTION:Challenge Cup — Journée 4 — Poule C\nCoup d'envoi (heure d
+ e Paris dans votre agenda)\nStade : Stadio Comunale di Monigo (Trevis
+ o)\nMis à jour automatiquement.
+CATEGORIES:Challenge Cup,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:challenge-cup-604341@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20270116T200000Z
+DTEND:20270116T220000Z
+SUMMARY:🏉 Ospreys - Vannes
+LOCATION:St Helen's Rugby and Cricket Ground\, Swansea
+DESCRIPTION:Challenge Cup — Journée 4 — Poule B\nCoup d'envoi (heure d
+ e Paris dans votre agenda)\nStade : St Helen's Rugby and Cricket Grou
+ nd (Swansea)\nMis à jour automatiquement.
+CATEGORIES:Challenge Cup,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:challenge-cup-604342@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20270117T130000Z
+DTEND:20270117T150000Z
+SUMMARY:🏉 Lyon - Newcastle Falcons
+LOCATION:Matmut Stadium de Gerland\, Lyon
+DESCRIPTION:Challenge Cup — Journée 4 — Poule C\nCoup d'envoi (heure d
+ e Paris dans votre agenda)\nStade : Matmut Stadium de Gerland (Lyon)\
+ nMis à jour automatiquement.
+CATEGORIES:Challenge Cup,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:challenge-cup-604343@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20270117T130000Z
+DTEND:20270117T150000Z
+SUMMARY:🏉 Black Lion - Edinburgh
+DESCRIPTION:Challenge Cup — Journée 4 — Poule B\nCoup d'envoi (heure d
+ e Paris dans votre agenda)\nMis à jour automatiquement.
+CATEGORIES:Challenge Cup,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:challenge-cup-604344@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20270117T151500Z
+DTEND:20270117T171500Z
+SUMMARY:🏉 Cheetahs - Perpignan
+DESCRIPTION:Challenge Cup — Journée 4 — Poule A\nCoup d'envoi (heure d
+ e Paris dans votre agenda)\nMis à jour automatiquement.
+CATEGORIES:Challenge Cup,Rugby
+END:VEVENT
+END:VCALENDAR

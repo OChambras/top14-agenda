@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Top 14 2026-2027</title>
+<title>Rugby : Top 14, Coupe d'Europe, Coupe du monde</title>
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🏉</text></svg>">
 <style>
   :root {
@@ -17,10 +17,13 @@
   }
   * { box-sizing: border-box; }
   body { margin: 0; background: var(--bg); color: var(--ink); font: 15px/1.45 -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
-  header { background: var(--brand); color: var(--brand-ink); padding: 18px 16px 14px; }
+  header { background: var(--brand); color: var(--brand-ink); padding: 16px 16px 12px; }
   header .wrap { max-width: 900px; margin: 0 auto; }
   h1 { margin: 0 0 4px; font-size: 22px; }
   header p { margin: 0; opacity: .85; font-size: 13px; }
+  .comps { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 12px; }
+  .comps a { color: #fff; text-decoration: none; padding: 7px 12px; border-radius: 999px; border: 1px solid rgba(255,255,255,.5); font-size: 14px; }
+  .comps a[aria-current="true"] { background: #fff; color: var(--brand); font-weight: 600; border-color: #fff; }
   .abo { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; margin-top: 12px; }
   .btn { display: inline-block; background: #fff; color: var(--brand); font-weight: 600; padding: 8px 14px; border-radius: 8px; text-decoration: none; border: 0; cursor: pointer; font-size: 14px; }
   .btn.ghost { background: transparent; color: #fff; border: 1px solid rgba(255,255,255,.6); }
@@ -31,6 +34,7 @@
   nav button[aria-selected="true"] { background: var(--brand); color: #fff; border-color: var(--brand); }
   section[hidden] { display: none; }
   .card { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 12px; margin-bottom: 12px; }
+  .card h3 { margin: 0 0 6px; font-size: 15px; color: var(--muted); }
   table { width: 100%; border-collapse: collapse; font-size: 14px; }
   th, td { padding: 7px 6px; text-align: right; border-bottom: 1px solid var(--line); white-space: nowrap; }
   th { color: var(--muted); font-weight: 600; font-size: 12px; text-transform: uppercase; letter-spacing: .03em; }
@@ -60,8 +64,9 @@
 <body>
 <header>
   <div class="wrap">
-    <h1>🏉 Top 14 2026-2027</h1>
+    <h1 id="titre">🏉 Rugby</h1>
     <p>Calendrier, résultats et classement, mis à jour automatiquement.</p>
+    <div class="comps" id="comps"></div>
     <div class="abo">
       <a class="btn" id="addGoogle" href="#">Ajouter à Google Agenda</a>
       <button class="btn ghost" id="copyUrl" type="button">Copier l'adresse du calendrier</button>
@@ -75,55 +80,77 @@
     <button role="tab" aria-selected="false" data-tab="resultats">Résultats</button>
     <button role="tab" aria-selected="false" data-tab="calendrier">Calendrier</button>
   </nav>
-  <section id="classement"><div class="card"><div class="overflow"><table id="tableau"></table></div>
-    <div class="legende"><i style="background:var(--top2)"></i>Demi-finales directes &nbsp; <i style="background:var(--q6)"></i>Barrages &nbsp; <i style="background:var(--rel)"></i>Relégable</div></div></section>
+  <section id="classement"></section>
   <section id="resultats" hidden></section>
   <section id="calendrier" hidden></section>
   <p class="maj" id="maj"></p>
 </main>
 <script>
 (async () => {
-  const base = location.href.replace(/[^/]*$/, "");
-  const ics = base + "top14.ics";
-  document.getElementById("icsUrl").textContent = ics;
-  document.getElementById("addGoogle").href = "https://calendar.google.com/calendar/render?cid=" + encodeURIComponent(ics.replace(/^https?:/, "webcal:"));
-  document.getElementById("copyUrl").onclick = async (e) => {
-    try { await navigator.clipboard.writeText(ics); e.target.textContent = "Adresse copiée ✓"; } catch { prompt("Copiez cette adresse :", ics); }
-  };
+  const base = location.href.replace(/[?#].*$/, "").replace(/[^/]*$/, "");
+  const esc = (s) => String(s).replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+  const fmtDate = (iso, heure) => new Date(iso).toLocaleString("fr-FR", heure
+    ? { weekday: "short", day: "numeric", month: "short", hour: "2-digit", minute: "2-digit", timeZone: "Europe/Paris" }
+    : { weekday: "short", day: "numeric", month: "short", timeZone: "Europe/Paris" });
+  const fmtHeure = (iso) => new Date(iso).toLocaleTimeString("fr-FR", { hour: "2-digit", minute: "2-digit", timeZone: "Europe/Paris" });
+
   document.querySelectorAll("nav button").forEach((b) => b.onclick = () => {
     document.querySelectorAll("nav button").forEach((x) => x.setAttribute("aria-selected", x === b));
     document.querySelectorAll("main > section").forEach((s) => s.hidden = s.id !== b.dataset.tab);
   });
 
-  let data;
-  try { data = await (await fetch("data.json", { cache: "no-store" })).json(); }
+  let index;
+  try { index = await (await fetch("index.json", { cache: "no-store" })).json(); }
   catch { document.getElementById("maj").textContent = "Données indisponibles pour le moment."; return; }
+  const slug = new URLSearchParams(location.search).get("c") ?? index.competitions[0].slug;
+  const comp = index.competitions.find((c) => c.slug === slug) ?? index.competitions[0];
 
-  const fmtDate = (iso, heure) => new Date(iso).toLocaleString("fr-FR", heure
-    ? { weekday: "short", day: "numeric", month: "short", hour: "2-digit", minute: "2-digit", timeZone: "Europe/Paris" }
-    : { weekday: "short", day: "numeric", month: "short", timeZone: "Europe/Paris" });
-  const esc = (s) => String(s).replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+  document.getElementById("comps").innerHTML = index.competitions.map((c) =>
+    `<a href="?c=${c.slug}" aria-current="${c.slug === comp.slug}">${esc(c.court)}</a>`).join("");
+  const ics = base + comp.slug + ".ics";
+  document.getElementById("icsUrl").textContent = ics;
+  document.getElementById("addGoogle").href = "https://calendar.google.com/calendar/render?cid=" + encodeURIComponent(ics.replace(/^https?:/, "webcal:"));
+  document.getElementById("copyUrl").onclick = async (e) => {
+    try { await navigator.clipboard.writeText(ics); e.target.textContent = "Adresse copiée ✓"; } catch { prompt("Copiez cette adresse :", ics); }
+  };
+  document.title = comp.nom;
+  document.getElementById("titre").textContent = "🏉 " + comp.nom;
 
-  // Classement
-  const t = document.getElementById("tableau");
-  t.innerHTML = `<thead><tr><th>#</th><th class="team">Équipe</th><th>Pts</th><th>J</th><th class="opt">G</th><th class="opt">N</th><th class="opt">P</th><th>Diff</th><th class="opt">BO</th><th class="opt">BD</th><th class="opt">Forme</th></tr></thead><tbody>` +
-    data.classement.map((c) => `<tr class="${c.rang <= 2 ? "top2" : c.rang <= 6 ? "q6" : c.rang >= 13 ? "rel" : ""}">
-      <td>${c.rang}</td><td class="team">${esc(c.equipe)}</td><td class="pts">${c.pts}</td><td>${c.j}</td>
+  let data;
+  try { data = await (await fetch(comp.slug + ".json", { cache: "no-store" })).json(); }
+  catch { document.getElementById("maj").textContent = "Données indisponibles pour le moment."; return; }
+  const parPoules = data.groupes.length > 1;
+
+  // Classement (un tableau par poule s'il y en a).
+  const ligne = (c, i) => {
+    const cls = parPoules ? (i < 2 ? "q6" : "") : (c.rang <= 2 ? "top2" : c.rang <= 6 ? "q6" : c.rang >= 13 ? "rel" : "");
+    return `<tr class="${cls}"><td>${c.rang}</td><td class="team">${esc(c.equipe)}</td><td class="pts">${c.pts}</td><td>${c.j}</td>
       <td class="opt">${c.g}</td><td class="opt">${c.n}</td><td class="opt">${c.p}</td><td>${c.diff > 0 ? "+" : ""}${c.diff}</td>
       <td class="opt">${c.bo}</td><td class="opt">${c.bd}</td>
-      <td class="opt forme">${[...c.forme].slice(-5).map((x) => `<span class="${x}">${{ W: "G", L: "P", D: "N" }[x] ?? x}</span>`).join("")}</td></tr>`).join("") + "</tbody>";
+      <td class="opt forme">${[...c.forme].slice(-5).map((x) => `<span class="${x}">${{ W: "G", L: "P", D: "N" }[x] ?? x}</span>`).join("")}</td></tr>`;
+  };
+  const entete = `<thead><tr><th>#</th><th class="team">Équipe</th><th>Pts</th><th>J</th><th class="opt">G</th><th class="opt">N</th><th class="opt">P</th><th>Diff</th><th class="opt">BO</th><th class="opt">BD</th><th class="opt">Forme</th></tr></thead>`;
+  document.getElementById("classement").innerHTML = data.groupes.length
+    ? data.groupes.map((g) => `<div class="card">${g.poule ? `<h3>${esc(g.poule)}${g.approximatif ? " <small>(calcul sans bonus offensif)</small>" : ""}</h3>` : ""}
+        <div class="overflow"><table>${entete}<tbody>${g.equipes.map(ligne).join("")}</tbody></table></div>
+        ${parPoules ? "" : `<div class="legende"><i style="background:var(--top2)"></i>Demi-finales directes &nbsp; <i style="background:var(--q6)"></i>Barrages &nbsp; <i style="background:var(--rel)"></i>Relégable</div>`}</div>`).join("")
+    : `<div class="card">Classement pas encore disponible.</div>`;
 
-  // Matchs par journée
+  // Matchs par journée (ou par jour pour la Coupe du monde).
   const parJournee = new Map();
   for (const m of data.matchs) { if (!parJournee.has(m.journee)) parJournee.set(m.journee, []); parJournee.get(m.journee).push(m); }
-  const bloc = (j, ms) => `<div class="card journee"><h2><span>Journée ${j}</span><span>${fmtDate(ms[0].date)} → ${fmtDate(ms.at(-1).date)}</span></h2>` +
+  const titreBloc = (j, ms) => data.groupement === "jour"
+    ? `<span>${fmtDate(ms[0].date)}</span><span>${ms.length} match${ms.length > 1 ? "s" : ""}</span>`
+    : `<span>Journée ${j}</span><span>${fmtDate(ms[0].date)} → ${fmtDate(ms.at(-1).date)}</span>`;
+  const bloc = (j, ms) => `<div class="card journee"><h2>${titreBloc(j, ms)}</h2>` +
     ms.map((m) => {
       const joue = m.fini || m.enCours;
       const wd = joue && m.sd > m.se, we = joue && m.se > m.sd;
+      const infos = [m.fini ? "Terminé" : m.enCours ? "En cours" : "", fmtDate(m.date, m.horaireConnu) + (m.horaireConnu ? "" : " (horaire à confirmer)"), m.poule, m.note, m.stade].filter(Boolean);
       return `<div class="match"><div class="d ${wd ? "win" : ""}">${esc(m.dom)}</div>
-        <div class="s ${m.enCours ? "live" : ""}">${joue ? `${m.sd} - ${m.se}` : m.horaireConnu ? fmtDate(m.date, true).replace(/^.*?, /, "").split(" ").slice(-1) : "—"}</div>
+        <div class="s ${m.enCours ? "live" : ""}">${joue ? `${m.sd} - ${m.se}` : m.horaireConnu ? fmtHeure(m.date) : "—"}</div>
         <div class="e ${we ? "win" : ""}">${esc(m.ext)}</div>
-        <div class="meta">${m.fini ? "Terminé · " : m.enCours ? "En cours · " : ""}${fmtDate(m.date, m.horaireConnu)}${m.horaireConnu ? "" : " (horaire à confirmer)"}${m.stade ? " · " + esc(m.stade) : ""}</div></div>`;
+        <div class="meta">${infos.map(esc).join(" · ")}</div></div>`;
     }).join("") + "</div>";
 
   const journees = [...parJournee.keys()].sort((a, b) => a - b);
@@ -132,7 +159,9 @@
   document.getElementById("resultats").innerHTML = jouees.length
     ? jouees.slice().reverse().map((j) => bloc(j, parJournee.get(j).filter((m) => m.fini || m.enCours))).join("")
     : `<div class="card">Aucun match joué pour l'instant.</div>`;
-  document.getElementById("calendrier").innerHTML = aVenir.map((j) => bloc(j, parJournee.get(j).filter((m) => !m.fini))).join("");
+  document.getElementById("calendrier").innerHTML = aVenir.length
+    ? aVenir.map((j) => bloc(j, parJournee.get(j).filter((m) => !m.fini))).join("")
+    : `<div class="card">Tous les matchs connus ont été joués.</div>`;
   document.getElementById("maj").textContent = "Dernière mise à jour : " + new Date(data.misAJour).toLocaleString("fr-FR", { timeZone: "Europe/Paris" }) + " · source ESPN";
 })();
 </script>

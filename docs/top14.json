@@ -1,230 +1,238 @@
 {
- "misAJour": "2026-09-06T07:02:29.188Z",
- "saison": "2026-2027",
- "classement": [
+ "misAJour": "2026-09-06T07:15:07.786Z",
+ "slug": "top14",
+ "nom": "Top 14 2026-2027",
+ "court": "Top 14",
+ "groupement": "weekend",
+ "groupes": [
   {
-   "id": "143737",
-   "equipe": "Bordeaux-Bègles",
-   "rang": 1,
-   "pts": 5,
-   "j": 1,
-   "g": 1,
-   "n": 0,
-   "p": 0,
-   "pour": 64,
-   "contre": 5,
-   "diff": 59,
-   "bo": 1,
-   "bd": 0,
-   "forme": "W"
-  },
-  {
-   "id": "25916",
-   "equipe": "Castres",
-   "rang": 2,
-   "pts": 4,
-   "j": 1,
-   "g": 1,
-   "n": 0,
-   "p": 0,
-   "pour": 29,
-   "contre": 20,
-   "diff": 9,
-   "bo": 0,
-   "bd": 0,
-   "forme": "W"
-  },
-  {
-   "id": "270567",
-   "equipe": "Pau",
-   "rang": 3,
-   "pts": 4,
-   "j": 1,
-   "g": 1,
-   "n": 0,
-   "p": 0,
-   "pour": 27,
-   "contre": 19,
-   "diff": 8,
-   "bo": 0,
-   "bd": 0,
-   "forme": "W"
-  },
-  {
-   "id": "143736",
-   "equipe": "Lyon",
-   "rang": 4,
-   "pts": 4,
-   "j": 1,
-   "g": 1,
-   "n": 0,
-   "p": 0,
-   "pour": 40,
-   "contre": 36,
-   "diff": 4,
-   "bo": 0,
-   "bd": 0,
-   "forme": "W"
-  },
-  {
-   "id": "25921",
-   "equipe": "Stade Français",
-   "rang": 5,
-   "pts": 4,
-   "j": 1,
-   "g": 1,
-   "n": 0,
-   "p": 0,
-   "pour": 28,
-   "contre": 26,
-   "diff": 2,
-   "bo": 0,
-   "bd": 0,
-   "forme": "W"
-  },
-  {
-   "id": "25912",
-   "equipe": "Bayonne",
-   "rang": 6,
-   "pts": 4,
-   "j": 1,
-   "g": 1,
-   "n": 0,
-   "p": 0,
-   "pour": 27,
-   "contre": 26,
-   "diff": 1,
-   "bo": 0,
-   "bd": 0,
-   "forme": "W"
-  },
-  {
-   "id": "25986",
-   "equipe": "Toulon",
-   "rang": 7,
-   "pts": 1,
-   "j": 1,
-   "g": 0,
-   "n": 0,
-   "p": 1,
-   "pour": 26,
-   "contre": 27,
-   "diff": -1,
-   "bo": 0,
-   "bd": 1,
-   "forme": "L"
-  },
-  {
-   "id": "25920",
-   "equipe": "Perpignan",
-   "rang": 8,
-   "pts": 1,
-   "j": 1,
-   "g": 0,
-   "n": 0,
-   "p": 1,
-   "pour": 26,
-   "contre": 28,
-   "diff": -2,
-   "bo": 0,
-   "bd": 1,
-   "forme": "L"
-  },
-  {
-   "id": "25917",
-   "equipe": "Clermont",
-   "rang": 9,
-   "pts": 1,
-   "j": 1,
-   "g": 0,
-   "n": 0,
-   "p": 1,
-   "pour": 36,
-   "contre": 40,
-   "diff": -4,
-   "bo": 0,
-   "bd": 1,
-   "forme": "L"
-  },
-  {
-   "id": "119318",
-   "equipe": "La Rochelle",
-   "rang": 10,
-   "pts": 0,
-   "j": 0,
-   "g": 0,
-   "n": 0,
-   "p": 0,
-   "pour": 0,
-   "contre": 0,
-   "diff": 0,
-   "bo": 0,
-   "bd": 0,
-   "forme": ""
-  },
-  {
-   "id": "25922",
-   "equipe": "Stade Toulousain",
-   "rang": 11,
-   "pts": 0,
-   "j": 0,
-   "g": 0,
-   "n": 0,
-   "p": 0,
-   "pour": 0,
-   "contre": 0,
-   "diff": 0,
-   "bo": 0,
-   "bd": 0,
-   "forme": ""
-  },
-  {
-   "id": "25918",
-   "equipe": "Montpellier",
-   "rang": 12,
-   "pts": 0,
-   "j": 1,
-   "g": 0,
-   "n": 0,
-   "p": 1,
-   "pour": 19,
-   "contre": 27,
-   "diff": -8,
-   "bo": 0,
-   "bd": 0,
-   "forme": "L"
-  },
-  {
-   "id": "289337",
-   "equipe": "Vannes",
-   "rang": 13,
-   "pts": 0,
-   "j": 1,
-   "g": 0,
-   "n": 0,
-   "p": 1,
-   "pour": 20,
-   "contre": 29,
-   "diff": -9,
-   "bo": 0,
-   "bd": 0,
-   "forme": "L"
-  },
-  {
-   "id": "99855",
-   "equipe": "Racing 92",
-   "rang": 14,
-   "pts": 0,
-   "j": 1,
-   "g": 0,
-   "n": 0,
-   "p": 1,
-   "pour": 5,
-   "contre": 64,
-   "diff": -59,
-   "bo": 0,
-   "bd": 0,
-   "forme": "L"
+   "poule": "",
+   "equipes": [
+    {
+     "id": "143737",
+     "equipe": "Bordeaux-Bègles",
+     "rang": 1,
+     "pts": 5,
+     "j": 1,
+     "g": 1,
+     "n": 0,
+     "p": 0,
+     "pour": 64,
+     "contre": 5,
+     "diff": 59,
+     "bo": 1,
+     "bd": 0,
+     "forme": "W"
+    },
+    {
+     "id": "25916",
+     "equipe": "Castres",
+     "rang": 2,
+     "pts": 4,
+     "j": 1,
+     "g": 1,
+     "n": 0,
+     "p": 0,
+     "pour": 29,
+     "contre": 20,
+     "diff": 9,
+     "bo": 0,
+     "bd": 0,
+     "forme": "W"
+    },
+    {
+     "id": "270567",
+     "equipe": "Pau",
+     "rang": 3,
+     "pts": 4,
+     "j": 1,
+     "g": 1,
+     "n": 0,
+     "p": 0,
+     "pour": 27,
+     "contre": 19,
+     "diff": 8,
+     "bo": 0,
+     "bd": 0,
+     "forme": "W"
+    },
+    {
+     "id": "143736",
+     "equipe": "Lyon",
+     "rang": 4,
+     "pts": 4,
+     "j": 1,
+     "g": 1,
+     "n": 0,
+     "p": 0,
+     "pour": 40,
+     "contre": 36,
+     "diff": 4,
+     "bo": 0,
+     "bd": 0,
+     "forme": "W"
+    },
+    {
+     "id": "25921",
+     "equipe": "Stade Français",
+     "rang": 5,
+     "pts": 4,
+     "j": 1,
+     "g": 1,
+     "n": 0,
+     "p": 0,
+     "pour": 28,
+     "contre": 26,
+     "diff": 2,
+     "bo": 0,
+     "bd": 0,
+     "forme": "W"
+    },
+    {
+     "id": "25912",
+     "equipe": "Bayonne",
+     "rang": 6,
+     "pts": 4,
+     "j": 1,
+     "g": 1,
+     "n": 0,
+     "p": 0,
+     "pour": 27,
+     "contre": 26,
+     "diff": 1,
+     "bo": 0,
+     "bd": 0,
+     "forme": "W"
+    },
+    {
+     "id": "25986",
+     "equipe": "Toulon",
+     "rang": 7,
+     "pts": 1,
+     "j": 1,
+     "g": 0,
+     "n": 0,
+     "p": 1,
+     "pour": 26,
+     "contre": 27,
+     "diff": -1,
+     "bo": 0,
+     "bd": 1,
+     "forme": "L"
+    },
+    {
+     "id": "25920",
+     "equipe": "Perpignan",
+     "rang": 8,
+     "pts": 1,
+     "j": 1,
+     "g": 0,
+     "n": 0,
+     "p": 1,
+     "pour": 26,
+     "contre": 28,
+     "diff": -2,
+     "bo": 0,
+     "bd": 1,
+     "forme": "L"
+    },
+    {
+     "id": "25917",
+     "equipe": "Clermont",
+     "rang": 9,
+     "pts": 1,
+     "j": 1,
+     "g": 0,
+     "n": 0,
+     "p": 1,
+     "pour": 36,
+     "contre": 40,
+     "diff": -4,
+     "bo": 0,
+     "bd": 1,
+     "forme": "L"
+    },
+    {
+     "id": "119318",
+     "equipe": "La Rochelle",
+     "rang": 10,
+     "pts": 0,
+     "j": 0,
+     "g": 0,
+     "n": 0,
+     "p": 0,
+     "pour": 0,
+     "contre": 0,
+     "diff": 0,
+     "bo": 0,
+     "bd": 0,
+     "forme": ""
+    },
+    {
+     "id": "25922",
+     "equipe": "Stade Toulousain",
+     "rang": 11,
+     "pts": 0,
+     "j": 0,
+     "g": 0,
+     "n": 0,
+     "p": 0,
+     "pour": 0,
+     "contre": 0,
+     "diff": 0,
+     "bo": 0,
+     "bd": 0,
+     "forme": ""
+    },
+    {
+     "id": "25918",
+     "equipe": "Montpellier",
+     "rang": 12,
+     "pts": 0,
+     "j": 1,
+     "g": 0,
+     "n": 0,
+     "p": 1,
+     "pour": 19,
+     "contre": 27,
+     "diff": -8,
+     "bo": 0,
+     "bd": 0,
+     "forme": "L"
+    },
+    {
+     "id": "289337",
+     "equipe": "Vannes",
+     "rang": 13,
+     "pts": 0,
+     "j": 1,
+     "g": 0,
+     "n": 0,
+     "p": 1,
+     "pour": 20,
+     "contre": 29,
+     "diff": -9,
+     "bo": 0,
+     "bd": 0,
+     "forme": "L"
+    },
+    {
+     "id": "99855",
+     "equipe": "Racing 92",
+     "rang": 14,
+     "pts": 0,
+     "j": 1,
+     "g": 0,
+     "n": 0,
+     "p": 1,
+     "pour": 5,
+     "contre": 64,
+     "diff": -59,
+     "bo": 0,
+     "bd": 0,
+     "forme": "L"
+    }
+   ]
   }
  ],
  "matchs": [
@@ -240,6 +248,8 @@
    "enCours": false,
    "stade": "Stade Jean Dauger",
    "ville": "Bayonne",
+   "note": "",
+   "poule": "",
    "journee": 1
   },
   {
@@ -254,6 +264,8 @@
    "enCours": false,
    "stade": "Stade Pierre Fabre",
    "ville": "Castres",
+   "note": "",
+   "poule": "",
    "journee": 1
   },
   {
@@ -268,6 +280,8 @@
    "enCours": false,
    "stade": "Matmut Stadium de Gerland",
    "ville": "Lyon",
+   "note": "",
+   "poule": "",
    "journee": 1
   },
   {
@@ -282,6 +296,8 @@
    "enCours": false,
    "stade": "Septeo Stadium",
    "ville": "Montpellier",
+   "note": "",
+   "poule": "",
    "journee": 1
   },
   {
@@ -296,6 +312,8 @@
    "enCours": false,
    "stade": "Stade Jean Bouin",
    "ville": "Paris",
+   "note": "",
+   "poule": "",
    "journee": 1
   },
   {
@@ -310,6 +328,8 @@
    "enCours": false,
    "stade": "Stade Chaban-Delmas",
    "ville": "Bordeaux",
+   "note": "",
+   "poule": "",
    "journee": 1
   },
   {
@@ -324,6 +344,8 @@
    "enCours": false,
    "stade": "Stade Marcel-Deflandre",
    "ville": "La Rochelle",
+   "note": "",
+   "poule": "",
    "journee": 1
   },
   {
@@ -338,6 +360,8 @@
    "enCours": false,
    "stade": "Stade Aime Giral",
    "ville": "Perpignan",
+   "note": "",
+   "poule": "",
    "journee": 2
   },
   {
@@ -352,6 +376,8 @@
    "enCours": false,
    "stade": "Stade de la Rabine",
    "ville": "Vannes",
+   "note": "",
+   "poule": "",
    "journee": 2
   },
   {
@@ -366,6 +392,8 @@
    "enCours": false,
    "stade": "Stade Marcel Michelin",
    "ville": "Clermont-Ferrand",
+   "note": "",
+   "poule": "",
    "journee": 2
   },
   {
@@ -380,6 +408,8 @@
    "enCours": false,
    "stade": "Stade du Hameau",
    "ville": "Pau",
+   "note": "",
+   "poule": "",
    "journee": 2
   },
   {
@@ -394,6 +424,8 @@
    "enCours": false,
    "stade": "Stade Dominique Duvauchelle",
    "ville": "Creteil",
+   "note": "",
+   "poule": "",
    "journee": 2
   },
   {
@@ -408,6 +440,8 @@
    "enCours": false,
    "stade": "Stade Mayol",
    "ville": "Toulon",
+   "note": "",
+   "poule": "",
    "journee": 2
   },
   {
@@ -422,6 +456,8 @@
    "enCours": false,
    "stade": "Stade Ernest-Wallon",
    "ville": "Toulouse",
+   "note": "",
+   "poule": "",
    "journee": 2
   },
   {
@@ -436,6 +472,8 @@
    "enCours": false,
    "stade": "Stade Pierre Fabre",
    "ville": "Castres",
+   "note": "",
+   "poule": "",
    "journee": 3
   },
   {
@@ -450,6 +488,8 @@
    "enCours": false,
    "stade": "Stade Jean Dauger",
    "ville": "Bayonne",
+   "note": "",
+   "poule": "",
    "journee": 3
   },
   {
@@ -464,6 +504,8 @@
    "enCours": false,
    "stade": "Stade Marcel-Deflandre",
    "ville": "La Rochelle",
+   "note": "",
+   "poule": "",
    "journee": 3
   },
   {
@@ -478,6 +520,8 @@
    "enCours": false,
    "stade": "Matmut Stadium de Gerland",
    "ville": "Lyon",
+   "note": "",
+   "poule": "",
    "journee": 3
   },
   {
@@ -492,6 +536,8 @@
    "enCours": false,
    "stade": "Septeo Stadium",
    "ville": "Montpellier",
+   "note": "",
+   "poule": "",
    "journee": 3
   },
   {
@@ -506,6 +552,8 @@
    "enCours": false,
    "stade": "Roazhon Park",
    "ville": "",
+   "note": "",
+   "poule": "",
    "journee": 3
   },
   {
@@ -520,6 +568,8 @@
    "enCours": false,
    "stade": "Stade Chaban-Delmas",
    "ville": "Bordeaux",
+   "note": "",
+   "poule": "",
    "journee": 3
   },
   {
@@ -534,6 +584,8 @@
    "enCours": false,
    "stade": "Stade Aime Giral",
    "ville": "Perpignan",
+   "note": "",
+   "poule": "",
    "journee": 4
   },
   {
@@ -548,6 +600,8 @@
    "enCours": false,
    "stade": "Stade Marcel Michelin",
    "ville": "Clermont-Ferrand",
+   "note": "",
+   "poule": "",
    "journee": 4
   },
   {
@@ -562,6 +616,8 @@
    "enCours": false,
    "stade": "Stade Jean Bouin",
    "ville": "Paris",
+   "note": "",
+   "poule": "",
    "journee": 4
   },
   {
@@ -576,6 +632,8 @@
    "enCours": false,
    "stade": "Paris La Defense Arena",
    "ville": "Nanterre",
+   "note": "",
+   "poule": "",
    "journee": 4
   },
   {
@@ -590,6 +648,8 @@
    "enCours": false,
    "stade": "Stade Mayol",
    "ville": "Toulon",
+   "note": "",
+   "poule": "",
    "journee": 4
   },
   {
@@ -604,6 +664,8 @@
    "enCours": false,
    "stade": "Stade du Hameau",
    "ville": "Pau",
+   "note": "",
+   "poule": "",
    "journee": 4
   },
   {
@@ -618,6 +680,8 @@
    "enCours": false,
    "stade": "Stade Ernest-Wallon",
    "ville": "Toulouse",
+   "note": "",
+   "poule": "",
    "journee": 4
   },
   {
@@ -632,6 +696,8 @@
    "enCours": false,
    "stade": "Stade Chaban-Delmas",
    "ville": "Bordeaux",
+   "note": "",
+   "poule": "",
    "journee": 5
   },
   {
@@ -646,6 +712,8 @@
    "enCours": false,
    "stade": "Stade Jean Dauger",
    "ville": "Bayonne",
+   "note": "",
+   "poule": "",
    "journee": 5
   },
   {
@@ -660,6 +728,8 @@
    "enCours": false,
    "stade": "Stade de la Rabine",
    "ville": "Vannes",
+   "note": "",
+   "poule": "",
    "journee": 5
   },
   {
@@ -674,6 +744,8 @@
    "enCours": false,
    "stade": "Stade Marcel-Deflandre",
    "ville": "La Rochelle",
+   "note": "",
+   "poule": "",
    "journee": 5
   },
   {
@@ -688,6 +760,8 @@
    "enCours": false,
    "stade": "Paris La Defense Arena",
    "ville": "Nanterre",
+   "note": "",
+   "poule": "",
    "journee": 5
   },
   {
@@ -702,6 +776,8 @@
    "enCours": false,
    "stade": "Stade Pierre Fabre",
    "ville": "Castres",
+   "note": "",
+   "poule": "",
    "journee": 5
   },
   {
@@ -716,6 +792,8 @@
    "enCours": false,
    "stade": "Septeo Stadium",
    "ville": "Montpellier",
+   "note": "",
+   "poule": "",
    "journee": 5
   },
   {
@@ -730,6 +808,8 @@
    "enCours": false,
    "stade": "Stade Aime Giral",
    "ville": "Perpignan",
+   "note": "",
+   "poule": "",
    "journee": 6
   },
   {
@@ -744,6 +824,8 @@
    "enCours": false,
    "stade": "Stade Marcel Michelin",
    "ville": "Clermont-Ferrand",
+   "note": "",
+   "poule": "",
    "journee": 6
   },
   {
@@ -758,6 +840,8 @@
    "enCours": false,
    "stade": "Matmut Stadium de Gerland",
    "ville": "Lyon",
+   "note": "",
+   "poule": "",
    "journee": 6
   },
   {
@@ -772,6 +856,8 @@
    "enCours": false,
    "stade": "Stade Jean Bouin",
    "ville": "Paris",
+   "note": "",
+   "poule": "",
    "journee": 6
   },
   {
@@ -786,6 +872,8 @@
    "enCours": false,
    "stade": "Stade du Hameau",
    "ville": "Pau",
+   "note": "",
+   "poule": "",
    "journee": 6
   },
   {
@@ -800,6 +888,8 @@
    "enCours": false,
    "stade": "Stade Mayol",
    "ville": "Toulon",
+   "note": "",
+   "poule": "",
    "journee": 6
   },
   {
@@ -814,6 +904,8 @@
    "enCours": false,
    "stade": "Stade Ernest-Wallon",
    "ville": "Toulouse",
+   "note": "",
+   "poule": "",
    "journee": 6
   },
   {
@@ -828,6 +920,8 @@
    "enCours": false,
    "stade": "Stade Jean Dauger",
    "ville": "Bayonne",
+   "note": "",
+   "poule": "",
    "journee": 7
   },
   {
@@ -842,6 +936,8 @@
    "enCours": false,
    "stade": "Stade de la Rabine",
    "ville": "Vannes",
+   "note": "",
+   "poule": "",
    "journee": 7
   },
   {
@@ -856,6 +952,8 @@
    "enCours": false,
    "stade": "Stade Pierre Fabre",
    "ville": "Castres",
+   "note": "",
+   "poule": "",
    "journee": 7
   },
   {
@@ -870,6 +968,8 @@
    "enCours": false,
    "stade": "Stade Marcel-Deflandre",
    "ville": "La Rochelle",
+   "note": "",
+   "poule": "",
    "journee": 7
   },
   {
@@ -884,6 +984,8 @@
    "enCours": false,
    "stade": "Paris La Defense Arena",
    "ville": "Nanterre",
+   "note": "",
+   "poule": "",
    "journee": 7
   },
   {
@@ -898,6 +1000,8 @@
    "enCours": false,
    "stade": "Stade Mayol",
    "ville": "Toulon",
+   "note": "",
+   "poule": "",
    "journee": 7
   },
   {
@@ -912,6 +1016,8 @@
    "enCours": false,
    "stade": "Stade Ernest-Wallon",
    "ville": "Toulouse",
+   "note": "",
+   "poule": "",
    "journee": 7
   },
   {
@@ -926,6 +1032,8 @@
    "enCours": false,
    "stade": "Stade Aime Giral",
    "ville": "Perpignan",
+   "note": "",
+   "poule": "",
    "journee": 8
   },
   {
@@ -940,6 +1048,8 @@
    "enCours": false,
    "stade": "Stade Chaban-Delmas",
    "ville": "Bordeaux",
+   "note": "",
+   "poule": "",
    "journee": 8
   },
   {
@@ -954,6 +1064,8 @@
    "enCours": false,
    "stade": "Stade Marcel Michelin",
    "ville": "Clermont-Ferrand",
+   "note": "",
+   "poule": "",
    "journee": 8
   },
   {
@@ -968,6 +1080,8 @@
    "enCours": false,
    "stade": "Matmut Stadium de Gerland",
    "ville": "Lyon",
+   "note": "",
+   "poule": "",
    "journee": 8
   },
   {
@@ -982,6 +1096,8 @@
    "enCours": false,
    "stade": "Septeo Stadium",
    "ville": "Montpellier",
+   "note": "",
+   "poule": "",
    "journee": 8
   },
   {
@@ -996,6 +1112,8 @@
    "enCours": false,
    "stade": "Stade Jean Bouin",
    "ville": "Paris",
+   "note": "",
+   "poule": "",
    "journee": 8
   },
   {
@@ -1010,6 +1128,8 @@
    "enCours": false,
    "stade": "Stade du Hameau",
    "ville": "Pau",
+   "note": "",
+   "poule": "",
    "journee": 8
   },
   {
@@ -1024,6 +1144,8 @@
    "enCours": false,
    "stade": "Stade de la Rabine",
    "ville": "Vannes",
+   "note": "",
+   "poule": "",
    "journee": 9
   },
   {
@@ -1038,6 +1160,8 @@
    "enCours": false,
    "stade": "Stade Pierre Fabre",
    "ville": "Castres",
+   "note": "",
+   "poule": "",
    "journee": 9
   },
   {
@@ -1052,6 +1176,8 @@
    "enCours": false,
    "stade": "Stade Marcel-Deflandre",
    "ville": "La Rochelle",
+   "note": "",
+   "poule": "",
    "journee": 9
   },
   {
@@ -1066,6 +1192,8 @@
    "enCours": false,
    "stade": "Septeo Stadium",
    "ville": "Montpellier",
+   "note": "",
+   "poule": "",
    "journee": 9
   },
   {
@@ -1080,6 +1208,8 @@
    "enCours": false,
    "stade": "Stade du Hameau",
    "ville": "Pau",
+   "note": "",
+   "poule": "",
    "journee": 9
   },
   {
@@ -1094,6 +1224,8 @@
    "enCours": false,
    "stade": "Stade Mayol",
    "ville": "Toulon",
+   "note": "",
+   "poule": "",
    "journee": 9
   },
   {
@@ -1108,6 +1240,8 @@
    "enCours": false,
    "stade": "Stade Ernest-Wallon",
    "ville": "Toulouse",
+   "note": "",
+   "poule": "",
    "journee": 9
   },
   {
@@ -1122,6 +1256,8 @@
    "enCours": false,
    "stade": "Stade Jean Dauger",
    "ville": "Bayonne",
+   "note": "",
+   "poule": "",
    "journee": 10
   },
   {
@@ -1136,6 +1272,8 @@
    "enCours": false,
    "stade": "Stade Chaban-Delmas",
    "ville": "Bordeaux",
+   "note": "",
+   "poule": "",
    "journee": 10
   },
   {
@@ -1150,6 +1288,8 @@
    "enCours": false,
    "stade": "Stade Marcel Michelin",
    "ville": "Clermont-Ferrand",
+   "note": "",
+   "poule": "",
    "journee": 10
   },
   {
@@ -1164,6 +1304,8 @@
    "enCours": false,
    "stade": "Stade Marcel-Deflandre",
    "ville": "La Rochelle",
+   "note": "",
+   "poule": "",
    "journee": 10
   },
   {
@@ -1178,6 +1320,8 @@
    "enCours": false,
    "stade": "Matmut Stadium de Gerland",
    "ville": "Lyon",
+   "note": "",
+   "poule": "",
    "journee": 10
   },
   {
@@ -1192,6 +1336,8 @@
    "enCours": false,
    "stade": "Stade Jean Bouin",
    "ville": "Paris",
+   "note": "",
+   "poule": "",
    "journee": 10
   },
   {
@@ -1206,6 +1352,8 @@
    "enCours": false,
    "stade": "Paris La Defense Arena",
    "ville": "Nanterre",
+   "note": "",
+   "poule": "",
    "journee": 10
   },
   {
@@ -1220,6 +1368,8 @@
    "enCours": false,
    "stade": "Stade Aime Giral",
    "ville": "Perpignan",
+   "note": "",
+   "poule": "",
    "journee": 11
   },
   {
@@ -1234,6 +1384,8 @@
    "enCours": false,
    "stade": "Stade de la Rabine",
    "ville": "Vannes",
+   "note": "",
+   "poule": "",
    "journee": 11
   },
   {
@@ -1248,6 +1400,8 @@
    "enCours": false,
    "stade": "Stade Pierre Fabre",
    "ville": "Castres",
+   "note": "",
+   "poule": "",
    "journee": 11
   },
   {
@@ -1262,6 +1416,8 @@
    "enCours": false,
    "stade": "Septeo Stadium",
    "ville": "Montpellier",
+   "note": "",
+   "poule": "",
    "journee": 11
   },
   {
@@ -1276,6 +1432,8 @@
    "enCours": false,
    "stade": "Stade du Hameau",
    "ville": "Pau",
+   "note": "",
+   "poule": "",
    "journee": 11
   },
   {
@@ -1290,6 +1448,8 @@
    "enCours": false,
    "stade": "Stade Mayol",
    "ville": "Toulon",
+   "note": "",
+   "poule": "",
    "journee": 11
   },
   {
@@ -1304,6 +1464,8 @@
    "enCours": false,
    "stade": "Stade Ernest-Wallon",
    "ville": "Toulouse",
+   "note": "",
+   "poule": "",
    "journee": 11
   },
   {
@@ -1318,6 +1480,8 @@
    "enCours": false,
    "stade": "Stade Jean Dauger",
    "ville": "Bayonne",
+   "note": "",
+   "poule": "",
    "journee": 12
   },
   {
@@ -1332,6 +1496,8 @@
    "enCours": false,
    "stade": "Stade Chaban-Delmas",
    "ville": "Bordeaux",
+   "note": "",
+   "poule": "",
    "journee": 12
   },
   {
@@ -1346,6 +1512,8 @@
    "enCours": false,
    "stade": "Stade Marcel Michelin",
    "ville": "Clermont-Ferrand",
+   "note": "",
+   "poule": "",
    "journee": 12
   },
   {
@@ -1360,6 +1528,8 @@
    "enCours": false,
    "stade": "Stade Marcel-Deflandre",
    "ville": "La Rochelle",
+   "note": "",
+   "poule": "",
    "journee": 12
   },
   {
@@ -1374,6 +1544,8 @@
    "enCours": false,
    "stade": "Matmut Stadium de Gerland",
    "ville": "Lyon",
+   "note": "",
+   "poule": "",
    "journee": 12
   },
   {
@@ -1388,6 +1560,8 @@
    "enCours": false,
    "stade": "Stade Jean Bouin",
    "ville": "Paris",
+   "note": "",
+   "poule": "",
    "journee": 12
   },
   {
@@ -1402,6 +1576,8 @@
    "enCours": false,
    "stade": "Paris La Defense Arena",
    "ville": "Nanterre",
+   "note": "",
+   "poule": "",
    "journee": 12
   },
   {
@@ -1416,6 +1592,8 @@
    "enCours": false,
    "stade": "Stade Aime Giral",
    "ville": "Perpignan",
+   "note": "",
+   "poule": "",
    "journee": 13
   },
   {
@@ -1430,6 +1608,8 @@
    "enCours": false,
    "stade": "Stade de la Rabine",
    "ville": "Vannes",
+   "note": "",
+   "poule": "",
    "journee": 13
   },
   {
@@ -1444,6 +1624,8 @@
    "enCours": false,
    "stade": "Stade Pierre Fabre",
    "ville": "Castres",
+   "note": "",
+   "poule": "",
    "journee": 13
   },
   {
@@ -1458,6 +1640,8 @@
    "enCours": false,
    "stade": "Septeo Stadium",
    "ville": "Montpellier",
+   "note": "",
+   "poule": "",
    "journee": 13
   },
   {
@@ -1472,6 +1656,8 @@
    "enCours": false,
    "stade": "Stade du Hameau",
    "ville": "Pau",
+   "note": "",
+   "poule": "",
    "journee": 13
   },
   {
@@ -1486,6 +1672,8 @@
    "enCours": false,
    "stade": "Paris La Defense Arena",
    "ville": "Nanterre",
+   "note": "",
+   "poule": "",
    "journee": 13
   },
   {
@@ -1500,6 +1688,8 @@
    "enCours": false,
    "stade": "Stade Ernest-Wallon",
    "ville": "Toulouse",
+   "note": "",
+   "poule": "",
    "journee": 13
   },
   {
@@ -1514,6 +1704,8 @@
    "enCours": false,
    "stade": "Stade Jean Dauger",
    "ville": "Bayonne",
+   "note": "",
+   "poule": "",
    "journee": 14
   },
   {
@@ -1528,6 +1720,8 @@
    "enCours": false,
    "stade": "Stade Chaban-Delmas",
    "ville": "Bordeaux",
+   "note": "",
+   "poule": "",
    "journee": 14
   },
   {
@@ -1542,6 +1736,8 @@
    "enCours": false,
    "stade": "Stade Marcel Michelin",
    "ville": "Clermont-Ferrand",
+   "note": "",
+   "poule": "",
    "journee": 14
   },
   {
@@ -1556,6 +1752,8 @@
    "enCours": false,
    "stade": "Stade Marcel-Deflandre",
    "ville": "La Rochelle",
+   "note": "",
+   "poule": "",
    "journee": 14
   },
   {
@@ -1570,6 +1768,8 @@
    "enCours": false,
    "stade": "Matmut Stadium de Gerland",
    "ville": "Lyon",
+   "note": "",
+   "poule": "",
    "journee": 14
   },
   {
@@ -1584,6 +1784,8 @@
    "enCours": false,
    "stade": "Stade Jean Bouin",
    "ville": "Paris",
+   "note": "",
+   "poule": "",
    "journee": 14
   },
   {
@@ -1598,6 +1800,8 @@
    "enCours": false,
    "stade": "Stade Mayol",
    "ville": "Toulon",
+   "note": "",
+   "poule": "",
    "journee": 14
   },
   {
@@ -1612,6 +1816,8 @@
    "enCours": false,
    "stade": "Stade de la Rabine",
    "ville": "Vannes",
+   "note": "",
+   "poule": "",
    "journee": 15
   },
   {
@@ -1626,6 +1832,8 @@
    "enCours": false,
    "stade": "Stade Pierre Fabre",
    "ville": "Castres",
+   "note": "",
+   "poule": "",
    "journee": 15
   },
   {
@@ -1640,6 +1848,8 @@
    "enCours": false,
    "stade": "Septeo Stadium",
    "ville": "Montpellier",
+   "note": "",
+   "poule": "",
    "journee": 15
   },
   {
@@ -1654,6 +1864,8 @@
    "enCours": false,
    "stade": "Stade du Hameau",
    "ville": "Pau",
+   "note": "",
+   "poule": "",
    "journee": 15
   },
   {
@@ -1668,6 +1880,8 @@
    "enCours": false,
    "stade": "Paris La Defense Arena",
    "ville": "Nanterre",
+   "note": "",
+   "poule": "",
    "journee": 15
   },
   {
@@ -1682,6 +1896,8 @@
    "enCours": false,
    "stade": "Stade Mayol",
    "ville": "Toulon",
+   "note": "",
+   "poule": "",
    "journee": 15
   },
   {
@@ -1696,6 +1912,8 @@
    "enCours": false,
    "stade": "Stade Ernest-Wallon",
    "ville": "Toulouse",
+   "note": "",
+   "poule": "",
    "journee": 15
   },
   {
@@ -1710,6 +1928,8 @@
    "enCours": false,
    "stade": "Stade Aime Giral",
    "ville": "Perpignan",
+   "note": "",
+   "poule": "",
    "journee": 16
   },
   {
@@ -1724,6 +1944,8 @@
    "enCours": false,
    "stade": "Stade Chaban-Delmas",
    "ville": "Bordeaux",
+   "note": "",
+   "poule": "",
    "journee": 16
   },
   {
@@ -1738,6 +1960,8 @@
    "enCours": false,
    "stade": "Stade Marcel Michelin",
    "ville": "Clermont-Ferrand",
+   "note": "",
+   "poule": "",
    "journee": 16
   },
   {
@@ -1752,6 +1976,8 @@
    "enCours": false,
    "stade": "Stade Marcel-Deflandre",
    "ville": "La Rochelle",
+   "note": "",
+   "poule": "",
    "journee": 16
   },
   {
@@ -1766,6 +1992,8 @@
    "enCours": false,
    "stade": "Matmut Stadium de Gerland",
    "ville": "Lyon",
+   "note": "",
+   "poule": "",
    "journee": 16
   },
   {
@@ -1780,6 +2008,8 @@
    "enCours": false,
    "stade": "Stade du Hameau",
    "ville": "Pau",
+   "note": "",
+   "poule": "",
    "journee": 16
   },
   {
@@ -1794,6 +2024,8 @@
    "enCours": false,
    "stade": "Paris La Defense Arena",
    "ville": "Nanterre",
+   "note": "",
+   "poule": "",
    "journee": 16
   },
   {
@@ -1808,6 +2040,8 @@
    "enCours": false,
    "stade": "Stade Jean Dauger",
    "ville": "Bayonne",
+   "note": "",
+   "poule": "",
    "journee": 17
   },
   {
@@ -1822,6 +2056,8 @@
    "enCours": false,
    "stade": "Stade Aime Giral",
    "ville": "Perpignan",
+   "note": "",
+   "poule": "",
    "journee": 17
   },
   {
@@ -1836,6 +2072,8 @@
    "enCours": false,
    "stade": "Stade de la Rabine",
    "ville": "Vannes",
+   "note": "",
+   "poule": "",
    "journee": 17
   },
   {
@@ -1850,6 +2088,8 @@
    "enCours": false,
    "stade": "Septeo Stadium",
    "ville": "Montpellier",
+   "note": "",
+   "poule": "",
    "journee": 17
   },
   {
@@ -1864,6 +2104,8 @@
    "enCours": false,
    "stade": "Stade Jean Bouin",
    "ville": "Paris",
+   "note": "",
+   "poule": "",
    "journee": 17
   },
   {
@@ -1878,6 +2120,8 @@
    "enCours": false,
    "stade": "Stade Mayol",
    "ville": "Toulon",
+   "note": "",
+   "poule": "",
    "journee": 17
   },
   {
@@ -1892,6 +2136,8 @@
    "enCours": false,
    "stade": "Stade Ernest-Wallon",
    "ville": "Toulouse",
+   "note": "",
+   "poule": "",
    "journee": 17
   },
   {
@@ -1906,6 +2152,8 @@
    "enCours": false,
    "stade": "Stade Chaban-Delmas",
    "ville": "Bordeaux",
+   "note": "",
+   "poule": "",
    "journee": 18
   },
   {
@@ -1920,6 +2168,8 @@
    "enCours": false,
    "stade": "Stade Pierre Fabre",
    "ville": "Castres",
+   "note": "",
+   "poule": "",
    "journee": 18
   },
   {
@@ -1934,6 +2184,8 @@
    "enCours": false,
    "stade": "Stade Marcel Michelin",
    "ville": "Clermont-Ferrand",
+   "note": "",
+   "poule": "",
    "journee": 18
   },
   {
@@ -1948,6 +2200,8 @@
    "enCours": false,
    "stade": "Stade Marcel-Deflandre",
    "ville": "La Rochelle",
+   "note": "",
+   "poule": "",
    "journee": 18
   },
   {
@@ -1962,6 +2216,8 @@
    "enCours": false,
    "stade": "Matmut Stadium de Gerland",
    "ville": "Lyon",
+   "note": "",
+   "poule": "",
    "journee": 18
   },
   {
@@ -1976,6 +2232,8 @@
    "enCours": false,
    "stade": "Stade du Hameau",
    "ville": "Pau",
+   "note": "",
+   "poule": "",
    "journee": 18
   },
   {
@@ -1990,6 +2248,8 @@
    "enCours": false,
    "stade": "Paris La Defense Arena",
    "ville": "Nanterre",
+   "note": "",
+   "poule": "",
    "journee": 18
   },
   {
@@ -2004,6 +2264,8 @@
    "enCours": false,
    "stade": "Stade Jean Dauger",
    "ville": "Bayonne",
+   "note": "",
+   "poule": "",
    "journee": 19
   },
   {
@@ -2018,6 +2280,8 @@
    "enCours": false,
    "stade": "Stade Aime Giral",
    "ville": "Perpignan",
+   "note": "",
+   "poule": "",
    "journee": 19
   },
   {
@@ -2032,6 +2296,8 @@
    "enCours": false,
    "stade": "Stade Pierre Fabre",
    "ville": "Castres",
+   "note": "",
+   "poule": "",
    "journee": 19
   },
   {
@@ -2046,6 +2312,8 @@
    "enCours": false,
    "stade": "Septeo Stadium",
    "ville": "Montpellier",
+   "note": "",
+   "poule": "",
    "journee": 19
   },
   {
@@ -2060,6 +2328,8 @@
    "enCours": false,
    "stade": "Stade Jean Bouin",
    "ville": "Paris",
+   "note": "",
+   "poule": "",
    "journee": 19
   },
   {
@@ -2074,6 +2344,8 @@
    "enCours": false,
    "stade": "Stade Mayol",
    "ville": "Toulon",
+   "note": "",
+   "poule": "",
    "journee": 19
   },
   {
@@ -2088,6 +2360,8 @@
    "enCours": false,
    "stade": "Stade Ernest-Wallon",
    "ville": "Toulouse",
+   "note": "",
+   "poule": "",
    "journee": 19
   },
   {
@@ -2102,6 +2376,8 @@
    "enCours": false,
    "stade": "Stade Jean Dauger",
    "ville": "Bayonne",
+   "note": "",
+   "poule": "",
    "journee": 20
   },
   {
@@ -2116,6 +2392,8 @@
    "enCours": false,
    "stade": "Stade Aime Giral",
    "ville": "Perpignan",
+   "note": "",
+   "poule": "",
    "journee": 20
   },
   {
@@ -2130,6 +2408,8 @@
    "enCours": false,
    "stade": "Stade Chaban-Delmas",
    "ville": "Bordeaux",
+   "note": "",
+   "poule": "",
    "journee": 20
   },
   {
@@ -2144,6 +2424,8 @@
    "enCours": false,
    "stade": "Stade de la Rabine",
    "ville": "Vannes",
+   "note": "",
+   "poule": "",
    "journee": 20
   },
   {
@@ -2158,6 +2440,8 @@
    "enCours": false,
    "stade": "Stade Marcel Michelin",
    "ville": "Clermont-Ferrand",
+   "note": "",
+   "poule": "",
    "journee": 20
   },
   {
@@ -2172,6 +2456,8 @@
    "enCours": false,
    "stade": "Matmut Stadium de Gerland",
    "ville": "Lyon",
+   "note": "",
+   "poule": "",
    "journee": 20
   },
   {
@@ -2186,6 +2472,8 @@
    "enCours": false,
    "stade": "Paris La Defense Arena",
    "ville": "Nanterre",
+   "note": "",
+   "poule": "",
    "journee": 20
   },
   {
@@ -2200,6 +2488,8 @@
    "enCours": false,
    "stade": "Stade Pierre Fabre",
    "ville": "Castres",
+   "note": "",
+   "poule": "",
    "journee": 21
   },
   {
@@ -2214,6 +2504,8 @@
    "enCours": false,
    "stade": "Stade Marcel-Deflandre",
    "ville": "La Rochelle",
+   "note": "",
+   "poule": "",
    "journee": 21
   },
   {
@@ -2228,6 +2520,8 @@
    "enCours": false,
    "stade": "Matmut Stadium de Gerland",
    "ville": "Lyon",
+   "note": "",
+   "poule": "",
    "journee": 21
   },
   {
@@ -2242,6 +2536,8 @@
    "enCours": false,
    "stade": "Septeo Stadium",
    "ville": "Montpellier",
+   "note": "",
+   "poule": "",
    "journee": 21
   },
   {
@@ -2256,6 +2552,8 @@
    "enCours": false,
    "stade": "Stade Jean Bouin",
    "ville": "Paris",
+   "note": "",
+   "poule": "",
    "journee": 21
   },
   {
@@ -2270,6 +2568,8 @@
    "enCours": false,
    "stade": "Stade du Hameau",
    "ville": "Pau",
+   "note": "",
+   "poule": "",
    "journee": 21
   },
   {
@@ -2284,6 +2584,8 @@
    "enCours": false,
    "stade": "Stade Mayol",
    "ville": "Toulon",
+   "note": "",
+   "poule": "",
    "journee": 21
   },
   {
@@ -2298,6 +2600,8 @@
    "enCours": false,
    "stade": "Stade Jean Dauger",
    "ville": "Bayonne",
+   "note": "",
+   "poule": "",
    "journee": 22
   },
   {
@@ -2312,6 +2616,8 @@
    "enCours": false,
    "stade": "Stade Aime Giral",
    "ville": "Perpignan",
+   "note": "",
+   "poule": "",
    "journee": 22
   },
   {
@@ -2326,6 +2632,8 @@
    "enCours": false,
    "stade": "Stade Chaban-Delmas",
    "ville": "Bordeaux",
+   "note": "",
+   "poule": "",
    "journee": 22
   },
   {
@@ -2340,6 +2648,8 @@
    "enCours": false,
    "stade": "Stade de la Rabine",
    "ville": "Vannes",
+   "note": "",
+   "poule": "",
    "journee": 22
   },
   {
@@ -2354,6 +2664,8 @@
    "enCours": false,
    "stade": "Stade Marcel Michelin",
    "ville": "Clermont-Ferrand",
+   "note": "",
+   "poule": "",
    "journee": 22
   },
   {
@@ -2368,6 +2680,8 @@
    "enCours": false,
    "stade": "Stade Jean Bouin",
    "ville": "Paris",
+   "note": "",
+   "poule": "",
    "journee": 22
   },
   {
@@ -2382,6 +2696,8 @@
    "enCours": false,
    "stade": "Stade Ernest-Wallon",
    "ville": "Toulouse",
+   "note": "",
+   "poule": "",
    "journee": 22
   },
   {
@@ -2396,6 +2712,8 @@
    "enCours": false,
    "stade": "Stade Jean Dauger",
    "ville": "Bayonne",
+   "note": "",
+   "poule": "",
    "journee": 23
   },
   {
@@ -2410,6 +2728,8 @@
    "enCours": false,
    "stade": "Stade Marcel Michelin",
    "ville": "Clermont-Ferrand",
+   "note": "",
+   "poule": "",
    "journee": 23
   },
   {
@@ -2424,6 +2744,8 @@
    "enCours": false,
    "stade": "Matmut Stadium de Gerland",
    "ville": "Lyon",
+   "note": "",
+   "poule": "",
    "journee": 23
   },
   {
@@ -2438,6 +2760,8 @@
    "enCours": false,
    "stade": "Septeo Stadium",
    "ville": "Montpellier",
+   "note": "",
+   "poule": "",
    "journee": 23
   },
   {
@@ -2452,6 +2776,8 @@
    "enCours": false,
    "stade": "Stade du Hameau",
    "ville": "Pau",
+   "note": "",
+   "poule": "",
    "journee": 23
   },
   {
@@ -2466,6 +2792,8 @@
    "enCours": false,
    "stade": "Paris La Defense Arena",
    "ville": "Nanterre",
+   "note": "",
+   "poule": "",
    "journee": 23
   },
   {
@@ -2480,6 +2808,8 @@
    "enCours": false,
    "stade": "Stade Mayol",
    "ville": "Toulon",
+   "note": "",
+   "poule": "",
    "journee": 23
   },
   {
@@ -2494,6 +2824,8 @@
    "enCours": false,
    "stade": "Stade Aime Giral",
    "ville": "Perpignan",
+   "note": "",
+   "poule": "",
    "journee": 24
   },
   {
@@ -2508,6 +2840,8 @@
    "enCours": false,
    "stade": "Stade Chaban-Delmas",
    "ville": "Bordeaux",
+   "note": "",
+   "poule": "",
    "journee": 24
   },
   {
@@ -2522,6 +2856,8 @@
    "enCours": false,
    "stade": "Stade de la Rabine",
    "ville": "Vannes",
+   "note": "",
+   "poule": "",
    "journee": 24
   },
   {
@@ -2536,6 +2872,8 @@
    "enCours": false,
    "stade": "Stade Pierre Fabre",
    "ville": "Castres",
+   "note": "",
+   "poule": "",
    "journee": 24
   },
   {
@@ -2550,6 +2888,8 @@
    "enCours": false,
    "stade": "Stade Marcel-Deflandre",
    "ville": "La Rochelle",
+   "note": "",
+   "poule": "",
    "journee": 24
   },
   {
@@ -2564,6 +2904,8 @@
    "enCours": false,
    "stade": "Stade Jean Bouin",
    "ville": "Paris",
+   "note": "",
+   "poule": "",
    "journee": 24
   },
   {
@@ -2578,6 +2920,8 @@
    "enCours": false,
    "stade": "Stade Ernest-Wallon",
    "ville": "Toulouse",
+   "note": "",
+   "poule": "",
    "journee": 24
   },
   {
@@ -2592,6 +2936,8 @@
    "enCours": false,
    "stade": "Stade Jean Dauger",
    "ville": "Bayonne",
+   "note": "",
+   "poule": "",
    "journee": 25
   },
   {
@@ -2606,6 +2952,8 @@
    "enCours": false,
    "stade": "Stade Pierre Fabre",
    "ville": "Castres",
+   "note": "",
+   "poule": "",
    "journee": 25
   },
   {
@@ -2620,6 +2968,8 @@
    "enCours": false,
    "stade": "Stade Marcel Michelin",
    "ville": "Clermont-Ferrand",
+   "note": "",
+   "poule": "",
    "journee": 25
   },
   {
@@ -2634,6 +2984,8 @@
    "enCours": false,
    "stade": "Matmut Stadium de Gerland",
    "ville": "Lyon",
+   "note": "",
+   "poule": "",
    "journee": 25
   },
   {
@@ -2648,6 +3000,8 @@
    "enCours": false,
    "stade": "Septeo Stadium",
    "ville": "Montpellier",
+   "note": "",
+   "poule": "",
    "journee": 25
   },
   {
@@ -2662,6 +3016,8 @@
    "enCours": false,
    "stade": "Stade Mayol",
    "ville": "Toulon",
+   "note": "",
+   "poule": "",
    "journee": 25
   },
   {
@@ -2676,6 +3032,8 @@
    "enCours": false,
    "stade": "Stade Ernest-Wallon",
    "ville": "Toulouse",
+   "note": "",
+   "poule": "",
    "journee": 25
   },
   {
@@ -2690,6 +3048,8 @@
    "enCours": false,
    "stade": "Stade Aime Giral",
    "ville": "Perpignan",
+   "note": "",
+   "poule": "",
    "journee": 26
   },
   {
@@ -2704,6 +3064,8 @@
    "enCours": false,
    "stade": "Stade Chaban-Delmas",
    "ville": "Bordeaux",
+   "note": "",
+   "poule": "",
    "journee": 26
   },
   {
@@ -2718,6 +3080,8 @@
    "enCours": false,
    "stade": "Stade de la Rabine",
    "ville": "Vannes",
+   "note": "",
+   "poule": "",
    "journee": 26
   },
   {
@@ -2732,6 +3096,8 @@
    "enCours": false,
    "stade": "Stade Marcel-Deflandre",
    "ville": "La Rochelle",
+   "note": "",
+   "poule": "",
    "journee": 26
   },
   {
@@ -2746,6 +3112,8 @@
    "enCours": false,
    "stade": "Stade Jean Bouin",
    "ville": "Paris",
+   "note": "",
+   "poule": "",
    "journee": 26
   },
   {
@@ -2760,6 +3128,8 @@
    "enCours": false,
    "stade": "Stade du Hameau",
    "ville": "Pau",
+   "note": "",
+   "poule": "",
    "journee": 26
   },
   {
@@ -2774,6 +3144,8 @@
    "enCours": false,
    "stade": "Paris La Defense Arena",
    "ville": "Nanterre",
+   "note": "",
+   "poule": "",
    "journee": 26
   }
  ]

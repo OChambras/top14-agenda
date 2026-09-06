@@ -1,0 +1,514 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//top14-agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Coupe du monde 2027
+X-WR-TIMEZONE:Europe/Paris
+X-PUBLISHED-TTL:PT3H
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+BEGIN:VEVENT
+UID:coupe-du-monde-603499@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20271001T104500Z
+DTEND:20271001T124500Z
+SUMMARY:🏉 Australie - Hong Kong
+LOCATION:Optus Stadium\, Perth
+DESCRIPTION:Coupe du monde — Poule A\nCoup d'envoi (heure de Paris dan
+ s votre agenda)\nStade : Optus Stadium (Perth)\nMis à jour automatiqu
+ ement.
+CATEGORIES:Coupe du monde,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:coupe-du-monde-603500@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20271002T024500Z
+DTEND:20271002T044500Z
+SUMMARY:🏉 Pays de Galles - Zimbabwe
+LOCATION:Adelaide Oval\, Adelaide
+DESCRIPTION:Coupe du monde — Poule F\nCoup d'envoi (heure de Paris dan
+ s votre agenda)\nStade : Adelaide Oval (Adelaide)\nMis à jour automat
+ iquement.
+CATEGORIES:Coupe du monde,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:coupe-du-monde-603501@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20271002T051500Z
+DTEND:20271002T071500Z
+SUMMARY:🏉 Nouvelle-Zélande - Chili
+LOCATION:Optus Stadium\, Perth
+DESCRIPTION:Coupe du monde — Poule A\nCoup d'envoi (heure de Paris dan
+ s votre agenda)\nStade : Optus Stadium (Perth)\nMis à jour automatiqu
+ ement.
+CATEGORIES:Coupe du monde,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:coupe-du-monde-603502@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20271002T074500Z
+DTEND:20271002T094500Z
+SUMMARY:🏉 France - États-Unis
+LOCATION:Marvel Stadium\, Melbourne
+DESCRIPTION:Coupe du monde — Poule E\nCoup d'envoi (heure de Paris dan
+ s votre agenda)\nStade : Marvel Stadium (Melbourne)\nMis à jour autom
+ atiquement.
+CATEGORIES:Coupe du monde,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:coupe-du-monde-603503@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20271002T101500Z
+DTEND:20271002T121500Z
+SUMMARY:🏉 Angleterre - Tonga
+LOCATION:Suncorp Stadium\, Brisbane
+DESCRIPTION:Coupe du monde — Poule F\nCoup d'envoi (heure de Paris dan
+ s votre agenda)\nStade : Suncorp Stadium (Brisbane)\nMis à jour autom
+ atiquement.
+CATEGORIES:Coupe du monde,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:coupe-du-monde-603504@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20271003T011500Z
+DTEND:20271003T031500Z
+SUMMARY:🏉 Japon - Samoa
+LOCATION:McDonald Jones Stadium\, Newcastle
+DESCRIPTION:Coupe du monde — Poule E\nCoup d'envoi (heure de Paris dan
+ s votre agenda)\nStade : McDonald Jones Stadium (Newcastle)\nMis à jo
+ ur automatiquement.
+CATEGORIES:Coupe du monde,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:coupe-du-monde-603505@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20271003T034500Z
+DTEND:20271003T054500Z
+SUMMARY:🏉 Afrique du Sud - Italie
+LOCATION:Adelaide Oval\, Adelaide
+DESCRIPTION:Coupe du monde — Poule B\nCoup d'envoi (heure de Paris dan
+ s votre agenda)\nStade : Adelaide Oval (Adelaide)\nMis à jour automat
+ iquement.
+CATEGORIES:Coupe du monde,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:coupe-du-monde-603506@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20271003T061500Z
+DTEND:20271003T081500Z
+SUMMARY:🏉 Écosse - Uruguay
+LOCATION:Marvel Stadium\, Melbourne
+DESCRIPTION:Coupe du monde — Poule D\nCoup d'envoi (heure de Paris dan
+ s votre agenda)\nStade : Marvel Stadium (Melbourne)\nMis à jour autom
+ atiquement.
+CATEGORIES:Coupe du monde,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:coupe-du-monde-603507@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20271003T101500Z
+DTEND:20271003T121500Z
+SUMMARY:🏉 Géorgie - Roumanie
+LOCATION:Queensland Country Bank Stadium\, Townsville
+DESCRIPTION:Coupe du monde — Poule B\nCoup d'envoi (heure de Paris dan
+ s votre agenda)\nStade : Queensland Country Bank Stadium (Townsville)
+ \nMis à jour automatiquement.
+CATEGORIES:Coupe du monde,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:coupe-du-monde-603508@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20271004T031500Z
+DTEND:20271004T051500Z
+SUMMARY:🏉 Fidji - Espagne
+LOCATION:McDonald Jones Stadium\, Newcastle
+DESCRIPTION:Coupe du monde — Poule C\nCoup d'envoi (heure de Paris dan
+ s votre agenda)\nStade : McDonald Jones Stadium (Newcastle)\nMis à jo
+ ur automatiquement.
+CATEGORIES:Coupe du monde,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:coupe-du-monde-603509@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20271004T061500Z
+DTEND:20271004T081500Z
+SUMMARY:🏉 Irlande - Portugal
+LOCATION:Allianz Stadium\, Sydney
+DESCRIPTION:Coupe du monde — Poule D\nCoup d'envoi (heure de Paris dan
+ s votre agenda)\nStade : Allianz Stadium (Sydney)\nMis à jour automat
+ iquement.
+CATEGORIES:Coupe du monde,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:coupe-du-monde-603510@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20271004T084500Z
+DTEND:20271004T104500Z
+SUMMARY:🏉 Argentine - Canada
+LOCATION:Suncorp Stadium\, Brisbane
+DESCRIPTION:Coupe du monde — Poule C\nCoup d'envoi (heure de Paris dan
+ s votre agenda)\nStade : Suncorp Stadium (Brisbane)\nMis à jour autom
+ atiquement.
+CATEGORIES:Coupe du monde,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:coupe-du-monde-603511@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20271008T071500Z
+DTEND:20271008T091500Z
+SUMMARY:🏉 Pays de Galles - Tonga
+LOCATION:Marvel Stadium\, Melbourne
+DESCRIPTION:Coupe du monde — Poule F\nCoup d'envoi (heure de Paris dan
+ s votre agenda)\nStade : Marvel Stadium (Melbourne)\nMis à jour autom
+ atiquement.
+CATEGORIES:Coupe du monde,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:coupe-du-monde-603512@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20271008T094500Z
+DTEND:20271008T114500Z
+SUMMARY:🏉 Angleterre - Zimbabwe
+LOCATION:Adelaide Oval\, Adelaide
+DESCRIPTION:Coupe du monde — Poule F\nCoup d'envoi (heure de Paris dan
+ s votre agenda)\nStade : Adelaide Oval (Adelaide)\nMis à jour automat
+ iquement.
+CATEGORIES:Coupe du monde,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:coupe-du-monde-603513@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20271009T041500Z
+DTEND:20271009T061500Z
+SUMMARY:🏉 États-Unis - Samoa
+LOCATION:Optus Stadium\, Perth
+DESCRIPTION:Coupe du monde — Poule E\nCoup d'envoi (heure de Paris dan
+ s votre agenda)\nStade : Optus Stadium (Perth)\nMis à jour automatiqu
+ ement.
+CATEGORIES:Coupe du monde,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:coupe-du-monde-603514@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20271009T061000Z
+DTEND:20271009T081000Z
+SUMMARY:🏉 Nouvelle-Zélande - Australie
+LOCATION:Accor Stadium\, Sydney
+DESCRIPTION:Coupe du monde — Poule A\nCoup d'envoi (heure de Paris dan
+ s votre agenda)\nStade : Accor Stadium (Sydney)\nMis à jour automatiq
+ uement.
+CATEGORIES:Coupe du monde,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:coupe-du-monde-603515@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20271009T084500Z
+DTEND:20271009T104500Z
+SUMMARY:🏉 France - Japon
+LOCATION:Suncorp Stadium\, Brisbane
+DESCRIPTION:Coupe du monde — Poule E\nCoup d'envoi (heure de Paris dan
+ s votre agenda)\nStade : Suncorp Stadium (Brisbane)\nMis à jour autom
+ atiquement.
+CATEGORIES:Coupe du monde,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:coupe-du-monde-603516@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20271009T101500Z
+DTEND:20271009T121500Z
+SUMMARY:🏉 Chili - Hong Kong
+LOCATION:Queensland Country Bank Stadium\, Townsville
+DESCRIPTION:Coupe du monde — Poule A\nCoup d'envoi (heure de Paris dan
+ s votre agenda)\nStade : Queensland Country Bank Stadium (Townsville)
+ \nMis à jour automatiquement.
+CATEGORIES:Coupe du monde,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:coupe-du-monde-603517@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20271010T014500Z
+DTEND:20271010T034500Z
+SUMMARY:🏉 Fidji - Canada
+LOCATION:Adelaide Oval\, Adelaide
+DESCRIPTION:Coupe du monde — Poule C\nCoup d'envoi (heure de Paris dan
+ s votre agenda)\nStade : Adelaide Oval (Adelaide)\nMis à jour automat
+ iquement.
+CATEGORIES:Coupe du monde,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:coupe-du-monde-603518@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20271010T041500Z
+DTEND:20271010T061500Z
+SUMMARY:🏉 Argentine - Espagne
+LOCATION:Marvel Stadium\, Melbourne
+DESCRIPTION:Coupe du monde — Poule C\nCoup d'envoi (heure de Paris dan
+ s votre agenda)\nStade : Marvel Stadium (Melbourne)\nMis à jour autom
+ atiquement.
+CATEGORIES:Coupe du monde,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:coupe-du-monde-603519@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20271010T064500Z
+DTEND:20271010T084500Z
+SUMMARY:🏉 Afrique du Sud - Géorgie
+LOCATION:Suncorp Stadium\, Brisbane
+DESCRIPTION:Coupe du monde — Poule B\nCoup d'envoi (heure de Paris dan
+ s votre agenda)\nStade : Suncorp Stadium (Brisbane)\nMis à jour autom
+ atiquement.
+CATEGORIES:Coupe du monde,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:coupe-du-monde-603520@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20271010T094500Z
+DTEND:20271010T114500Z
+SUMMARY:🏉 Irlande - Écosse
+LOCATION:Optus Stadium\, Perth
+DESCRIPTION:Coupe du monde — Poule D\nCoup d'envoi (heure de Paris dan
+ s votre agenda)\nStade : Optus Stadium (Perth)\nMis à jour automatiqu
+ ement.
+CATEGORIES:Coupe du monde,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:coupe-du-monde-603521@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20271011T061500Z
+DTEND:20271011T081500Z
+SUMMARY:🏉 Uruguay - Portugal
+LOCATION:McDonald Jones Stadium\, Newcastle
+DESCRIPTION:Coupe du monde — Poule D\nCoup d'envoi (heure de Paris dan
+ s votre agenda)\nStade : McDonald Jones Stadium (Newcastle)\nMis à jo
+ ur automatiquement.
+CATEGORIES:Coupe du monde,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:coupe-du-monde-603522@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20271011T084500Z
+DTEND:20271011T104500Z
+SUMMARY:🏉 Italie - Roumanie
+LOCATION:Allianz Stadium\, Sydney
+DESCRIPTION:Coupe du monde — Poule B\nCoup d'envoi (heure de Paris dan
+ s votre agenda)\nStade : Allianz Stadium (Sydney)\nMis à jour automat
+ iquement.
+CATEGORIES:Coupe du monde,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:coupe-du-monde-603523@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20271015T061500Z
+DTEND:20271015T081500Z
+SUMMARY:🏉 Nouvelle-Zélande - Hong Kong
+LOCATION:Marvel Stadium\, Melbourne
+DESCRIPTION:Coupe du monde — Poule A\nCoup d'envoi (heure de Paris dan
+ s votre agenda)\nStade : Marvel Stadium (Melbourne)\nMis à jour autom
+ atiquement.
+CATEGORIES:Coupe du monde,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:coupe-du-monde-603524@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20271015T093000Z
+DTEND:20271015T113000Z
+SUMMARY:🏉 Japon - États-Unis
+LOCATION:Adelaide Oval\, Adelaide
+DESCRIPTION:Coupe du monde — Poule E\nCoup d'envoi (heure de Paris dan
+ s votre agenda)\nStade : Adelaide Oval (Adelaide)\nMis à jour automat
+ iquement.
+CATEGORIES:Coupe du monde,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:coupe-du-monde-603525@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20271015T101500Z
+DTEND:20271015T121500Z
+SUMMARY:🏉 Tonga - Zimbabwe
+LOCATION:Queensland Country Bank Stadium\, Townsville
+DESCRIPTION:Coupe du monde — Poule F\nCoup d'envoi (heure de Paris dan
+ s votre agenda)\nStade : Queensland Country Bank Stadium (Townsville)
+ \nMis à jour automatiquement.
+CATEGORIES:Coupe du monde,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:coupe-du-monde-603526@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20271016T024500Z
+DTEND:20271016T044500Z
+SUMMARY:🏉 Argentine - Fidji
+LOCATION:Adelaide Oval\, Adelaide
+DESCRIPTION:Coupe du monde — Poule C\nCoup d'envoi (heure de Paris dan
+ s votre agenda)\nStade : Adelaide Oval (Adelaide)\nMis à jour automat
+ iquement.
+CATEGORIES:Coupe du monde,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:coupe-du-monde-603527@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20271016T051000Z
+DTEND:20271016T071000Z
+SUMMARY:🏉 Australie - Chili
+LOCATION:Suncorp Stadium\, Brisbane
+DESCRIPTION:Coupe du monde — Poule A\nCoup d'envoi (heure de Paris dan
+ s votre agenda)\nStade : Suncorp Stadium (Brisbane)\nMis à jour autom
+ atiquement.
+CATEGORIES:Coupe du monde,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:coupe-du-monde-603528@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20271016T084500Z
+DTEND:20271016T104500Z
+SUMMARY:🏉 Angleterre - Pays de Galles
+LOCATION:Accor Stadium\, Sydney
+DESCRIPTION:Coupe du monde — Poule F\nCoup d'envoi (heure de Paris dan
+ s votre agenda)\nStade : Accor Stadium (Sydney)\nMis à jour automatiq
+ uement.
+CATEGORIES:Coupe du monde,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:coupe-du-monde-603529@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20271016T101500Z
+DTEND:20271016T121500Z
+SUMMARY:🏉 Espagne - Canada
+LOCATION:Queensland Country Bank Stadium\, Townsville
+DESCRIPTION:Coupe du monde — Poule C\nCoup d'envoi (heure de Paris dan
+ s votre agenda)\nStade : Queensland Country Bank Stadium (Townsville)
+ \nMis à jour automatiquement.
+CATEGORIES:Coupe du monde,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:coupe-du-monde-603530@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20271017T011500Z
+DTEND:20271017T031500Z
+SUMMARY:🏉 Italie - Géorgie
+LOCATION:McDonald Jones Stadium\, Newcastle
+DESCRIPTION:Coupe du monde — Poule B\nCoup d'envoi (heure de Paris dan
+ s votre agenda)\nStade : McDonald Jones Stadium (Newcastle)\nMis à jo
+ ur automatiquement.
+CATEGORIES:Coupe du monde,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:coupe-du-monde-603531@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20271017T034500Z
+DTEND:20271017T054500Z
+SUMMARY:🏉 Irlande - Uruguay
+LOCATION:Marvel Stadium\, Melbourne
+DESCRIPTION:Coupe du monde — Poule D\nCoup d'envoi (heure de Paris dan
+ s votre agenda)\nStade : Marvel Stadium (Melbourne)\nMis à jour autom
+ atiquement.
+CATEGORIES:Coupe du monde,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:coupe-du-monde-603532@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20271017T061500Z
+DTEND:20271017T081500Z
+SUMMARY:🏉 Écosse - Portugal
+LOCATION:Suncorp Stadium\, Brisbane
+DESCRIPTION:Coupe du monde — Poule D\nCoup d'envoi (heure de Paris dan
+ s votre agenda)\nStade : Suncorp Stadium (Brisbane)\nMis à jour autom
+ atiquement.
+CATEGORIES:Coupe du monde,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:coupe-du-monde-603533@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20271017T084500Z
+DTEND:20271017T104500Z
+SUMMARY:🏉 France - Samoa
+LOCATION:Allianz Stadium\, Sydney
+DESCRIPTION:Coupe du monde — Poule E\nCoup d'envoi (heure de Paris dan
+ s votre agenda)\nStade : Allianz Stadium (Sydney)\nMis à jour automat
+ iquement.
+CATEGORIES:Coupe du monde,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:coupe-du-monde-603534@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20271017T111500Z
+DTEND:20271017T131500Z
+SUMMARY:🏉 Afrique du Sud - Roumanie
+LOCATION:Optus Stadium\, Perth
+DESCRIPTION:Coupe du monde — Poule B\nCoup d'envoi (heure de Paris dan
+ s votre agenda)\nStade : Optus Stadium (Perth)\nMis à jour automatiqu
+ ement.
+CATEGORIES:Coupe du monde,Rugby
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,676 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//top14-agenda//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Champions Cup 2026-2027
+X-WR-TIMEZONE:Europe/Paris
+X-PUBLISHED-TTL:PT3H
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+BEGIN:VEVENT
+UID:champions-cup-604246@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20261016T190000Z
+DTEND:20261016T210000Z
+SUMMARY:🏉 Gloucester - Bordeaux-Bègles
+LOCATION:Kingsholm\, Gloucester
+DESCRIPTION:Coupe d'Europe — Journée 1 — Poule 3\nCoup d'envoi (heure 
+ de Paris dans votre agenda)\nStade : Kingsholm (Gloucester)\nMis à jo
+ ur automatiquement.
+CATEGORIES:Coupe d'Europe,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-cup-604247@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20261017T120000Z
+DTEND:20261017T140000Z
+SUMMARY:🏉 Sale Sharks - Glasgow Warriors
+LOCATION:CorpAcq Stadium\, Salford
+DESCRIPTION:Coupe d'Europe — Journée 1 — Poule 1\nCoup d'envoi (heure 
+ de Paris dans votre agenda)\nStade : CorpAcq Stadium (Salford)\nMis à
+  jour automatiquement.
+CATEGORIES:Coupe d'Europe,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-cup-604248@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20261017T120000Z
+DTEND:20261017T140000Z
+SUMMARY:🏉 Bulls - Stade Français
+LOCATION:Loftus Versfeld\, Pretoria
+DESCRIPTION:Coupe d'Europe — Journée 1 — Poule 4\nCoup d'envoi (heure 
+ de Paris dans votre agenda)\nStade : Loftus Versfeld (Pretoria)\nMis 
+ à jour automatiquement.
+CATEGORIES:Coupe d'Europe,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-cup-604249@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20261017T141500Z
+DTEND:20261017T161500Z
+SUMMARY:🏉 Clermont - Leinster
+LOCATION:Stade Marcel Michelin\, Clermont-Ferrand
+DESCRIPTION:Coupe d'Europe — Journée 1 — Poule 1\nCoup d'envoi (heure 
+ de Paris dans votre agenda)\nStade : Stade Marcel Michelin (Clermont-
+ Ferrand)\nMis à jour automatiquement.
+CATEGORIES:Coupe d'Europe,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-cup-604250@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20261017T141500Z
+DTEND:20261017T161500Z
+SUMMARY:🏉 Stormers - Bristol
+LOCATION:DHL Stadium\, Cape Town
+DESCRIPTION:Coupe d'Europe — Journée 1 — Poule 3\nCoup d'envoi (heure 
+ de Paris dans votre agenda)\nStade : DHL Stadium (Cape Town)\nMis à j
+ our automatiquement.
+CATEGORIES:Coupe d'Europe,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-cup-604251@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20261017T163000Z
+DTEND:20261017T183000Z
+SUMMARY:🏉 Connacht - Saracens
+LOCATION:Dexcom Stadium\, Galway
+DESCRIPTION:Coupe d'Europe — Journée 1 — Poule 2\nCoup d'envoi (heure 
+ de Paris dans votre agenda)\nStade : Dexcom Stadium (Galway)\nMis à j
+ our automatiquement.
+CATEGORIES:Coupe d'Europe,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-cup-604252@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20261017T163000Z
+DTEND:20261017T183000Z
+SUMMARY:🏉 La Rochelle - Lions
+LOCATION:Stade Marcel-Deflandre\, La Rochelle
+DESCRIPTION:Coupe d'Europe — Journée 1 — Poule 2\nCoup d'envoi (heure 
+ de Paris dans votre agenda)\nStade : Stade Marcel-Deflandre (La Roche
+ lle)\nMis à jour automatiquement.
+CATEGORIES:Coupe d'Europe,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-cup-604253@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20261017T190000Z
+DTEND:20261017T210000Z
+SUMMARY:🏉 Munster - Racing 92
+LOCATION:Pairc Ui Chaoimh\, Cork
+DESCRIPTION:Coupe d'Europe — Journée 1 — Poule 3\nCoup d'envoi (heure 
+ de Paris dans votre agenda)\nStade : Pairc Ui Chaoimh (Cork)\nMis à j
+ our automatiquement.
+CATEGORIES:Coupe d'Europe,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-cup-604254@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20261017T190000Z
+DTEND:20261017T210000Z
+SUMMARY:🏉 Bath - Montpellier
+LOCATION:Recreation Ground\, Bath
+DESCRIPTION:Coupe d'Europe — Journée 1 — Poule 4\nCoup d'envoi (heure 
+ de Paris dans votre agenda)\nStade : Recreation Ground (Bath)\nMis à 
+ jour automatiquement.
+CATEGORIES:Coupe d'Europe,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-cup-604255@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20261018T120000Z
+DTEND:20261018T140000Z
+SUMMARY:🏉 Pau - Leicester Tigers
+LOCATION:Stade du Hameau\, Pau
+DESCRIPTION:Coupe d'Europe — Journée 1 — Poule 1\nCoup d'envoi (heure 
+ de Paris dans votre agenda)\nStade : Stade du Hameau (Pau)\nMis à jou
+ r automatiquement.
+CATEGORIES:Coupe d'Europe,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-cup-604256@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20261018T141500Z
+DTEND:20261018T161500Z
+SUMMARY:🏉 Stade Toulousain - Exeter Chiefs
+LOCATION:Stadium de Toulouse\, Toulouse
+DESCRIPTION:Coupe d'Europe — Journée 1 — Poule 2\nCoup d'envoi (heure 
+ de Paris dans votre agenda)\nStade : Stadium de Toulouse (Toulouse)\n
+ Mis à jour automatiquement.
+CATEGORIES:Coupe d'Europe,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-cup-604257@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20261018T163000Z
+DTEND:20261018T183000Z
+SUMMARY:🏉 Northampton Saints - Cardiff
+LOCATION:cinch Stadium at Franklin's Gardens\, Northampton
+DESCRIPTION:Coupe d'Europe — Journée 1 — Poule 4\nCoup d'envoi (heure 
+ de Paris dans votre agenda)\nStade : cinch Stadium at Franklin's Gard
+ ens (Northampton)\nMis à jour automatiquement.
+CATEGORIES:Coupe d'Europe,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-cup-604258@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20261211T200000Z
+DTEND:20261211T220000Z
+SUMMARY:🏉 Glasgow Warriors - Pau
+LOCATION:Scotstoun Stadium\, Glasgow
+DESCRIPTION:Coupe d'Europe — Journée 2 — Poule 1\nCoup d'envoi (heure 
+ de Paris dans votre agenda)\nStade : Scotstoun Stadium (Glasgow)\nMis
+  à jour automatiquement.
+CATEGORIES:Coupe d'Europe,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-cup-604259@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20261211T200000Z
+DTEND:20261211T220000Z
+SUMMARY:🏉 Stade Français - Northampton Saints
+LOCATION:Stade Jean Bouin\, Paris
+DESCRIPTION:Coupe d'Europe — Journée 2 — Poule 4\nCoup d'envoi (heure 
+ de Paris dans votre agenda)\nStade : Stade Jean Bouin (Paris)\nMis à 
+ jour automatiquement.
+CATEGORIES:Coupe d'Europe,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-cup-604260@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20261212T130000Z
+DTEND:20261212T150000Z
+SUMMARY:🏉 Lions - Stade Toulousain
+LOCATION:Ellis Park\, Johannesburg
+DESCRIPTION:Coupe d'Europe — Journée 2 — Poule 2\nCoup d'envoi (heure 
+ de Paris dans votre agenda)\nStade : Ellis Park (Johannesburg)\nMis à
+  jour automatiquement.
+CATEGORIES:Coupe d'Europe,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-cup-604261@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20261212T151500Z
+DTEND:20261212T171500Z
+SUMMARY:🏉 Leicester Tigers - Clermont
+LOCATION:Mattioli Woods Welford Road Stadium\, Leicester
+DESCRIPTION:Coupe d'Europe — Journée 2 — Poule 1\nCoup d'envoi (heure 
+ de Paris dans votre agenda)\nStade : Mattioli Woods Welford Road Stad
+ ium (Leicester)\nMis à jour automatiquement.
+CATEGORIES:Coupe d'Europe,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-cup-604262@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20261212T151500Z
+DTEND:20261212T171500Z
+SUMMARY:🏉 Montpellier - Bulls
+LOCATION:Septeo Stadium\, Montpellier
+DESCRIPTION:Coupe d'Europe — Journée 2 — Poule 4\nCoup d'envoi (heure 
+ de Paris dans votre agenda)\nStade : Septeo Stadium (Montpellier)\nMi
+ s à jour automatiquement.
+CATEGORIES:Coupe d'Europe,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-cup-604263@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20261212T173000Z
+DTEND:20261212T193000Z
+SUMMARY:🏉 Leinster - Sale Sharks
+DESCRIPTION:Coupe d'Europe — Journée 2 — Poule 1\nCoup d'envoi (heure 
+ de Paris dans votre agenda)\nMis à jour automatiquement.
+CATEGORIES:Coupe d'Europe,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-cup-604264@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20261212T173000Z
+DTEND:20261212T193000Z
+SUMMARY:🏉 Saracens - La Rochelle
+LOCATION:StoneX Stadium\, London
+DESCRIPTION:Coupe d'Europe — Journée 2 — Poule 2\nCoup d'envoi (heure 
+ de Paris dans votre agenda)\nStade : StoneX Stadium (London)\nMis à j
+ our automatiquement.
+CATEGORIES:Coupe d'Europe,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-cup-604265@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20261212T200000Z
+DTEND:20261212T220000Z
+SUMMARY:🏉 Bristol - Munster
+LOCATION:Ashton Gate\, Bristol
+DESCRIPTION:Coupe d'Europe — Journée 2 — Poule 3\nCoup d'envoi (heure 
+ de Paris dans votre agenda)\nStade : Ashton Gate (Bristol)\nMis à jou
+ r automatiquement.
+CATEGORIES:Coupe d'Europe,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-cup-604266@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20261212T200000Z
+DTEND:20261212T220000Z
+SUMMARY:🏉 Cardiff - Bath
+DESCRIPTION:Coupe d'Europe — Journée 2 — Poule 4\nCoup d'envoi (heure 
+ de Paris dans votre agenda)\nMis à jour automatiquement.
+CATEGORIES:Coupe d'Europe,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-cup-604267@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20261213T130000Z
+DTEND:20261213T150000Z
+SUMMARY:🏉 Exeter Chiefs - Connacht
+LOCATION:Sandy Park\, Exeter
+DESCRIPTION:Coupe d'Europe — Journée 2 — Poule 2\nCoup d'envoi (heure 
+ de Paris dans votre agenda)\nStade : Sandy Park (Exeter)\nMis à jour 
+ automatiquement.
+CATEGORIES:Coupe d'Europe,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-cup-604268@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20261213T151500Z
+DTEND:20261213T171500Z
+SUMMARY:🏉 Bordeaux-Bègles - Stormers
+LOCATION:Stade Chaban-Delmas\, Bordeaux
+DESCRIPTION:Coupe d'Europe — Journée 2 — Poule 3\nCoup d'envoi (heure 
+ de Paris dans votre agenda)\nStade : Stade Chaban-Delmas (Bordeaux)\n
+ Mis à jour automatiquement.
+CATEGORIES:Coupe d'Europe,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-cup-604269@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20261213T173000Z
+DTEND:20261213T193000Z
+SUMMARY:🏉 Racing 92 - Gloucester
+LOCATION:Paris La Defense Arena\, Nanterre
+DESCRIPTION:Coupe d'Europe — Journée 2 — Poule 3\nCoup d'envoi (heure 
+ de Paris dans votre agenda)\nStade : Paris La Defense Arena (Nanterre
+ )\nMis à jour automatiquement.
+CATEGORIES:Coupe d'Europe,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-cup-604270@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20270108T200000Z
+DTEND:20270108T220000Z
+SUMMARY:🏉 Glasgow Warriors - Leicester Tigers
+LOCATION:Scotstoun Stadium\, Glasgow
+DESCRIPTION:Coupe d'Europe — Journée 3 — Poule 1\nCoup d'envoi (heure 
+ de Paris dans votre agenda)\nStade : Scotstoun Stadium (Glasgow)\nMis
+  à jour automatiquement.
+CATEGORIES:Coupe d'Europe,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-cup-604271@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20270109T130000Z
+DTEND:20270109T150000Z
+SUMMARY:🏉 Gloucester - Stormers
+LOCATION:Kingsholm\, Gloucester
+DESCRIPTION:Coupe d'Europe — Journée 3 — Poule 3\nCoup d'envoi (heure 
+ de Paris dans votre agenda)\nStade : Kingsholm (Gloucester)\nMis à jo
+ ur automatiquement.
+CATEGORIES:Coupe d'Europe,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-cup-604272@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20270109T151500Z
+DTEND:20270109T171500Z
+SUMMARY:🏉 Exeter Chiefs - La Rochelle
+LOCATION:Sandy Park\, Exeter
+DESCRIPTION:Coupe d'Europe — Journée 3 — Poule 2\nCoup d'envoi (heure 
+ de Paris dans votre agenda)\nStade : Sandy Park (Exeter)\nMis à jour 
+ automatiquement.
+CATEGORIES:Coupe d'Europe,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-cup-604273@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20270109T151500Z
+DTEND:20270109T171500Z
+SUMMARY:🏉 Bulls - Bath
+LOCATION:Loftus Versfeld\, Pretoria
+DESCRIPTION:Coupe d'Europe — Journée 3 — Poule 4\nCoup d'envoi (heure 
+ de Paris dans votre agenda)\nStade : Loftus Versfeld (Pretoria)\nMis 
+ à jour automatiquement.
+CATEGORIES:Coupe d'Europe,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-cup-604274@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20270109T173000Z
+DTEND:20270109T193000Z
+SUMMARY:🏉 Leinster - Pau
+LOCATION:Laya Arena\, Dublin
+DESCRIPTION:Coupe d'Europe — Journée 3 — Poule 1\nCoup d'envoi (heure 
+ de Paris dans votre agenda)\nStade : Laya Arena (Dublin)\nMis à jour 
+ automatiquement.
+CATEGORIES:Coupe d'Europe,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-cup-604275@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20270109T173000Z
+DTEND:20270109T193000Z
+SUMMARY:🏉 Montpellier - Northampton Saints
+LOCATION:Septeo Stadium\, Montpellier
+DESCRIPTION:Coupe d'Europe — Journée 3 — Poule 4\nCoup d'envoi (heure 
+ de Paris dans votre agenda)\nStade : Septeo Stadium (Montpellier)\nMi
+ s à jour automatiquement.
+CATEGORIES:Coupe d'Europe,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-cup-604276@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20270109T200000Z
+DTEND:20270109T220000Z
+SUMMARY:🏉 Connacht - Stade Toulousain
+LOCATION:Dexcom Stadium\, Galway
+DESCRIPTION:Coupe d'Europe — Journée 3 — Poule 2\nCoup d'envoi (heure 
+ de Paris dans votre agenda)\nStade : Dexcom Stadium (Galway)\nMis à j
+ our automatiquement.
+CATEGORIES:Coupe d'Europe,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-cup-604277@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20270109T200000Z
+DTEND:20270109T220000Z
+SUMMARY:🏉 Stade Français - Cardiff
+LOCATION:Stade Jean Bouin\, Paris
+DESCRIPTION:Coupe d'Europe — Journée 3 — Poule 4\nCoup d'envoi (heure 
+ de Paris dans votre agenda)\nStade : Stade Jean Bouin (Paris)\nMis à 
+ jour automatiquement.
+CATEGORIES:Coupe d'Europe,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-cup-604278@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20270110T130000Z
+DTEND:20270110T150000Z
+SUMMARY:🏉 Racing 92 - Bristol
+DESCRIPTION:Coupe d'Europe — Journée 3 — Poule 3\nCoup d'envoi (heure 
+ de Paris dans votre agenda)\nMis à jour automatiquement.
+CATEGORIES:Coupe d'Europe,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-cup-604279@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20270110T151500Z
+DTEND:20270110T171500Z
+SUMMARY:🏉 Saracens - Lions
+LOCATION:StoneX Stadium\, London
+DESCRIPTION:Coupe d'Europe — Journée 3 — Poule 2\nCoup d'envoi (heure 
+ de Paris dans votre agenda)\nStade : StoneX Stadium (London)\nMis à j
+ our automatiquement.
+CATEGORIES:Coupe d'Europe,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-cup-604280@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20270110T151500Z
+DTEND:20270110T171500Z
+SUMMARY:🏉 Bordeaux-Bègles - Munster
+LOCATION:Stade Chaban-Delmas\, Bordeaux
+DESCRIPTION:Coupe d'Europe — Journée 3 — Poule 3\nCoup d'envoi (heure 
+ de Paris dans votre agenda)\nStade : Stade Chaban-Delmas (Bordeaux)\n
+ Mis à jour automatiquement.
+CATEGORIES:Coupe d'Europe,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-cup-604281@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20270110T173000Z
+DTEND:20270110T193000Z
+SUMMARY:🏉 Sale Sharks - Clermont
+LOCATION:CorpAcq Stadium\, Salford
+DESCRIPTION:Coupe d'Europe — Journée 3 — Poule 1\nCoup d'envoi (heure 
+ de Paris dans votre agenda)\nStade : CorpAcq Stadium (Salford)\nMis à
+  jour automatiquement.
+CATEGORIES:Coupe d'Europe,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-cup-604282@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20270115T200000Z
+DTEND:20270115T220000Z
+SUMMARY:🏉 Northampton Saints - Bulls
+LOCATION:cinch Stadium at Franklin's Gardens\, Northampton
+DESCRIPTION:Coupe d'Europe — Journée 4 — Poule 4\nCoup d'envoi (heure 
+ de Paris dans votre agenda)\nStade : cinch Stadium at Franklin's Gard
+ ens (Northampton)\nMis à jour automatiquement.
+CATEGORIES:Coupe d'Europe,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-cup-604283@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20270115T200000Z
+DTEND:20270115T220000Z
+SUMMARY:🏉 Cardiff - Montpellier
+LOCATION:Cardiff Arms Park\, Cardiff
+DESCRIPTION:Coupe d'Europe — Journée 4 — Poule 4\nCoup d'envoi (heure 
+ de Paris dans votre agenda)\nStade : Cardiff Arms Park (Cardiff)\nMis
+  à jour automatiquement.
+CATEGORIES:Coupe d'Europe,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-cup-604284@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20270116T130000Z
+DTEND:20270116T150000Z
+SUMMARY:🏉 Pau - Sale Sharks
+LOCATION:Stade du Hameau\, Pau
+DESCRIPTION:Coupe d'Europe — Journée 4 — Poule 1\nCoup d'envoi (heure 
+ de Paris dans votre agenda)\nStade : Stade du Hameau (Pau)\nMis à jou
+ r automatiquement.
+CATEGORIES:Coupe d'Europe,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-cup-604285@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20270116T130000Z
+DTEND:20270116T150000Z
+SUMMARY:🏉 Lions - Exeter Chiefs
+LOCATION:Ellis Park\, Johannesburg
+DESCRIPTION:Coupe d'Europe — Journée 4 — Poule 2\nCoup d'envoi (heure 
+ de Paris dans votre agenda)\nStade : Ellis Park (Johannesburg)\nMis à
+  jour automatiquement.
+CATEGORIES:Coupe d'Europe,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-cup-604286@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20270116T151500Z
+DTEND:20270116T171500Z
+SUMMARY:🏉 Bristol - Bordeaux-Bègles
+LOCATION:Ashton Gate\, Bristol
+DESCRIPTION:Coupe d'Europe — Journée 4 — Poule 3\nCoup d'envoi (heure 
+ de Paris dans votre agenda)\nStade : Ashton Gate (Bristol)\nMis à jou
+ r automatiquement.
+CATEGORIES:Coupe d'Europe,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-cup-604287@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20270116T151500Z
+DTEND:20270116T171500Z
+SUMMARY:🏉 Stormers - Racing 92
+LOCATION:DHL Stadium\, Cape Town
+DESCRIPTION:Coupe d'Europe — Journée 4 — Poule 3\nCoup d'envoi (heure 
+ de Paris dans votre agenda)\nStade : DHL Stadium (Cape Town)\nMis à j
+ our automatiquement.
+CATEGORIES:Coupe d'Europe,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-cup-604288@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20270116T173000Z
+DTEND:20270116T193000Z
+SUMMARY:🏉 La Rochelle - Connacht
+LOCATION:Stade Marcel-Deflandre\, La Rochelle
+DESCRIPTION:Coupe d'Europe — Journée 4 — Poule 2\nCoup d'envoi (heure 
+ de Paris dans votre agenda)\nStade : Stade Marcel-Deflandre (La Roche
+ lle)\nMis à jour automatiquement.
+CATEGORIES:Coupe d'Europe,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-cup-604289@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20270116T173000Z
+DTEND:20270116T193000Z
+SUMMARY:🏉 Munster - Gloucester
+LOCATION:Thomond Park\, Limerick
+DESCRIPTION:Coupe d'Europe — Journée 4 — Poule 3\nCoup d'envoi (heure 
+ de Paris dans votre agenda)\nStade : Thomond Park (Limerick)\nMis à j
+ our automatiquement.
+CATEGORIES:Coupe d'Europe,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-cup-604290@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20270116T200000Z
+DTEND:20270116T220000Z
+SUMMARY:🏉 Clermont - Glasgow Warriors
+LOCATION:Stade Marcel Michelin\, Clermont-Ferrand
+DESCRIPTION:Coupe d'Europe — Journée 4 — Poule 1\nCoup d'envoi (heure 
+ de Paris dans votre agenda)\nStade : Stade Marcel Michelin (Clermont-
+ Ferrand)\nMis à jour automatiquement.
+CATEGORIES:Coupe d'Europe,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-cup-604291@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20270116T200000Z
+DTEND:20270116T220000Z
+SUMMARY:🏉 Leicester Tigers - Leinster
+LOCATION:Mattioli Woods Welford Road Stadium\, Leicester
+DESCRIPTION:Coupe d'Europe — Journée 4 — Poule 1\nCoup d'envoi (heure 
+ de Paris dans votre agenda)\nStade : Mattioli Woods Welford Road Stad
+ ium (Leicester)\nMis à jour automatiquement.
+CATEGORIES:Coupe d'Europe,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-cup-604292@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20270117T151500Z
+DTEND:20270117T171500Z
+SUMMARY:🏉 Stade Toulousain - Saracens
+LOCATION:Stade Ernest-Wallon\, Toulouse
+DESCRIPTION:Coupe d'Europe — Journée 4 — Poule 2\nCoup d'envoi (heure 
+ de Paris dans votre agenda)\nStade : Stade Ernest-Wallon (Toulouse)\n
+ Mis à jour automatiquement.
+CATEGORIES:Coupe d'Europe,Rugby
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-cup-604293@top14-agenda
+DTSTAMP:20260906T071500Z
+LAST-MODIFIED:20260906T071500Z
+SEQUENCE:0
+DTSTART:20270117T173000Z
+DTEND:20270117T193000Z
+SUMMARY:🏉 Bath - Stade Français
+LOCATION:Recreation Ground\, Bath
+DESCRIPTION:Coupe d'Europe — Journée 4 — Poule 4\nCoup d'envoi (heure 
+ de Paris dans votre agenda)\nStade : Recreation Ground (Bath)\nMis à 
+ jour automatiquement.
+CATEGORIES:Coupe d'Europe,Rugby
+END:VEVENT
+END:VCALENDAR
