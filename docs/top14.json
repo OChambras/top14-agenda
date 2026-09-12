@@ -1,5 +1,5 @@
 {
- "misAJour": "2026-09-12T15:29:16.214Z",
+ "misAJour": "2026-09-12T18:20:36.975Z",
  "slug": "top14",
  "nom": "Top 14 2026-2027",
  "court": "Top 14",
@@ -38,7 +38,7 @@
      "diff": 9,
      "bo": 0,
      "bd": 0,
-     "forme": "W"
+     "forme": "WL"
     },
     {
      "id": "270567",
@@ -54,7 +54,7 @@
      "diff": 8,
      "bo": 0,
      "bd": 0,
-     "forme": "W"
+     "forme": "WW"
     },
     {
      "id": "143736",
@@ -70,7 +70,7 @@
      "diff": 4,
      "bo": 0,
      "bd": 0,
-     "forme": "W"
+     "forme": "WW"
     },
     {
      "id": "119318",
@@ -102,7 +102,7 @@
      "diff": 2,
      "bo": 0,
      "bd": 0,
-     "forme": "W"
+     "forme": "WL"
     },
     {
      "id": "25912",
@@ -118,7 +118,7 @@
      "diff": 1,
      "bo": 0,
      "bd": 0,
-     "forme": "W"
+     "forme": "WL"
     },
     {
      "id": "25986",
@@ -150,7 +150,7 @@
      "diff": -2,
      "bo": 0,
      "bd": 1,
-     "forme": "L"
+     "forme": "LW"
     },
     {
      "id": "25922",
@@ -182,7 +182,7 @@
      "diff": -4,
      "bo": 0,
      "bd": 1,
-     "forme": "L"
+     "forme": "LW"
     },
     {
      "id": "25918",
@@ -198,7 +198,7 @@
      "diff": -8,
      "bo": 0,
      "bd": 0,
-     "forme": "L"
+     "forme": "LW"
     },
     {
      "id": "289337",
@@ -214,7 +214,7 @@
      "diff": -9,
      "bo": 0,
      "bd": 0,
-     "forme": "L"
+     "forme": "LL"
     },
     {
      "id": "99855",
@@ -230,7 +230,7 @@
      "diff": -59,
      "bo": 0,
      "bd": 0,
-     "forme": "L"
+     "forme": "LL"
     }
    ]
   }
@@ -354,10 +354,10 @@
    "horaireConnu": true,
    "dom": "Perpignan",
    "ext": "Castres",
-   "sd": 24,
-   "se": 15,
-   "fini": false,
-   "enCours": true,
+   "sd": 43,
+   "se": 29,
+   "fini": true,
+   "enCours": false,
    "stade": "Stade Aime Giral",
    "ville": "Perpignan",
    "note": "",
@@ -371,9 +371,9 @@
    "dom": "Vannes",
    "ext": "Montpellier",
    "sd": 12,
-   "se": 11,
-   "fini": false,
-   "enCours": true,
+   "se": 26,
+   "fini": true,
+   "enCours": false,
    "stade": "Stade de la Rabine",
    "ville": "Vannes",
    "note": "",
@@ -386,10 +386,10 @@
    "horaireConnu": true,
    "dom": "Clermont",
    "ext": "Stade Français",
-   "sd": 3,
-   "se": 6,
-   "fini": false,
-   "enCours": true,
+   "sd": 25,
+   "se": 16,
+   "fini": true,
+   "enCours": false,
    "stade": "Stade Marcel Michelin",
    "ville": "Clermont-Ferrand",
    "note": "",
@@ -402,10 +402,10 @@
    "horaireConnu": true,
    "dom": "Pau",
    "ext": "Bayonne",
-   "sd": 26,
-   "se": 7,
-   "fini": false,
-   "enCours": true,
+   "sd": 70,
+   "se": 28,
+   "fini": true,
+   "enCours": false,
    "stade": "Stade du Hameau",
    "ville": "Pau",
    "note": "",
@@ -418,10 +418,10 @@
    "horaireConnu": true,
    "dom": "Racing 92",
    "ext": "Lyon",
-   "sd": 10,
-   "se": 17,
-   "fini": false,
-   "enCours": true,
+   "sd": 31,
+   "se": 48,
+   "fini": true,
+   "enCours": false,
    "stade": "Stade Dominique Duvauchelle",
    "ville": "Creteil",
    "note": "",
