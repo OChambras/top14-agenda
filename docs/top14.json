@@ -1,5 +1,5 @@
 {
- "misAJour": "2026-09-13T04:42:27.344Z",
+ "misAJour": "2026-09-13T22:23:00.373Z",
  "slug": "top14",
  "nom": "Top 14 2026-2027",
  "court": "Top 14",
@@ -70,7 +70,7 @@
      "diff": 59,
      "bo": 1,
      "bd": 0,
-     "forme": "W"
+     "forme": "WL"
     },
     {
      "id": "25920",
@@ -198,7 +198,7 @@
      "diff": -3,
      "bo": 0,
      "bd": 1,
-     "forme": "L"
+     "forme": "LW"
     },
     {
      "id": "289337",
@@ -450,9 +450,9 @@
    "horaireConnu": true,
    "dom": "Stade Toulousain",
    "ext": "Bordeaux-Bègles",
-   "sd": null,
-   "se": null,
-   "fini": false,
+   "sd": 48,
+   "se": 12,
+   "fini": true,
    "enCours": false,
    "stade": "Stade Ernest-Wallon",
    "ville": "Toulouse",
