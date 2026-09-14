@@ -1,5 +1,5 @@
 {
- "misAJour": "2026-09-13T22:23:00.373Z",
+ "misAJour": "2026-09-14T04:51:03.836Z",
  "slug": "top14",
  "nom": "Top 14 2026-2027",
  "court": "Top 14",
@@ -57,17 +57,33 @@
      "forme": "WW"
     },
     {
-     "id": "143737",
-     "equipe": "Bordeaux-Bègles",
+     "id": "25922",
+     "equipe": "Stade Toulousain",
      "rang": 4,
-     "pts": 5,
-     "j": 1,
+     "pts": 6,
+     "j": 2,
      "g": 1,
      "n": 0,
-     "p": 0,
-     "pour": 64,
-     "contre": 5,
-     "diff": 59,
+     "p": 1,
+     "pour": 75,
+     "contre": 42,
+     "diff": 33,
+     "bo": 1,
+     "bd": 1,
+     "forme": "LW"
+    },
+    {
+     "id": "143737",
+     "equipe": "Bordeaux-Bègles",
+     "rang": 5,
+     "pts": 5,
+     "j": 2,
+     "g": 1,
+     "n": 0,
+     "p": 1,
+     "pour": 76,
+     "contre": 53,
+     "diff": 23,
      "bo": 1,
      "bd": 0,
      "forme": "WL"
@@ -75,7 +91,7 @@
     {
      "id": "25920",
      "equipe": "Perpignan",
-     "rang": 5,
+     "rang": 6,
      "pts": 5,
      "j": 2,
      "g": 1,
@@ -91,7 +107,7 @@
     {
      "id": "25917",
      "equipe": "Clermont",
-     "rang": 6,
+     "rang": 7,
      "pts": 5,
      "j": 2,
      "g": 1,
@@ -107,7 +123,7 @@
     {
      "id": "25918",
      "equipe": "Montpellier",
-     "rang": 7,
+     "rang": 8,
      "pts": 4,
      "j": 2,
      "g": 1,
@@ -123,7 +139,7 @@
     {
      "id": "25916",
      "equipe": "Castres",
-     "rang": 8,
+     "rang": 9,
      "pts": 4,
      "j": 2,
      "g": 1,
@@ -139,7 +155,7 @@
     {
      "id": "25921",
      "equipe": "Stade Français",
-     "rang": 9,
+     "rang": 10,
      "pts": 4,
      "j": 2,
      "g": 1,
@@ -155,7 +171,7 @@
     {
      "id": "25912",
      "equipe": "Bayonne",
-     "rang": 10,
+     "rang": 11,
      "pts": 4,
      "j": 2,
      "g": 1,
@@ -171,7 +187,7 @@
     {
      "id": "25986",
      "equipe": "Toulon",
-     "rang": 11,
+     "rang": 12,
      "pts": 2,
      "j": 2,
      "g": 0,
@@ -183,22 +199,6 @@
      "bo": 0,
      "bd": 2,
      "forme": "LL"
-    },
-    {
-     "id": "25922",
-     "equipe": "Stade Toulousain",
-     "rang": 12,
-     "pts": 1,
-     "j": 1,
-     "g": 0,
-     "n": 0,
-     "p": 1,
-     "pour": 27,
-     "contre": 30,
-     "diff": -3,
-     "bo": 0,
-     "bd": 1,
-     "forme": "LW"
     },
     {
      "id": "289337",
