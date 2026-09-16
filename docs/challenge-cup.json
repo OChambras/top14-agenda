@@ -1,5 +1,5 @@
 {
- "misAJour": "2026-09-14T04:51:04.236Z",
+ "misAJour": "2026-09-16T21:15:33.500Z",
  "slug": "challenge-cup",
  "nom": "Challenge Cup 2026-2027",
  "court": "Challenge Cup",
@@ -371,8 +371,8 @@
    "se": null,
    "fini": false,
    "enCours": false,
-   "stade": "",
-   "ville": "",
+   "stade": "Avchala Stadium",
+   "ville": "Tbilisi",
    "note": "",
    "poule": "Poule B",
    "journee": 1
