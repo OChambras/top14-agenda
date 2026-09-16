@@ -1,6 +1,6 @@
 // Génère, pour chaque compétition, docs/<slug>.ics + docs/<slug>.json depuis le flux public ESPN.
 // Aucune dépendance : Node 18+ (fetch natif).
-import { writeFileSync, mkdirSync } from "node:fs";
+import { writeFileSync, mkdirSync, readFileSync } from "node:fs";
 
 const OUT = new URL("../docs/", import.meta.url);
 
@@ -59,9 +59,27 @@ const isoWeekKey = (iso) => {
   return d.toISOString().slice(0, 10);
 };
 
+// "20260801-20270731" → ["202608", "202609", …, "202707"]
+const moisEntre = (plage) => {
+  const [a, b] = plage.split("-");
+  let y = +a.slice(0, 4), m = +a.slice(4, 6);
+  const fy = +b.slice(0, 4), fm = +b.slice(4, 6);
+  const out = [];
+  while (y < fy || (y === fy && m <= fm)) {
+    out.push(`${y}${pad(m)}`);
+    if (++m > 12) { m = 1; y++; }
+  }
+  return out;
+};
+
 // --- une compétition ------------------------------------------------------
 async function construire(comp) {
-  const score = await getJson(`https://site.api.espn.com/apis/site/v2/sports/rugby/${comp.espn}/scoreboard?dates=${comp.dates}&limit=500`);
+  // ESPN refuse désormais les plages « AAAAMMJJ-AAAAMMJJ » (400) : on interroge mois par mois.
+  const score = { events: [] };
+  for (const mois of moisEntre(comp.dates)) {
+    const page = await getJson(`https://site.api.espn.com/apis/site/v2/sports/rugby/${comp.espn}/scoreboard?dates=${mois}&limit=500`);
+    score.events.push(...(page.events ?? []));
+  }
   let table = { children: [] };
   try {
     table = await getJson(`https://site.api.espn.com/apis/v2/sports/rugby/${comp.espn}/standings?season=${comp.saison}`);
@@ -232,9 +250,20 @@ async function construire(comp) {
 }
 
 mkdirSync(OUT, { recursive: true });
+// En cas d'échec d'une compétition, on garde son entrée précédente pour ne pas la faire disparaître de la page.
+let ancien = [];
+try { ancien = JSON.parse(readFileSync(new URL("index.json", OUT), "utf8")).competitions ?? []; } catch {}
 const index = [];
+let echecs = 0;
 for (const comp of COMPETITIONS) {
   try { index.push(await construire(comp)); }
-  catch (e) { console.error(`${comp.slug}: ÉCHEC ${e.message}`); process.exitCode = 1; }
+  catch (e) {
+    echecs++;
+    console.error(`${comp.slug}: ÉCHEC ${e.message}`);
+    const prec = ancien.find((c) => c.slug === comp.slug);
+    if (prec) index.push(prec);
+  }
 }
+// On n'échoue que si tout a échoué : sinon les compétitions à jour sont quand même publiées.
+if (echecs === COMPETITIONS.length) process.exitCode = 1;
 writeFileSync(new URL("index.json", OUT), JSON.stringify({ misAJour: new Date().toISOString(), competitions: index }, null, 1));
