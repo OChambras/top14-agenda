@@ -1,5 +1,5 @@
 {
- "misAJour": "2026-09-20T04:50:22.720Z",
+ "misAJour": "2026-09-20T22:24:49.045Z",
  "slug": "top14",
  "nom": "Top 14 2026-2027",
  "court": "Top 14",
@@ -41,9 +41,25 @@
      "forme": "LWW"
     },
     {
+     "id": "143737",
+     "equipe": "Bordeaux-Bègles",
+     "rang": 3,
+     "pts": 10,
+     "j": 3,
+     "g": 2,
+     "n": 0,
+     "p": 1,
+     "pour": 116,
+     "contre": 63,
+     "diff": 53,
+     "bo": 2,
+     "bd": 0,
+     "forme": "WLW"
+    },
+    {
      "id": "270567",
      "equipe": "Pau",
-     "rang": 3,
+     "rang": 4,
      "pts": 9,
      "j": 3,
      "g": 2,
@@ -59,7 +75,7 @@
     {
      "id": "25918",
      "equipe": "Montpellier",
-     "rang": 4,
+     "rang": 5,
      "pts": 9,
      "j": 3,
      "g": 2,
@@ -75,7 +91,7 @@
     {
      "id": "25912",
      "equipe": "Bayonne",
-     "rang": 5,
+     "rang": 6,
      "pts": 9,
      "j": 3,
      "g": 2,
@@ -91,7 +107,7 @@
     {
      "id": "25916",
      "equipe": "Castres",
-     "rang": 6,
+     "rang": 7,
      "pts": 8,
      "j": 3,
      "g": 2,
@@ -107,7 +123,7 @@
     {
      "id": "119318",
      "equipe": "La Rochelle",
-     "rang": 7,
+     "rang": 8,
      "pts": 8,
      "j": 3,
      "g": 2,
@@ -119,22 +135,6 @@
      "bo": 0,
      "bd": 0,
      "forme": "WWL"
-    },
-    {
-     "id": "143737",
-     "equipe": "Bordeaux-Bègles",
-     "rang": 8,
-     "pts": 5,
-     "j": 2,
-     "g": 1,
-     "n": 0,
-     "p": 1,
-     "pour": 76,
-     "contre": 53,
-     "diff": 23,
-     "bo": 1,
-     "bd": 0,
-     "forme": "WL"
     },
     {
      "id": "25917",
@@ -173,16 +173,16 @@
      "equipe": "Stade Français",
      "rang": 11,
      "pts": 4,
-     "j": 2,
+     "j": 3,
      "g": 1,
      "n": 0,
-     "p": 1,
-     "pour": 44,
-     "contre": 51,
-     "diff": -7,
+     "p": 2,
+     "pour": 54,
+     "contre": 91,
+     "diff": -37,
      "bo": 0,
      "bd": 0,
-     "forme": "WL"
+     "forme": "WLL"
     },
     {
      "id": "99855",
@@ -562,9 +562,9 @@
    "horaireConnu": true,
    "dom": "Bordeaux-Bègles",
    "ext": "Stade Français",
-   "sd": null,
-   "se": null,
-   "fini": false,
+   "sd": 40,
+   "se": 10,
+   "fini": true,
    "enCours": false,
    "stade": "Stade Chaban-Delmas",
    "ville": "Bordeaux",
