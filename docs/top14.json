@@ -1,5 +1,5 @@
 {
- "misAJour": "2026-09-19T20:36:10.383Z",
+ "misAJour": "2026-09-20T00:08:12.853Z",
  "slug": "top14",
  "nom": "Top 14 2026-2027",
  "court": "Top 14",
@@ -118,7 +118,7 @@
      "diff": 33,
      "bo": 1,
      "bd": 1,
-     "forme": "LW"
+     "forme": "LWW"
     },
     {
      "id": "143737",
@@ -230,7 +230,7 @@
      "diff": -23,
      "bo": 0,
      "bd": 0,
-     "forme": "LL"
+     "forme": "LLL"
     }
    ]
   }
@@ -547,9 +547,9 @@
    "dom": "Vannes",
    "ext": "Stade Toulousain",
    "sd": 23,
-   "se": 24,
-   "fini": false,
-   "enCours": true,
+   "se": 29,
+   "fini": true,
+   "enCours": false,
    "stade": "Roazhon Park",
    "ville": "",
    "note": "",
