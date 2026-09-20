@@ -1,5 +1,5 @@
 {
- "misAJour": "2026-09-20T00:08:12.853Z",
+ "misAJour": "2026-09-20T04:50:22.720Z",
  "slug": "top14",
  "nom": "Top 14 2026-2027",
  "court": "Top 14",
@@ -25,9 +25,25 @@
      "forme": "WWW"
     },
     {
+     "id": "25922",
+     "equipe": "Stade Toulousain",
+     "rang": 2,
+     "pts": 10,
+     "j": 3,
+     "g": 2,
+     "n": 0,
+     "p": 1,
+     "pour": 104,
+     "contre": 65,
+     "diff": 39,
+     "bo": 1,
+     "bd": 1,
+     "forme": "LWW"
+    },
+    {
      "id": "270567",
      "equipe": "Pau",
-     "rang": 2,
+     "rang": 3,
      "pts": 9,
      "j": 3,
      "g": 2,
@@ -43,7 +59,7 @@
     {
      "id": "25918",
      "equipe": "Montpellier",
-     "rang": 3,
+     "rang": 4,
      "pts": 9,
      "j": 3,
      "g": 2,
@@ -59,7 +75,7 @@
     {
      "id": "25912",
      "equipe": "Bayonne",
-     "rang": 4,
+     "rang": 5,
      "pts": 9,
      "j": 3,
      "g": 2,
@@ -75,7 +91,7 @@
     {
      "id": "25916",
      "equipe": "Castres",
-     "rang": 5,
+     "rang": 6,
      "pts": 8,
      "j": 3,
      "g": 2,
@@ -91,7 +107,7 @@
     {
      "id": "119318",
      "equipe": "La Rochelle",
-     "rang": 6,
+     "rang": 7,
      "pts": 8,
      "j": 3,
      "g": 2,
@@ -103,22 +119,6 @@
      "bo": 0,
      "bd": 0,
      "forme": "WWL"
-    },
-    {
-     "id": "25922",
-     "equipe": "Stade Toulousain",
-     "rang": 7,
-     "pts": 6,
-     "j": 2,
-     "g": 1,
-     "n": 0,
-     "p": 1,
-     "pour": 75,
-     "contre": 42,
-     "diff": 33,
-     "bo": 1,
-     "bd": 1,
-     "forme": "LWW"
     },
     {
      "id": "143737",
@@ -221,13 +221,13 @@
      "equipe": "Vannes",
      "rang": 14,
      "pts": 0,
-     "j": 2,
+     "j": 3,
      "g": 0,
      "n": 0,
-     "p": 2,
-     "pour": 32,
-     "contre": 55,
-     "diff": -23,
+     "p": 3,
+     "pour": 55,
+     "contre": 84,
+     "diff": -29,
      "bo": 0,
      "bd": 0,
      "forme": "LLL"
