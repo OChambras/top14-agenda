@@ -1,5 +1,5 @@
 {
- "misAJour": "2026-09-27T00:33:42.509Z",
+ "misAJour": "2026-09-27T08:05:15.244Z",
  "slug": "top14",
  "nom": "Top 14 2026-2027",
  "court": "Top 14",
@@ -198,7 +198,7 @@
      "diff": 14,
      "bo": 1,
      "bd": 3,
-     "forme": "LLLD"
+     "forme": "LLLW"
     },
     {
      "id": "99855",
@@ -230,7 +230,7 @@
      "diff": -47,
      "bo": 0,
      "bd": 0,
-     "forme": "LLLD"
+     "forme": "LLLL"
     }
    ]
   }
@@ -642,8 +642,8 @@
    "horaireConnu": true,
    "dom": "Toulon",
    "ext": "Vannes",
-   "sd": 0,
-   "se": 0,
+   "sd": 28,
+   "se": 10,
    "fini": true,
    "enCours": false,
    "stade": "Stade Mayol",
