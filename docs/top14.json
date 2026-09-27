@@ -1,5 +1,5 @@
 {
- "misAJour": "2026-09-27T08:05:15.244Z",
+ "misAJour": "2026-09-27T23:01:01.119Z",
  "slug": "top14",
  "nom": "Top 14 2026-2027",
  "court": "Top 14",
@@ -70,7 +70,7 @@
      "diff": 39,
      "bo": 1,
      "bd": 1,
-     "forme": "LWW"
+     "forme": "LWWW"
     },
     {
      "id": "143737",
@@ -118,7 +118,7 @@
      "diff": 43,
      "bo": 1,
      "bd": 0,
-     "forme": "LWW"
+     "forme": "LWWL"
     },
     {
      "id": "25921",
@@ -674,9 +674,9 @@
    "horaireConnu": true,
    "dom": "Stade Toulousain",
    "ext": "Montpellier",
-   "sd": null,
-   "se": null,
-   "fini": false,
+   "sd": 40,
+   "se": 18,
+   "fini": true,
    "enCours": false,
    "stade": "Stade Ernest-Wallon",
    "ville": "Toulouse",
