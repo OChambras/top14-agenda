@@ -1,5 +1,5 @@
 {
- "misAJour": "2026-09-27T23:01:01.119Z",
+ "misAJour": "2026-09-28T05:18:32.183Z",
  "slug": "top14",
  "nom": "Top 14 2026-2027",
  "court": "Top 14",
@@ -9,9 +9,25 @@
    "poule": "",
    "equipes": [
     {
+     "id": "25922",
+     "equipe": "Stade Toulousain",
+     "rang": 1,
+     "pts": 15,
+     "j": 4,
+     "g": 3,
+     "n": 0,
+     "p": 1,
+     "pour": 144,
+     "contre": 83,
+     "diff": 61,
+     "bo": 2,
+     "bd": 1,
+     "forme": "LWWW"
+    },
+    {
      "id": "143736",
      "equipe": "Lyon",
-     "rang": 1,
+     "rang": 2,
      "pts": 14,
      "j": 4,
      "g": 3,
@@ -27,7 +43,7 @@
     {
      "id": "270567",
      "equipe": "Pau",
-     "rang": 2,
+     "rang": 3,
      "pts": 14,
      "j": 4,
      "g": 3,
@@ -43,7 +59,7 @@
     {
      "id": "25912",
      "equipe": "Bayonne",
-     "rang": 3,
+     "rang": 4,
      "pts": 13,
      "j": 4,
      "g": 3,
@@ -55,22 +71,6 @@
      "bo": 1,
      "bd": 0,
      "forme": "WLWW"
-    },
-    {
-     "id": "25922",
-     "equipe": "Stade Toulousain",
-     "rang": 4,
-     "pts": 10,
-     "j": 3,
-     "g": 2,
-     "n": 0,
-     "p": 1,
-     "pour": 104,
-     "contre": 65,
-     "diff": 39,
-     "bo": 1,
-     "bd": 1,
-     "forme": "LWWW"
     },
     {
      "id": "143737",
@@ -109,13 +109,13 @@
      "equipe": "Montpellier",
      "rang": 7,
      "pts": 9,
-     "j": 3,
+     "j": 4,
      "g": 2,
      "n": 0,
-     "p": 1,
-     "pour": 95,
-     "contre": 52,
-     "diff": 43,
+     "p": 2,
+     "pour": 113,
+     "contre": 92,
+     "diff": 21,
      "bo": 1,
      "bd": 0,
      "forme": "LWWL"
