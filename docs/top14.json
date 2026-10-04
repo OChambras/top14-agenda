@@ -1,5 +1,5 @@
 {
- "misAJour": "2026-10-03T23:00:23.557Z",
+ "misAJour": "2026-10-04T21:20:11.843Z",
  "slug": "top14",
  "nom": "Top 14 2026-2027",
  "court": "Top 14",
@@ -166,7 +166,7 @@
      "diff": 21,
      "bo": 1,
      "bd": 0,
-     "forme": "LWWL"
+     "forme": "LWWLW"
     },
     {
      "id": "25920",
@@ -214,7 +214,7 @@
      "diff": 14,
      "bo": 1,
      "bd": 3,
-     "forme": "LLLW"
+     "forme": "LLLWL"
     },
     {
      "id": "289337",
@@ -786,9 +786,9 @@
    "horaireConnu": true,
    "dom": "Montpellier",
    "ext": "Toulon",
-   "sd": null,
-   "se": null,
-   "fini": false,
+   "sd": 28,
+   "se": 0,
+   "fini": true,
    "enCours": false,
    "stade": "Stade de la Mosson",
    "ville": "Montpellier",
