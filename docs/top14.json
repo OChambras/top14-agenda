@@ -1,5 +1,5 @@
 {
- "misAJour": "2026-10-04T21:20:11.843Z",
+ "misAJour": "2026-10-05T08:58:20.375Z",
  "slug": "top14",
  "nom": "Top 14 2026-2027",
  "court": "Top 14",
@@ -73,9 +73,25 @@
      "forme": "WLWLW"
     },
     {
+     "id": "25918",
+     "equipe": "Montpellier",
+     "rang": 5,
+     "pts": 14,
+     "j": 5,
+     "g": 3,
+     "n": 0,
+     "p": 2,
+     "pour": 141,
+     "contre": 92,
+     "diff": 49,
+     "bo": 2,
+     "bd": 0,
+     "forme": "LWWLW"
+    },
+    {
      "id": "143736",
      "equipe": "Lyon",
-     "rang": 5,
+     "rang": 6,
      "pts": 14,
      "j": 5,
      "g": 3,
@@ -91,7 +107,7 @@
     {
      "id": "119318",
      "equipe": "La Rochelle",
-     "rang": 6,
+     "rang": 7,
      "pts": 13,
      "j": 5,
      "g": 3,
@@ -107,7 +123,7 @@
     {
      "id": "25917",
      "equipe": "Clermont",
-     "rang": 7,
+     "rang": 8,
      "pts": 10,
      "j": 5,
      "g": 2,
@@ -123,7 +139,7 @@
     {
      "id": "25921",
      "equipe": "Stade Français",
-     "rang": 8,
+     "rang": 9,
      "pts": 10,
      "j": 5,
      "g": 2,
@@ -139,7 +155,7 @@
     {
      "id": "99855",
      "equipe": "Racing 92",
-     "rang": 9,
+     "rang": 10,
      "pts": 10,
      "j": 5,
      "g": 2,
@@ -151,22 +167,6 @@
      "bo": 1,
      "bd": 1,
      "forme": "LLWLW"
-    },
-    {
-     "id": "25918",
-     "equipe": "Montpellier",
-     "rang": 10,
-     "pts": 9,
-     "j": 4,
-     "g": 2,
-     "n": 0,
-     "p": 2,
-     "pour": 113,
-     "contre": 92,
-     "diff": 21,
-     "bo": 1,
-     "bd": 0,
-     "forme": "LWWLW"
     },
     {
      "id": "25920",
@@ -205,13 +205,13 @@
      "equipe": "Toulon",
      "rang": 13,
      "pts": 8,
-     "j": 4,
+     "j": 5,
      "g": 1,
      "n": 0,
-     "p": 3,
+     "p": 4,
      "pour": 101,
-     "contre": 87,
-     "diff": 14,
+     "contre": 115,
+     "diff": -14,
      "bo": 1,
      "bd": 3,
      "forme": "LLLWL"
