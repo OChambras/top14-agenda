@@ -1,5 +1,5 @@
 {
- "misAJour": "2026-10-06T08:56:30.369Z",
+ "misAJour": "2026-10-06T16:46:32.255Z",
  "slug": "challenge-cup",
  "nom": "Challenge Cup 2026-2027",
  "court": "Challenge Cup",
@@ -579,8 +579,8 @@
    "se": null,
    "fini": false,
    "enCours": false,
-   "stade": "",
-   "ville": "",
+   "stade": "St Helen's Rugby and Cricket Ground",
+   "ville": "Swansea",
    "note": "",
    "poule": "Poule A",
    "journee": 2
@@ -883,8 +883,8 @@
    "se": null,
    "fini": false,
    "enCours": false,
-   "stade": "",
-   "ville": "",
+   "stade": "St Helen's Rugby and Cricket Ground",
+   "ville": "Swansea",
    "note": "",
    "poule": "Poule A",
    "journee": 4
