@@ -1,5 +1,5 @@
 {
- "misAJour": "2026-10-06T01:17:12.359Z",
+ "misAJour": "2026-10-06T08:56:28.672Z",
  "slug": "top14",
  "nom": "Top 14 2026-2027",
  "court": "Top 14",
@@ -1021,6 +1021,22 @@
    "journee": 7
   },
   {
+   "id": "604416",
+   "date": "2026-11-01T20:05Z",
+   "horaireConnu": true,
+   "dom": "Pau",
+   "ext": "Stade Toulousain",
+   "sd": null,
+   "se": null,
+   "fini": false,
+   "enCours": false,
+   "stade": "Stade du Hameau",
+   "ville": "Pau",
+   "note": "",
+   "poule": "",
+   "journee": 8
+  },
+  {
    "id": "604417",
    "date": "2026-11-07T00:00Z",
    "horaireConnu": false,
@@ -1034,7 +1050,7 @@
    "ville": "Vannes",
    "note": "",
    "poule": "",
-   "journee": 8
+   "journee": 9
   },
   {
    "id": "604418",
@@ -1050,7 +1066,7 @@
    "ville": "Castres",
    "note": "",
    "poule": "",
-   "journee": 8
+   "journee": 9
   },
   {
    "id": "604419",
@@ -1066,7 +1082,7 @@
    "ville": "La Rochelle",
    "note": "",
    "poule": "",
-   "journee": 8
+   "journee": 9
   },
   {
    "id": "604420",
@@ -1082,7 +1098,7 @@
    "ville": "Montpellier",
    "note": "",
    "poule": "",
-   "journee": 8
+   "journee": 9
   },
   {
    "id": "604421",
@@ -1098,7 +1114,7 @@
    "ville": "Pau",
    "note": "",
    "poule": "",
-   "journee": 8
+   "journee": 9
   },
   {
    "id": "604422",
@@ -1114,7 +1130,7 @@
    "ville": "Toulon",
    "note": "",
    "poule": "",
-   "journee": 8
+   "journee": 9
   },
   {
    "id": "604423",
@@ -1130,7 +1146,7 @@
    "ville": "Toulouse",
    "note": "",
    "poule": "",
-   "journee": 8
+   "journee": 9
   },
   {
    "id": "604424",
@@ -1146,7 +1162,7 @@
    "ville": "Bayonne",
    "note": "",
    "poule": "",
-   "journee": 9
+   "journee": 10
   },
   {
    "id": "604425",
@@ -1162,7 +1178,7 @@
    "ville": "Bordeaux",
    "note": "",
    "poule": "",
-   "journee": 9
+   "journee": 10
   },
   {
    "id": "604426",
@@ -1178,7 +1194,7 @@
    "ville": "Clermont-Ferrand",
    "note": "",
    "poule": "",
-   "journee": 9
+   "journee": 10
   },
   {
    "id": "604427",
@@ -1194,7 +1210,7 @@
    "ville": "La Rochelle",
    "note": "",
    "poule": "",
-   "journee": 9
+   "journee": 10
   },
   {
    "id": "604428",
@@ -1210,7 +1226,7 @@
    "ville": "Lyon",
    "note": "",
    "poule": "",
-   "journee": 9
+   "journee": 10
   },
   {
    "id": "604429",
@@ -1226,7 +1242,7 @@
    "ville": "Paris",
    "note": "",
    "poule": "",
-   "journee": 9
+   "journee": 10
   },
   {
    "id": "604430",
@@ -1242,7 +1258,7 @@
    "ville": "Nanterre",
    "note": "",
    "poule": "",
-   "journee": 9
+   "journee": 10
   },
   {
    "id": "604431",
@@ -1258,7 +1274,7 @@
    "ville": "Perpignan",
    "note": "",
    "poule": "",
-   "journee": 10
+   "journee": 11
   },
   {
    "id": "604432",
@@ -1274,7 +1290,7 @@
    "ville": "Vannes",
    "note": "",
    "poule": "",
-   "journee": 10
+   "journee": 11
   },
   {
    "id": "604433",
@@ -1290,7 +1306,7 @@
    "ville": "Castres",
    "note": "",
    "poule": "",
-   "journee": 10
+   "journee": 11
   },
   {
    "id": "604434",
@@ -1306,7 +1322,7 @@
    "ville": "Montpellier",
    "note": "",
    "poule": "",
-   "journee": 10
+   "journee": 11
   },
   {
    "id": "604435",
@@ -1322,7 +1338,7 @@
    "ville": "Pau",
    "note": "",
    "poule": "",
-   "journee": 10
+   "journee": 11
   },
   {
    "id": "604436",
@@ -1338,7 +1354,7 @@
    "ville": "Toulon",
    "note": "",
    "poule": "",
-   "journee": 10
+   "journee": 11
   },
   {
    "id": "604437",
@@ -1354,7 +1370,7 @@
    "ville": "Toulouse",
    "note": "",
    "poule": "",
-   "journee": 10
+   "journee": 11
   },
   {
    "id": "604438",
@@ -1370,7 +1386,7 @@
    "ville": "Bayonne",
    "note": "",
    "poule": "",
-   "journee": 11
+   "journee": 12
   },
   {
    "id": "604439",
@@ -1386,7 +1402,7 @@
    "ville": "Bordeaux",
    "note": "",
    "poule": "",
-   "journee": 11
+   "journee": 12
   },
   {
    "id": "604440",
@@ -1402,7 +1418,7 @@
    "ville": "Clermont-Ferrand",
    "note": "",
    "poule": "",
-   "journee": 11
+   "journee": 12
   },
   {
    "id": "604441",
@@ -1418,7 +1434,7 @@
    "ville": "La Rochelle",
    "note": "",
    "poule": "",
-   "journee": 11
+   "journee": 12
   },
   {
    "id": "604442",
@@ -1434,7 +1450,7 @@
    "ville": "Lyon",
    "note": "",
    "poule": "",
-   "journee": 11
+   "journee": 12
   },
   {
    "id": "604444",
@@ -1450,7 +1466,7 @@
    "ville": "Nanterre",
    "note": "",
    "poule": "",
-   "journee": 11
+   "journee": 12
   },
   {
    "id": "604443",
@@ -1466,7 +1482,7 @@
    "ville": "Saint-Denis",
    "note": "",
    "poule": "",
-   "journee": 11
+   "journee": 12
   },
   {
    "id": "604445",
@@ -1482,7 +1498,7 @@
    "ville": "Perpignan",
    "note": "",
    "poule": "",
-   "journee": 12
+   "journee": 13
   },
   {
    "id": "604446",
@@ -1498,7 +1514,7 @@
    "ville": "Vannes",
    "note": "",
    "poule": "",
-   "journee": 12
+   "journee": 13
   },
   {
    "id": "604447",
@@ -1514,7 +1530,7 @@
    "ville": "Castres",
    "note": "",
    "poule": "",
-   "journee": 12
+   "journee": 13
   },
   {
    "id": "604448",
@@ -1530,7 +1546,7 @@
    "ville": "Montpellier",
    "note": "",
    "poule": "",
-   "journee": 12
+   "journee": 13
   },
   {
    "id": "604449",
@@ -1546,7 +1562,7 @@
    "ville": "Pau",
    "note": "",
    "poule": "",
-   "journee": 12
+   "journee": 13
   },
   {
    "id": "604450",
@@ -1562,7 +1578,7 @@
    "ville": "Nanterre",
    "note": "",
    "poule": "",
-   "journee": 12
+   "journee": 13
   },
   {
    "id": "604451",
@@ -1578,7 +1594,7 @@
    "ville": "Toulouse",
    "note": "",
    "poule": "",
-   "journee": 12
+   "journee": 13
   },
   {
    "id": "604452",
@@ -1594,7 +1610,7 @@
    "ville": "Bayonne",
    "note": "",
    "poule": "",
-   "journee": 13
+   "journee": 14
   },
   {
    "id": "604453",
@@ -1610,7 +1626,7 @@
    "ville": "Bordeaux",
    "note": "",
    "poule": "",
-   "journee": 13
+   "journee": 14
   },
   {
    "id": "604454",
@@ -1626,7 +1642,7 @@
    "ville": "Clermont-Ferrand",
    "note": "",
    "poule": "",
-   "journee": 13
+   "journee": 14
   },
   {
    "id": "604455",
@@ -1642,7 +1658,7 @@
    "ville": "La Rochelle",
    "note": "",
    "poule": "",
-   "journee": 13
+   "journee": 14
   },
   {
    "id": "604456",
@@ -1658,7 +1674,7 @@
    "ville": "Lyon",
    "note": "",
    "poule": "",
-   "journee": 13
+   "journee": 14
   },
   {
    "id": "604457",
@@ -1674,7 +1690,7 @@
    "ville": "Paris",
    "note": "",
    "poule": "",
-   "journee": 13
+   "journee": 14
   },
   {
    "id": "604458",
@@ -1690,7 +1706,7 @@
    "ville": "Toulon",
    "note": "",
    "poule": "",
-   "journee": 13
+   "journee": 14
   },
   {
    "id": "604459",
@@ -1706,7 +1722,7 @@
    "ville": "Vannes",
    "note": "",
    "poule": "",
-   "journee": 14
+   "journee": 15
   },
   {
    "id": "604460",
@@ -1722,7 +1738,7 @@
    "ville": "Castres",
    "note": "",
    "poule": "",
-   "journee": 14
+   "journee": 15
   },
   {
    "id": "604461",
@@ -1738,7 +1754,7 @@
    "ville": "Montpellier",
    "note": "",
    "poule": "",
-   "journee": 14
+   "journee": 15
   },
   {
    "id": "604462",
@@ -1754,7 +1770,7 @@
    "ville": "Pau",
    "note": "",
    "poule": "",
-   "journee": 14
+   "journee": 15
   },
   {
    "id": "604463",
@@ -1770,7 +1786,7 @@
    "ville": "Nanterre",
    "note": "",
    "poule": "",
-   "journee": 14
+   "journee": 15
   },
   {
    "id": "604464",
@@ -1786,7 +1802,7 @@
    "ville": "Toulon",
    "note": "",
    "poule": "",
-   "journee": 14
+   "journee": 15
   },
   {
    "id": "604465",
@@ -1802,7 +1818,7 @@
    "ville": "Toulouse",
    "note": "",
    "poule": "",
-   "journee": 14
+   "journee": 15
   },
   {
    "id": "604466",
@@ -1818,7 +1834,7 @@
    "ville": "Perpignan",
    "note": "",
    "poule": "",
-   "journee": 15
+   "journee": 16
   },
   {
    "id": "604467",
@@ -1834,7 +1850,7 @@
    "ville": "Bordeaux",
    "note": "",
    "poule": "",
-   "journee": 15
+   "journee": 16
   },
   {
    "id": "604468",
@@ -1850,7 +1866,7 @@
    "ville": "Clermont-Ferrand",
    "note": "",
    "poule": "",
-   "journee": 15
+   "journee": 16
   },
   {
    "id": "604469",
@@ -1866,7 +1882,7 @@
    "ville": "La Rochelle",
    "note": "",
    "poule": "",
-   "journee": 15
+   "journee": 16
   },
   {
    "id": "604470",
@@ -1882,7 +1898,7 @@
    "ville": "Lyon",
    "note": "",
    "poule": "",
-   "journee": 15
+   "journee": 16
   },
   {
    "id": "604471",
@@ -1898,7 +1914,7 @@
    "ville": "Pau",
    "note": "",
    "poule": "",
-   "journee": 15
+   "journee": 16
   },
   {
    "id": "604472",
@@ -1914,7 +1930,7 @@
    "ville": "Nanterre",
    "note": "",
    "poule": "",
-   "journee": 15
+   "journee": 16
   },
   {
    "id": "604473",
@@ -1930,7 +1946,7 @@
    "ville": "Bayonne",
    "note": "",
    "poule": "",
-   "journee": 16
+   "journee": 17
   },
   {
    "id": "604474",
@@ -1946,7 +1962,7 @@
    "ville": "Perpignan",
    "note": "",
    "poule": "",
-   "journee": 16
+   "journee": 17
   },
   {
    "id": "604475",
@@ -1962,7 +1978,7 @@
    "ville": "Vannes",
    "note": "",
    "poule": "",
-   "journee": 16
+   "journee": 17
   },
   {
    "id": "604476",
@@ -1978,7 +1994,7 @@
    "ville": "Montpellier",
    "note": "",
    "poule": "",
-   "journee": 16
+   "journee": 17
   },
   {
    "id": "604477",
@@ -1994,7 +2010,7 @@
    "ville": "Paris",
    "note": "",
    "poule": "",
-   "journee": 16
+   "journee": 17
   },
   {
    "id": "604478",
@@ -2010,7 +2026,7 @@
    "ville": "Toulon",
    "note": "",
    "poule": "",
-   "journee": 16
+   "journee": 17
   },
   {
    "id": "604479",
@@ -2026,7 +2042,7 @@
    "ville": "Toulouse",
    "note": "",
    "poule": "",
-   "journee": 16
+   "journee": 17
   },
   {
    "id": "604480",
@@ -2042,7 +2058,7 @@
    "ville": "Bordeaux",
    "note": "",
    "poule": "",
-   "journee": 17
+   "journee": 18
   },
   {
    "id": "604481",
@@ -2058,7 +2074,7 @@
    "ville": "Castres",
    "note": "",
    "poule": "",
-   "journee": 17
+   "journee": 18
   },
   {
    "id": "604482",
@@ -2074,7 +2090,7 @@
    "ville": "Clermont-Ferrand",
    "note": "",
    "poule": "",
-   "journee": 17
+   "journee": 18
   },
   {
    "id": "604483",
@@ -2090,7 +2106,7 @@
    "ville": "La Rochelle",
    "note": "",
    "poule": "",
-   "journee": 17
+   "journee": 18
   },
   {
    "id": "604484",
@@ -2106,7 +2122,7 @@
    "ville": "Lyon",
    "note": "",
    "poule": "",
-   "journee": 17
+   "journee": 18
   },
   {
    "id": "604485",
@@ -2122,7 +2138,7 @@
    "ville": "Pau",
    "note": "",
    "poule": "",
-   "journee": 17
+   "journee": 18
   },
   {
    "id": "604486",
@@ -2138,7 +2154,7 @@
    "ville": "Nanterre",
    "note": "",
    "poule": "",
-   "journee": 17
+   "journee": 18
   },
   {
    "id": "604487",
@@ -2154,7 +2170,7 @@
    "ville": "Bayonne",
    "note": "",
    "poule": "",
-   "journee": 18
+   "journee": 19
   },
   {
    "id": "604488",
@@ -2170,7 +2186,7 @@
    "ville": "Perpignan",
    "note": "",
    "poule": "",
-   "journee": 18
+   "journee": 19
   },
   {
    "id": "604489",
@@ -2186,7 +2202,7 @@
    "ville": "Castres",
    "note": "",
    "poule": "",
-   "journee": 18
+   "journee": 19
   },
   {
    "id": "604490",
@@ -2202,7 +2218,7 @@
    "ville": "Montpellier",
    "note": "",
    "poule": "",
-   "journee": 18
+   "journee": 19
   },
   {
    "id": "604491",
@@ -2218,7 +2234,7 @@
    "ville": "Paris",
    "note": "",
    "poule": "",
-   "journee": 18
+   "journee": 19
   },
   {
    "id": "604492",
@@ -2234,7 +2250,7 @@
    "ville": "Toulon",
    "note": "",
    "poule": "",
-   "journee": 18
+   "journee": 19
   },
   {
    "id": "604493",
@@ -2250,7 +2266,7 @@
    "ville": "Toulouse",
    "note": "",
    "poule": "",
-   "journee": 18
+   "journee": 19
   },
   {
    "id": "604494",
@@ -2266,7 +2282,7 @@
    "ville": "Bayonne",
    "note": "",
    "poule": "",
-   "journee": 19
+   "journee": 20
   },
   {
    "id": "604495",
@@ -2282,7 +2298,7 @@
    "ville": "Perpignan",
    "note": "",
    "poule": "",
-   "journee": 19
+   "journee": 20
   },
   {
    "id": "604496",
@@ -2298,7 +2314,7 @@
    "ville": "Bordeaux",
    "note": "",
    "poule": "",
-   "journee": 19
+   "journee": 20
   },
   {
    "id": "604497",
@@ -2314,7 +2330,7 @@
    "ville": "Vannes",
    "note": "",
    "poule": "",
-   "journee": 19
+   "journee": 20
   },
   {
    "id": "604498",
@@ -2330,7 +2346,7 @@
    "ville": "Clermont-Ferrand",
    "note": "",
    "poule": "",
-   "journee": 19
+   "journee": 20
   },
   {
    "id": "604499",
@@ -2346,7 +2362,7 @@
    "ville": "Lyon",
    "note": "",
    "poule": "",
-   "journee": 19
+   "journee": 20
   },
   {
    "id": "604500",
@@ -2362,7 +2378,7 @@
    "ville": "Nanterre",
    "note": "",
    "poule": "",
-   "journee": 19
+   "journee": 20
   },
   {
    "id": "604501",
@@ -2378,7 +2394,7 @@
    "ville": "Castres",
    "note": "",
    "poule": "",
-   "journee": 20
+   "journee": 21
   },
   {
    "id": "604502",
@@ -2394,7 +2410,7 @@
    "ville": "La Rochelle",
    "note": "",
    "poule": "",
-   "journee": 20
+   "journee": 21
   },
   {
    "id": "604503",
@@ -2410,7 +2426,7 @@
    "ville": "Lyon",
    "note": "",
    "poule": "",
-   "journee": 20
+   "journee": 21
   },
   {
    "id": "604504",
@@ -2426,7 +2442,7 @@
    "ville": "Montpellier",
    "note": "",
    "poule": "",
-   "journee": 20
+   "journee": 21
   },
   {
    "id": "604505",
@@ -2442,7 +2458,7 @@
    "ville": "Paris",
    "note": "",
    "poule": "",
-   "journee": 20
+   "journee": 21
   },
   {
    "id": "604506",
@@ -2458,7 +2474,7 @@
    "ville": "Pau",
    "note": "",
    "poule": "",
-   "journee": 20
+   "journee": 21
   },
   {
    "id": "604507",
@@ -2474,7 +2490,7 @@
    "ville": "Toulon",
    "note": "",
    "poule": "",
-   "journee": 20
+   "journee": 21
   },
   {
    "id": "604508",
@@ -2490,7 +2506,7 @@
    "ville": "Bayonne",
    "note": "",
    "poule": "",
-   "journee": 21
+   "journee": 22
   },
   {
    "id": "604509",
@@ -2506,7 +2522,7 @@
    "ville": "Perpignan",
    "note": "",
    "poule": "",
-   "journee": 21
+   "journee": 22
   },
   {
    "id": "604510",
@@ -2522,7 +2538,7 @@
    "ville": "Bordeaux",
    "note": "",
    "poule": "",
-   "journee": 21
+   "journee": 22
   },
   {
    "id": "604511",
@@ -2538,7 +2554,7 @@
    "ville": "Vannes",
    "note": "",
    "poule": "",
-   "journee": 21
+   "journee": 22
   },
   {
    "id": "604512",
@@ -2554,7 +2570,7 @@
    "ville": "Clermont-Ferrand",
    "note": "",
    "poule": "",
-   "journee": 21
+   "journee": 22
   },
   {
    "id": "604513",
@@ -2570,7 +2586,7 @@
    "ville": "Paris",
    "note": "",
    "poule": "",
-   "journee": 21
+   "journee": 22
   },
   {
    "id": "604514",
@@ -2586,7 +2602,7 @@
    "ville": "Toulouse",
    "note": "",
    "poule": "",
-   "journee": 21
+   "journee": 22
   },
   {
    "id": "604515",
@@ -2602,7 +2618,7 @@
    "ville": "Bayonne",
    "note": "",
    "poule": "",
-   "journee": 22
+   "journee": 23
   },
   {
    "id": "604516",
@@ -2618,7 +2634,7 @@
    "ville": "Clermont-Ferrand",
    "note": "",
    "poule": "",
-   "journee": 22
+   "journee": 23
   },
   {
    "id": "604517",
@@ -2634,7 +2650,7 @@
    "ville": "Lyon",
    "note": "",
    "poule": "",
-   "journee": 22
+   "journee": 23
   },
   {
    "id": "604518",
@@ -2650,7 +2666,7 @@
    "ville": "Montpellier",
    "note": "",
    "poule": "",
-   "journee": 22
+   "journee": 23
   },
   {
    "id": "604519",
@@ -2666,7 +2682,7 @@
    "ville": "Pau",
    "note": "",
    "poule": "",
-   "journee": 22
+   "journee": 23
   },
   {
    "id": "604520",
@@ -2682,7 +2698,7 @@
    "ville": "Nanterre",
    "note": "",
    "poule": "",
-   "journee": 22
+   "journee": 23
   },
   {
    "id": "604521",
@@ -2698,7 +2714,7 @@
    "ville": "Toulon",
    "note": "",
    "poule": "",
-   "journee": 22
+   "journee": 23
   },
   {
    "id": "604522",
@@ -2714,7 +2730,7 @@
    "ville": "Perpignan",
    "note": "",
    "poule": "",
-   "journee": 23
+   "journee": 24
   },
   {
    "id": "604523",
@@ -2730,7 +2746,7 @@
    "ville": "Bordeaux",
    "note": "",
    "poule": "",
-   "journee": 23
+   "journee": 24
   },
   {
    "id": "604524",
@@ -2746,7 +2762,7 @@
    "ville": "Vannes",
    "note": "",
    "poule": "",
-   "journee": 23
+   "journee": 24
   },
   {
    "id": "604525",
@@ -2762,7 +2778,7 @@
    "ville": "Castres",
    "note": "",
    "poule": "",
-   "journee": 23
+   "journee": 24
   },
   {
    "id": "604526",
@@ -2778,7 +2794,7 @@
    "ville": "La Rochelle",
    "note": "",
    "poule": "",
-   "journee": 23
+   "journee": 24
   },
   {
    "id": "604527",
@@ -2794,7 +2810,7 @@
    "ville": "Paris",
    "note": "",
    "poule": "",
-   "journee": 23
+   "journee": 24
   },
   {
    "id": "604528",
@@ -2810,7 +2826,7 @@
    "ville": "Toulouse",
    "note": "",
    "poule": "",
-   "journee": 23
+   "journee": 24
   },
   {
    "id": "604529",
@@ -2826,7 +2842,7 @@
    "ville": "Bayonne",
    "note": "",
    "poule": "",
-   "journee": 24
+   "journee": 25
   },
   {
    "id": "604530",
@@ -2842,7 +2858,7 @@
    "ville": "Castres",
    "note": "",
    "poule": "",
-   "journee": 24
+   "journee": 25
   },
   {
    "id": "604531",
@@ -2858,7 +2874,7 @@
    "ville": "Clermont-Ferrand",
    "note": "",
    "poule": "",
-   "journee": 24
+   "journee": 25
   },
   {
    "id": "604532",
@@ -2874,7 +2890,7 @@
    "ville": "Lyon",
    "note": "",
    "poule": "",
-   "journee": 24
+   "journee": 25
   },
   {
    "id": "604533",
@@ -2890,7 +2906,7 @@
    "ville": "Montpellier",
    "note": "",
    "poule": "",
-   "journee": 24
+   "journee": 25
   },
   {
    "id": "604534",
@@ -2906,7 +2922,7 @@
    "ville": "Toulon",
    "note": "",
    "poule": "",
-   "journee": 24
+   "journee": 25
   },
   {
    "id": "604535",
@@ -2922,7 +2938,7 @@
    "ville": "Toulouse",
    "note": "",
    "poule": "",
-   "journee": 24
+   "journee": 25
   },
   {
    "id": "604536",
@@ -2938,7 +2954,7 @@
    "ville": "Perpignan",
    "note": "",
    "poule": "",
-   "journee": 25
+   "journee": 26
   },
   {
    "id": "604537",
@@ -2954,7 +2970,7 @@
    "ville": "Bordeaux",
    "note": "",
    "poule": "",
-   "journee": 25
+   "journee": 26
   },
   {
    "id": "604538",
@@ -2970,7 +2986,7 @@
    "ville": "Vannes",
    "note": "",
    "poule": "",
-   "journee": 25
+   "journee": 26
   },
   {
    "id": "604539",
@@ -2986,7 +3002,7 @@
    "ville": "La Rochelle",
    "note": "",
    "poule": "",
-   "journee": 25
+   "journee": 26
   },
   {
    "id": "604540",
@@ -3002,7 +3018,7 @@
    "ville": "Paris",
    "note": "",
    "poule": "",
-   "journee": 25
+   "journee": 26
   },
   {
    "id": "604541",
@@ -3018,7 +3034,7 @@
    "ville": "Pau",
    "note": "",
    "poule": "",
-   "journee": 25
+   "journee": 26
   },
   {
    "id": "604542",
@@ -3034,7 +3050,7 @@
    "ville": "Nanterre",
    "note": "",
    "poule": "",
-   "journee": 25
+   "journee": 26
   }
  ]
 }
