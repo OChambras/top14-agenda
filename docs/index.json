@@ -1,5 +1,5 @@
 {
- "misAJour": "2026-10-17T15:29:25.807Z",
+ "misAJour": "2026-10-17T18:27:36.420Z",
  "competitions": [
   {
    "slug": "top14",
@@ -15,7 +15,7 @@
    "nom": "Champions Cup 2026-2027",
    "court": "Coupe d'Europe",
    "matchs": 48,
-   "joues": 3,
+   "joues": 7,
    "debut": "2026-10-16T19:00Z",
    "fin": "2027-01-17T17:30Z"
   },
@@ -24,7 +24,7 @@
    "nom": "Challenge Cup 2026-2027",
    "court": "Challenge Cup",
    "matchs": 36,
-   "joues": 4,
+   "joues": 5,
    "debut": "2026-10-16T19:00Z",
    "fin": "2027-01-17T15:15Z"
   },

@@ -1,5 +1,5 @@
 {
- "misAJour": "2026-10-17T15:29:25.425Z",
+ "misAJour": "2026-10-17T18:27:36.044Z",
  "slug": "challenge-cup",
  "nom": "Challenge Cup 2026-2027",
  "court": "Challenge Cup",
@@ -8,6 +8,22 @@
   {
    "poule": "Poule A",
    "equipes": [
+    {
+     "id": "25926",
+     "equipe": "Ulster",
+     "pts": 4,
+     "j": 1,
+     "g": 1,
+     "n": 0,
+     "p": 0,
+     "pour": 40,
+     "contre": 21,
+     "diff": 19,
+     "bo": 0,
+     "bd": 0,
+     "rang": 1,
+     "forme": "W"
+    },
     {
      "id": "25967",
      "equipe": "Dragons",
@@ -21,7 +37,7 @@
      "diff": 15,
      "bo": 0,
      "bd": 0,
-     "rang": 1,
+     "rang": 2,
      "forme": "W"
     },
     {
@@ -37,7 +53,7 @@
      "diff": 0,
      "bo": 0,
      "bd": 0,
-     "rang": 2,
+     "rang": 3,
      "forme": ""
     },
     {
@@ -53,39 +69,7 @@
      "diff": 0,
      "bo": 0,
      "bd": 0,
-     "rang": 3,
-     "forme": ""
-    },
-    {
-     "id": "25926",
-     "equipe": "Ulster",
-     "pts": 0,
-     "j": 0,
-     "g": 0,
-     "n": 0,
-     "p": 0,
-     "pour": 0,
-     "contre": 0,
-     "diff": 0,
-     "bo": 0,
-     "bd": 0,
      "rang": 4,
-     "forme": ""
-    },
-    {
-     "id": "167124",
-     "equipe": "Zebre",
-     "pts": 0,
-     "j": 0,
-     "g": 0,
-     "n": 0,
-     "p": 0,
-     "pour": 0,
-     "contre": 0,
-     "diff": 0,
-     "bo": 0,
-     "bd": 0,
-     "rang": 5,
      "forme": ""
     },
     {
@@ -99,6 +83,22 @@
      "pour": 14,
      "contre": 29,
      "diff": -15,
+     "bo": 0,
+     "bd": 0,
+     "rang": 5,
+     "forme": "L"
+    },
+    {
+     "id": "167124",
+     "equipe": "Zebre",
+     "pts": 0,
+     "j": 1,
+     "g": 0,
+     "n": 0,
+     "p": 1,
+     "pour": 21,
+     "contre": 40,
+     "diff": -19,
      "bo": 0,
      "bd": 0,
      "rang": 6,
@@ -383,10 +383,10 @@
    "horaireConnu": true,
    "dom": "Zebre",
    "ext": "Ulster",
-   "sd": 5,
-   "se": 19,
-   "fini": false,
-   "enCours": true,
+   "sd": 21,
+   "se": 40,
+   "fini": true,
+   "enCours": false,
    "stade": "Stadio Sergio Lanfranchi",
    "ville": "Parma",
    "note": "",
