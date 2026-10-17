@@ -1,5 +1,5 @@
 {
- "misAJour": "2026-10-17T06:53:47.571Z",
+ "misAJour": "2026-10-17T15:29:24.597Z",
  "slug": "champions-cup",
  "nom": "Champions Cup 2026-2027",
  "court": "Coupe d'Europe",
@@ -38,7 +38,7 @@
      "diff": 0,
      "bo": 0,
      "bd": 0,
-     "forme": ""
+     "forme": "W"
     },
     {
      "id": "25903",
@@ -86,7 +86,7 @@
      "diff": 0,
      "bo": 0,
      "bd": 0,
-     "forme": ""
+     "forme": "L"
     },
     {
      "id": "270567",
@@ -341,7 +341,7 @@
      "diff": 0,
      "bo": 0,
      "bd": 0,
-     "forme": ""
+     "forme": "W"
     },
     {
      "id": "25965",
@@ -405,7 +405,7 @@
      "diff": 0,
      "bo": 0,
      "bd": 0,
-     "forme": ""
+     "forme": "L"
     }
    ]
   }
@@ -433,9 +433,9 @@
    "horaireConnu": true,
    "dom": "Sale Sharks",
    "ext": "Glasgow Warriors",
-   "sd": null,
-   "se": null,
-   "fini": false,
+   "sd": 27,
+   "se": 47,
+   "fini": true,
    "enCours": false,
    "stade": "CorpAcq Stadium",
    "ville": "Salford",
@@ -449,9 +449,9 @@
    "horaireConnu": true,
    "dom": "Bulls",
    "ext": "Stade Français",
-   "sd": null,
-   "se": null,
-   "fini": false,
+   "sd": 56,
+   "se": 20,
+   "fini": true,
    "enCours": false,
    "stade": "Loftus Versfeld",
    "ville": "Pretoria",
@@ -465,10 +465,10 @@
    "horaireConnu": true,
    "dom": "Clermont",
    "ext": "Leinster",
-   "sd": null,
-   "se": null,
+   "sd": 16,
+   "se": 22,
    "fini": false,
-   "enCours": false,
+   "enCours": true,
    "stade": "Stade Marcel Michelin",
    "ville": "Clermont-Ferrand",
    "note": "",
@@ -481,10 +481,10 @@
    "horaireConnu": true,
    "dom": "Stormers",
    "ext": "Bristol",
-   "sd": null,
-   "se": null,
+   "sd": 21,
+   "se": 7,
    "fini": false,
-   "enCours": false,
+   "enCours": true,
    "stade": "DHL Stadium",
    "ville": "Cape Town",
    "note": "",

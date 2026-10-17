@@ -1,5 +1,5 @@
 {
- "misAJour": "2026-10-17T06:53:49.608Z",
+ "misAJour": "2026-10-17T15:29:25.425Z",
  "slug": "challenge-cup",
  "nom": "Challenge Cup 2026-2027",
  "court": "Challenge Cup",
@@ -111,6 +111,22 @@
    "poule": "Poule B",
    "equipes": [
     {
+     "id": "25968",
+     "equipe": "Ospreys",
+     "pts": 4,
+     "j": 1,
+     "g": 1,
+     "n": 0,
+     "p": 0,
+     "pour": 39,
+     "contre": 14,
+     "diff": 25,
+     "bo": 0,
+     "bd": 0,
+     "rang": 1,
+     "forme": "W"
+    },
+    {
      "id": "25986",
      "equipe": "Toulon",
      "pts": 4,
@@ -123,24 +139,8 @@
      "diff": 10,
      "bo": 0,
      "bd": 0,
-     "rang": 1,
-     "forme": "W"
-    },
-    {
-     "id": "289460",
-     "equipe": "Black Lion",
-     "pts": 0,
-     "j": 0,
-     "g": 0,
-     "n": 0,
-     "p": 0,
-     "pour": 0,
-     "contre": 0,
-     "diff": 0,
-     "bo": 0,
-     "bd": 0,
      "rang": 2,
-     "forme": ""
+     "forme": "W"
     },
     {
      "id": "25901",
@@ -159,22 +159,6 @@
      "forme": ""
     },
     {
-     "id": "25968",
-     "equipe": "Ospreys",
-     "pts": 0,
-     "j": 0,
-     "g": 0,
-     "n": 0,
-     "p": 0,
-     "pour": 0,
-     "contre": 0,
-     "diff": 0,
-     "bo": 0,
-     "bd": 0,
-     "rang": 4,
-     "forme": ""
-    },
-    {
      "id": "289337",
      "equipe": "Vannes",
      "pts": 0,
@@ -187,7 +171,7 @@
      "diff": 0,
      "bo": 0,
      "bd": 0,
-     "rang": 5,
+     "rang": 4,
      "forme": ""
     },
     {
@@ -203,6 +187,22 @@
      "diff": -10,
      "bo": 0,
      "bd": 0,
+     "rang": 5,
+     "forme": "L"
+    },
+    {
+     "id": "289460",
+     "equipe": "Black Lion",
+     "pts": 0,
+     "j": 1,
+     "g": 0,
+     "n": 0,
+     "p": 1,
+     "pour": 14,
+     "contre": 39,
+     "diff": -25,
+     "bo": 0,
+     "bd": 0,
      "rang": 6,
      "forme": "L"
     }
@@ -212,6 +212,38 @@
   {
    "poule": "Poule C",
    "equipes": [
+    {
+     "id": "25961",
+     "equipe": "Sharks",
+     "pts": 4,
+     "j": 1,
+     "g": 1,
+     "n": 0,
+     "p": 0,
+     "pour": 40,
+     "contre": 33,
+     "diff": 7,
+     "bo": 0,
+     "bd": 0,
+     "rang": 1,
+     "forme": "W"
+    },
+    {
+     "id": "143736",
+     "equipe": "Lyon",
+     "pts": 1,
+     "j": 1,
+     "g": 0,
+     "n": 0,
+     "p": 1,
+     "pour": 33,
+     "contre": 40,
+     "diff": -7,
+     "bo": 0,
+     "bd": 1,
+     "rang": 2,
+     "forme": "L"
+    },
     {
      "id": "25927",
      "equipe": "Benetton Treviso",
@@ -225,7 +257,7 @@
      "diff": 0,
      "bo": 0,
      "bd": 0,
-     "rang": 1,
+     "rang": 3,
      "forme": ""
     },
     {
@@ -241,23 +273,7 @@
      "diff": 0,
      "bo": 0,
      "bd": 0,
-     "rang": 2,
-     "forme": ""
-    },
-    {
-     "id": "143736",
-     "equipe": "Lyon",
-     "pts": 0,
-     "j": 0,
-     "g": 0,
-     "n": 0,
-     "p": 0,
-     "pour": 0,
-     "contre": 0,
-     "diff": 0,
-     "bo": 0,
-     "bd": 0,
-     "rang": 3,
+     "rang": 4,
      "forme": ""
     },
     {
@@ -273,28 +289,12 @@
      "diff": 0,
      "bo": 0,
      "bd": 0,
-     "rang": 4,
+     "rang": 5,
      "forme": ""
     },
     {
      "id": "25966",
      "equipe": "Scarlets",
-     "pts": 0,
-     "j": 0,
-     "g": 0,
-     "n": 0,
-     "p": 0,
-     "pour": 0,
-     "contre": 0,
-     "diff": 0,
-     "bo": 0,
-     "bd": 0,
-     "rang": 5,
-     "forme": ""
-    },
-    {
-     "id": "25961",
-     "equipe": "Sharks",
      "pts": 0,
      "j": 0,
      "g": 0,
@@ -351,9 +351,9 @@
    "horaireConnu": true,
    "dom": "Lyon",
    "ext": "Sharks",
-   "sd": null,
-   "se": null,
-   "fini": false,
+   "sd": 33,
+   "se": 40,
+   "fini": true,
    "enCours": false,
    "stade": "Matmut Stadium de Gerland",
    "ville": "Lyon",
@@ -367,9 +367,9 @@
    "horaireConnu": true,
    "dom": "Black Lion",
    "ext": "Ospreys",
-   "sd": null,
-   "se": null,
-   "fini": false,
+   "sd": 14,
+   "se": 39,
+   "fini": true,
    "enCours": false,
    "stade": "Avchala Stadium",
    "ville": "Tbilisi",
@@ -383,10 +383,10 @@
    "horaireConnu": true,
    "dom": "Zebre",
    "ext": "Ulster",
-   "sd": null,
-   "se": null,
+   "sd": 5,
+   "se": 19,
    "fini": false,
-   "enCours": false,
+   "enCours": true,
    "stade": "Stadio Sergio Lanfranchi",
    "ville": "Parma",
    "note": "",
