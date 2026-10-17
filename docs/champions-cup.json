@@ -1,5 +1,5 @@
 {
- "misAJour": "2026-10-17T00:26:21.850Z",
+ "misAJour": "2026-10-17T06:53:47.571Z",
  "slug": "champions-cup",
  "nom": "Champions Cup 2026-2027",
  "court": "Coupe d'Europe",
@@ -211,9 +211,41 @@
    "poule": "Poule 3",
    "equipes": [
     {
+     "id": "25900",
+     "equipe": "Gloucester",
+     "rang": 1,
+     "pts": 2,
+     "j": 1,
+     "g": 0,
+     "n": 1,
+     "p": 0,
+     "pour": 36,
+     "contre": 36,
+     "diff": 0,
+     "bo": 0,
+     "bd": 0,
+     "forme": "D"
+    },
+    {
+     "id": "143737",
+     "equipe": "Bordeaux-Bègles",
+     "rang": 2,
+     "pts": 2,
+     "j": 1,
+     "g": 0,
+     "n": 1,
+     "p": 0,
+     "pour": 36,
+     "contre": 36,
+     "diff": 0,
+     "bo": 0,
+     "bd": 0,
+     "forme": "D"
+    },
+    {
      "id": "25899",
      "equipe": "Bristol",
-     "rang": 1,
+     "rang": 3,
      "pts": 0,
      "j": 0,
      "g": 0,
@@ -227,25 +259,9 @@
      "forme": ""
     },
     {
-     "id": "25900",
-     "equipe": "Gloucester",
-     "rang": 2,
-     "pts": 0,
-     "j": 0,
-     "g": 0,
-     "n": 0,
-     "p": 0,
-     "pour": 0,
-     "contre": 0,
-     "diff": 0,
-     "bo": 0,
-     "bd": 0,
-     "forme": "D"
-    },
-    {
      "id": "25925",
      "equipe": "Munster",
-     "rang": 3,
+     "rang": 4,
      "pts": 0,
      "j": 0,
      "g": 0,
@@ -261,7 +277,7 @@
     {
      "id": "99855",
      "equipe": "Racing 92",
-     "rang": 4,
+     "rang": 5,
      "pts": 0,
      "j": 0,
      "g": 0,
@@ -277,22 +293,6 @@
     {
      "id": "25962",
      "equipe": "Stormers",
-     "rang": 5,
-     "pts": 0,
-     "j": 0,
-     "g": 0,
-     "n": 0,
-     "p": 0,
-     "pour": 0,
-     "contre": 0,
-     "diff": 0,
-     "bo": 0,
-     "bd": 0,
-     "forme": ""
-    },
-    {
-     "id": "143737",
-     "equipe": "Bordeaux-Bègles",
      "rang": 6,
      "pts": 0,
      "j": 0,
@@ -304,7 +304,7 @@
      "diff": 0,
      "bo": 0,
      "bd": 0,
-     "forme": "D"
+     "forme": ""
     }
    ]
   },
