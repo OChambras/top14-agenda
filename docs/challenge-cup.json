@@ -1,5 +1,5 @@
 {
- "misAJour": "2026-10-16T21:03:14.355Z",
+ "misAJour": "2026-10-17T00:26:23.264Z",
  "slug": "challenge-cup",
  "nom": "Challenge Cup 2026-2027",
  "court": "Challenge Cup",
@@ -8,6 +8,22 @@
   {
    "poule": "Poule A",
    "equipes": [
+    {
+     "id": "25967",
+     "equipe": "Dragons",
+     "pts": 4,
+     "j": 1,
+     "g": 1,
+     "n": 0,
+     "p": 0,
+     "pour": 29,
+     "contre": 14,
+     "diff": 15,
+     "bo": 0,
+     "bd": 0,
+     "rang": 1,
+     "forme": "W"
+    },
     {
      "id": "25912",
      "equipe": "Bayonne",
@@ -21,7 +37,7 @@
      "diff": 0,
      "bo": 0,
      "bd": 0,
-     "rang": 1,
+     "rang": 2,
      "forme": ""
     },
     {
@@ -37,39 +53,7 @@
      "diff": 0,
      "bo": 0,
      "bd": 0,
-     "rang": 2,
-     "forme": ""
-    },
-    {
-     "id": "25967",
-     "equipe": "Dragons",
-     "pts": 0,
-     "j": 0,
-     "g": 0,
-     "n": 0,
-     "p": 0,
-     "pour": 0,
-     "contre": 0,
-     "diff": 0,
-     "bo": 0,
-     "bd": 0,
      "rang": 3,
-     "forme": ""
-    },
-    {
-     "id": "25920",
-     "equipe": "Perpignan",
-     "pts": 0,
-     "j": 0,
-     "g": 0,
-     "n": 0,
-     "p": 0,
-     "pour": 0,
-     "contre": 0,
-     "diff": 0,
-     "bo": 0,
-     "bd": 0,
-     "rang": 4,
      "forme": ""
     },
     {
@@ -85,7 +69,7 @@
      "diff": 0,
      "bo": 0,
      "bd": 0,
-     "rang": 5,
+     "rang": 4,
      "forme": ""
     },
     {
@@ -101,8 +85,24 @@
      "diff": 0,
      "bo": 0,
      "bd": 0,
-     "rang": 6,
+     "rang": 5,
      "forme": ""
+    },
+    {
+     "id": "25920",
+     "equipe": "Perpignan",
+     "pts": 0,
+     "j": 1,
+     "g": 0,
+     "n": 0,
+     "p": 1,
+     "pour": 14,
+     "contre": 29,
+     "diff": -15,
+     "bo": 0,
+     "bd": 0,
+     "rang": 6,
+     "forme": "L"
     }
    ],
    "approximatif": true
@@ -319,10 +319,10 @@
    "horaireConnu": true,
    "dom": "Dragons",
    "ext": "Perpignan",
-   "sd": 27,
+   "sd": 29,
    "se": 14,
-   "fini": false,
-   "enCours": true,
+   "fini": true,
+   "enCours": false,
    "stade": "Rodney Parade",
    "ville": "Newport",
    "note": "",
