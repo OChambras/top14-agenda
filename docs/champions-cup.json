@@ -1,5 +1,5 @@
 {
- "misAJour": "2026-10-18T04:25:56.196Z",
+ "misAJour": "2026-10-18T15:49:04.608Z",
  "slug": "champions-cup",
  "nom": "Champions Cup 2026-2027",
  "court": "Coupe d'Europe",
@@ -54,7 +54,7 @@
      "diff": 0,
      "bo": 0,
      "bd": 0,
-     "forme": ""
+     "forme": "L"
     },
     {
      "id": "270567",
@@ -70,7 +70,7 @@
      "diff": 0,
      "bo": 0,
      "bd": 0,
-     "forme": ""
+     "forme": "W"
     },
     {
      "id": "25908",
@@ -561,9 +561,9 @@
    "horaireConnu": true,
    "dom": "Pau",
    "ext": "Leicester Tigers",
-   "sd": null,
-   "se": null,
-   "fini": false,
+   "sd": 41,
+   "se": 17,
+   "fini": true,
    "enCours": false,
    "stade": "Stade du Hameau",
    "ville": "Pau",
@@ -577,10 +577,10 @@
    "horaireConnu": true,
    "dom": "Stade Toulousain",
    "ext": "Exeter Chiefs",
-   "sd": null,
-   "se": null,
+   "sd": 24,
+   "se": 33,
    "fini": false,
-   "enCours": false,
+   "enCours": true,
    "stade": "Stadium de Toulouse",
    "ville": "Toulouse",
    "note": "",
