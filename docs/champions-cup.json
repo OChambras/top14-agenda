@@ -1,5 +1,5 @@
 {
- "misAJour": "2026-10-17T22:15:36.569Z",
+ "misAJour": "2026-10-18T00:03:08.830Z",
  "slug": "champions-cup",
  "nom": "Champions Cup 2026-2027",
  "court": "Coupe d'Europe",
@@ -227,9 +227,25 @@
      "forme": "W"
     },
     {
+     "id": "25925",
+     "equipe": "Munster",
+     "rang": 2,
+     "pts": 4,
+     "j": 1,
+     "g": 1,
+     "n": 0,
+     "p": 0,
+     "pour": 33,
+     "contre": 25,
+     "diff": 8,
+     "bo": 0,
+     "bd": 0,
+     "forme": "W"
+    },
+    {
      "id": "25900",
      "equipe": "Gloucester",
-     "rang": 2,
+     "rang": 3,
      "pts": 2,
      "j": 1,
      "g": 0,
@@ -245,7 +261,7 @@
     {
      "id": "143737",
      "equipe": "Bordeaux-Bègles",
-     "rang": 3,
+     "rang": 4,
      "pts": 2,
      "j": 1,
      "g": 0,
@@ -259,33 +275,17 @@
      "forme": "D"
     },
     {
-     "id": "25925",
-     "equipe": "Munster",
-     "rang": 4,
-     "pts": 0,
-     "j": 0,
-     "g": 0,
-     "n": 0,
-     "p": 0,
-     "pour": 0,
-     "contre": 0,
-     "diff": 0,
-     "bo": 0,
-     "bd": 0,
-     "forme": "W"
-    },
-    {
      "id": "99855",
      "equipe": "Racing 92",
      "rang": 5,
      "pts": 0,
-     "j": 0,
+     "j": 1,
      "g": 0,
      "n": 0,
-     "p": 0,
-     "pour": 0,
-     "contre": 0,
-     "diff": 0,
+     "p": 1,
+     "pour": 25,
+     "contre": 33,
+     "diff": -8,
      "bo": 0,
      "bd": 0,
      "forme": "L"
@@ -328,20 +328,20 @@
      "forme": "W"
     },
     {
-     "id": "25898",
-     "equipe": "Bath",
+     "id": "25918",
+     "equipe": "Montpellier",
      "rang": 2,
-     "pts": 0,
-     "j": 0,
-     "g": 0,
+     "pts": 4,
+     "j": 1,
+     "g": 1,
      "n": 0,
      "p": 0,
-     "pour": 0,
-     "contre": 0,
-     "diff": 0,
+     "pour": 32,
+     "contre": 14,
+     "diff": 18,
      "bo": 0,
      "bd": 0,
-     "forme": "L"
+     "forme": "W"
     },
     {
      "id": "25965",
@@ -360,8 +360,8 @@
      "forme": ""
     },
     {
-     "id": "25918",
-     "equipe": "Montpellier",
+     "id": "25907",
+     "equipe": "Northampton Saints",
      "rang": 4,
      "pts": 0,
      "j": 0,
@@ -373,23 +373,23 @@
      "diff": 0,
      "bo": 0,
      "bd": 0,
-     "forme": "W"
+     "forme": ""
     },
     {
-     "id": "25907",
-     "equipe": "Northampton Saints",
+     "id": "25898",
+     "equipe": "Bath",
      "rang": 5,
      "pts": 0,
-     "j": 0,
+     "j": 1,
      "g": 0,
      "n": 0,
-     "p": 0,
-     "pour": 0,
-     "contre": 0,
-     "diff": 0,
+     "p": 1,
+     "pour": 14,
+     "contre": 32,
+     "diff": -18,
      "bo": 0,
      "bd": 0,
-     "forme": ""
+     "forme": "L"
     },
     {
      "id": "25921",
