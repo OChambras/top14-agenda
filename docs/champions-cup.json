@@ -1,5 +1,5 @@
 {
- "misAJour": "2026-10-18T22:24:27.295Z",
+ "misAJour": "2026-10-19T19:53:12.297Z",
  "slug": "champions-cup",
  "nom": "Champions Cup 2026-2027",
  "court": "Coupe d'Europe",
@@ -693,8 +693,8 @@
    "se": null,
    "fini": false,
    "enCours": false,
-   "stade": "",
-   "ville": "",
+   "stade": "Laya Arena",
+   "ville": "Dublin",
    "note": "",
    "poule": "Poule 1",
    "journee": 2
@@ -741,8 +741,8 @@
    "se": null,
    "fini": false,
    "enCours": false,
-   "stade": "",
-   "ville": "",
+   "stade": "Cardiff Arms Park",
+   "ville": "Cardiff",
    "note": "",
    "poule": "Poule 4",
    "journee": 2
