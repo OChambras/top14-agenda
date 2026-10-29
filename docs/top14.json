@@ -1,5 +1,5 @@
 {
- "misAJour": "2026-10-29T12:54:51.508Z",
+ "misAJour": "2026-10-29T19:36:17.205Z",
  "slug": "top14",
  "nom": "Top 14 2026-2027",
  "court": "Top 14",
@@ -1019,6 +1019,22 @@
    "note": "",
    "poule": "",
    "journee": 7
+  },
+  {
+   "id": "604414",
+   "date": "2026-11-01T14:00Z",
+   "horaireConnu": true,
+   "dom": "Montpellier",
+   "ext": "Castres",
+   "sd": null,
+   "se": null,
+   "fini": false,
+   "enCours": false,
+   "stade": "Septeo Stadium",
+   "ville": "Montpellier",
+   "note": "",
+   "poule": "",
+   "journee": 8
   },
   {
    "id": "604416",
