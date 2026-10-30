@@ -1,5 +1,5 @@
 {
- "misAJour": "2026-10-29T19:36:17.205Z",
+ "misAJour": "2026-10-30T05:41:13.828Z",
  "slug": "top14",
  "nom": "Top 14 2026-2027",
  "court": "Top 14",
@@ -1134,8 +1134,8 @@
   },
   {
    "id": "604417",
-   "date": "2026-11-08T00:00Z",
-   "horaireConnu": false,
+   "date": "2026-11-08T14:00Z",
+   "horaireConnu": true,
    "dom": "Vannes",
    "ext": "Bordeaux-Bègles",
    "sd": null,
