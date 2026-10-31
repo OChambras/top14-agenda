@@ -1,5 +1,5 @@
 {
- "misAJour": "2026-10-31T18:30:20.137Z",
+ "misAJour": "2026-10-31T23:21:28.941Z",
  "slug": "top14",
  "nom": "Top 14 2026-2027",
  "court": "Top 14",
@@ -73,9 +73,25 @@
      "forme": "WWLWWWL"
     },
     {
+     "id": "25986",
+     "equipe": "Toulon",
+     "rang": 5,
+     "pts": 21,
+     "j": 8,
+     "g": 4,
+     "n": 0,
+     "p": 4,
+     "pour": 196,
+     "contre": 174,
+     "diff": 22,
+     "bo": 2,
+     "bd": 3,
+     "forme": "LLLWLWW"
+    },
+    {
      "id": "25912",
      "equipe": "Bayonne",
-     "rang": 5,
+     "rang": 6,
      "pts": 19,
      "j": 8,
      "g": 4,
@@ -91,7 +107,7 @@
     {
      "id": "25921",
      "equipe": "Stade Français",
-     "rang": 6,
+     "rang": 7,
      "pts": 19,
      "j": 8,
      "g": 4,
@@ -107,7 +123,7 @@
     {
      "id": "25918",
      "equipe": "Montpellier",
-     "rang": 7,
+     "rang": 8,
      "pts": 18,
      "j": 7,
      "g": 4,
@@ -123,7 +139,7 @@
     {
      "id": "119318",
      "equipe": "La Rochelle",
-     "rang": 8,
+     "rang": 9,
      "pts": 18,
      "j": 8,
      "g": 4,
@@ -135,22 +151,6 @@
      "bo": 2,
      "bd": 0,
      "forme": "WWLLWWL"
-    },
-    {
-     "id": "25986",
-     "equipe": "Toulon",
-     "rang": 9,
-     "pts": 17,
-     "j": 7,
-     "g": 3,
-     "n": 0,
-     "p": 4,
-     "pour": 171,
-     "contre": 150,
-     "diff": 21,
-     "bo": 2,
-     "bd": 3,
-     "forme": "LLLWLWW"
     },
     {
      "id": "25917",
@@ -172,16 +172,16 @@
      "id": "25920",
      "equipe": "Perpignan",
      "rang": 11,
-     "pts": 14,
-     "j": 7,
+     "pts": 15,
+     "j": 8,
      "g": 3,
      "n": 0,
-     "p": 4,
-     "pour": 199,
-     "contre": 237,
-     "diff": -38,
+     "p": 5,
+     "pour": 223,
+     "contre": 262,
+     "diff": -39,
      "bo": 0,
-     "bd": 2,
+     "bd": 3,
      "forme": "LWLWLWL"
     },
     {
