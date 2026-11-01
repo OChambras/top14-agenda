@@ -1,5 +1,5 @@
 {
- "misAJour": "2026-10-31T23:21:28.941Z",
+ "misAJour": "2026-11-01T18:53:49.309Z",
  "slug": "top14",
  "nom": "Top 14 2026-2027",
  "court": "Top 14",
@@ -41,9 +41,25 @@
      "forme": "WLWLWWW"
     },
     {
+     "id": "25918",
+     "equipe": "Montpellier",
+     "rang": 3,
+     "pts": 23,
+     "j": 8,
+     "g": 5,
+     "n": 0,
+     "p": 3,
+     "pour": 252,
+     "contre": 149,
+     "diff": 103,
+     "bo": 3,
+     "bd": 0,
+     "forme": "LWWLWLWW"
+    },
+    {
      "id": "143736",
      "equipe": "Lyon",
-     "rang": 3,
+     "rang": 4,
      "pts": 23,
      "j": 8,
      "g": 5,
@@ -59,7 +75,7 @@
     {
      "id": "270567",
      "equipe": "Pau",
-     "rang": 4,
+     "rang": 5,
      "pts": 22,
      "j": 7,
      "g": 5,
@@ -75,7 +91,7 @@
     {
      "id": "25986",
      "equipe": "Toulon",
-     "rang": 5,
+     "rang": 6,
      "pts": 21,
      "j": 8,
      "g": 4,
@@ -91,7 +107,7 @@
     {
      "id": "25912",
      "equipe": "Bayonne",
-     "rang": 6,
+     "rang": 7,
      "pts": 19,
      "j": 8,
      "g": 4,
@@ -107,7 +123,7 @@
     {
      "id": "25921",
      "equipe": "Stade Français",
-     "rang": 7,
+     "rang": 8,
      "pts": 19,
      "j": 8,
      "g": 4,
@@ -119,22 +135,6 @@
      "bo": 2,
      "bd": 1,
      "forme": "WLLWLWL"
-    },
-    {
-     "id": "25918",
-     "equipe": "Montpellier",
-     "rang": 8,
-     "pts": 18,
-     "j": 7,
-     "g": 4,
-     "n": 0,
-     "p": 3,
-     "pour": 183,
-     "contre": 139,
-     "diff": 44,
-     "bo": 2,
-     "bd": 0,
-     "forme": "LWWLWLW"
     },
     {
      "id": "119318",
@@ -189,16 +189,16 @@
      "equipe": "Castres",
      "rang": 12,
      "pts": 13,
-     "j": 7,
+     "j": 8,
      "g": 3,
      "n": 0,
-     "p": 4,
-     "pour": 142,
-     "contre": 161,
-     "diff": -19,
+     "p": 5,
+     "pour": 152,
+     "contre": 230,
+     "diff": -78,
      "bo": 0,
      "bd": 1,
-     "forme": "WLWLLLW"
+     "forme": "WLWLLLWL"
     },
     {
      "id": "99855",
@@ -1026,9 +1026,9 @@
    "horaireConnu": true,
    "dom": "Montpellier",
    "ext": "Castres",
-   "sd": null,
-   "se": null,
-   "fini": false,
+   "sd": 69,
+   "se": 10,
+   "fini": true,
    "enCours": false,
    "stade": "Septeo Stadium",
    "ville": "Montpellier",
