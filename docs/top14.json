@@ -1,5 +1,5 @@
 {
- "misAJour": "2026-11-01T18:53:49.309Z",
+ "misAJour": "2026-11-01T23:33:28.337Z",
  "slug": "top14",
  "nom": "Top 14 2026-2027",
  "court": "Top 14",
@@ -22,7 +22,7 @@
      "diff": 78,
      "bo": 3,
      "bd": 1,
-     "forme": "LWWWWWW"
+     "forme": "LWWWWWWL"
     },
     {
      "id": "143737",
@@ -86,7 +86,7 @@
      "diff": 37,
      "bo": 2,
      "bd": 0,
-     "forme": "WWLWWWL"
+     "forme": "WWLWWWLW"
     },
     {
      "id": "25986",
@@ -1042,9 +1042,9 @@
    "horaireConnu": true,
    "dom": "Pau",
    "ext": "Stade Toulousain",
-   "sd": null,
-   "se": null,
-   "fini": false,
+   "sd": 34,
+   "se": 14,
+   "fini": true,
    "enCours": false,
    "stade": "Stade du Hameau",
    "ville": "Pau",

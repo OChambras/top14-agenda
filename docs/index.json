@@ -1,12 +1,12 @@
 {
- "misAJour": "2026-11-01T18:53:52.428Z",
+ "misAJour": "2026-11-01T23:33:30.924Z",
  "competitions": [
   {
    "slug": "top14",
    "nom": "Top 14 2026-2027",
    "court": "Top 14",
    "matchs": 177,
-   "joues": 50,
+   "joues": 51,
    "debut": "2026-09-05T17:05Z",
    "fin": "2027-06-05T00:00Z"
   },
