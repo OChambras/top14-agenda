@@ -1,5 +1,5 @@
 {
- "misAJour": "2026-11-07T21:45:34.417Z",
+ "misAJour": "2026-11-08T16:38:34.117Z",
  "slug": "top14",
  "nom": "Top 14 2026-2027",
  "court": "Top 14",
@@ -61,16 +61,16 @@
      "equipe": "Bordeaux-Bègles",
      "rang": 4,
      "pts": 27,
-     "j": 8,
+     "j": 9,
      "g": 6,
      "n": 0,
-     "p": 2,
-     "pour": 259,
-     "contre": 184,
-     "diff": 75,
+     "p": 3,
+     "pour": 273,
+     "contre": 207,
+     "diff": 66,
      "bo": 3,
      "bd": 0,
-     "forme": "WLWLWWW"
+     "forme": "WLWLWWWL"
     },
     {
      "id": "25986",
@@ -220,17 +220,17 @@
      "id": "289337",
      "equipe": "Vannes",
      "rang": 14,
-     "pts": 5,
-     "j": 8,
-     "g": 1,
+     "pts": 9,
+     "j": 9,
+     "g": 2,
      "n": 0,
      "p": 7,
-     "pour": 169,
-     "contre": 250,
-     "diff": -81,
+     "pour": 192,
+     "contre": 264,
+     "diff": -72,
      "bo": 0,
      "bd": 1,
-     "forme": "LLLLLLW"
+     "forme": "LLLLLLWW"
     }
    ]
   }
@@ -1138,9 +1138,9 @@
    "horaireConnu": true,
    "dom": "Vannes",
    "ext": "Bordeaux-Bègles",
-   "sd": null,
-   "se": null,
-   "fini": false,
+   "sd": 23,
+   "se": 14,
+   "fini": true,
    "enCours": false,
    "stade": "Stade de la Beaujoire",
    "ville": "Nantes",
